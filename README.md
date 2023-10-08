@@ -115,6 +115,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * https://t.me/RetroBits (Group)
 * https://t.me/RetroCacharreo (Group)
 * https://t.me/retrocompMurcia (Channel)
+* https://t.me/RetrocryptaRecords (Channel)
 * https://t.me/RetroDevSpain (Group)
 * https://t.me/retrogamers80 (Channel)
 * https://t.me/retrogames_telegram (Group)
