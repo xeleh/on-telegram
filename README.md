@@ -181,7 +181,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * https://t.me/zxgfx (Group)
 * https://t.me/zxnews (Channel)
 
-### Portuguese
+### Portuguese
 
 * https://t.me/clubemsx (Channel)
 * https://t.me/retropc_br (Group)
@@ -307,7 +307,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * https://t.me/unrealassetspain (Group)
 * https://t.me/UnrealEngineESP (Group)
 
-### Russian
+### Russian
 
 * https://t.me/devjobs (Channel)
 * https://t.me/DevJobs_Resume (Channel)
