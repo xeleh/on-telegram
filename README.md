@@ -4,10 +4,10 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro)  
-[Demoscene](#Demoscene)  
-[GameDev](#GameDev)  
-[AI](#AI)  
+[Retro](#Retro) (183 links)  
+[Demoscene](#Demoscene) (31 links)  
+[GameDev](#GameDev) (57 links)  
+[AI](#AI) (77 links)  
 
 Please feel free to create an issue or PR if you know other Telegram groups/channels (preferably those with a description) that may fit.
 
