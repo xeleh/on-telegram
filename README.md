@@ -6,7 +6,7 @@ Subjects:
 
 [Retro](#Retro) (197 links)  
 [Demoscene](#Demoscene) (31 links)  
-[GameDev](#GameDev) (57 links)  
+[GameDev](#GameDev) (62 links)  
 [AI](#AI) (77 links)  
 
 Please feel free to create an issue or PR if you know other Telegram groups/channels (preferably those with a description) that may fit.
@@ -297,6 +297,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [GameDev Pulse](https://t.me/GameDEV) (Channel)
 * [Games Development](https://t.me/games_developments) (Channel)
 * [Learn it Godot](https://t.me/Learn_it_Godot) (Channel)
+* [Phaser](https://t.me/phaserjs) (Channel)
 * [r/Unity3D](https://t.me/r_Unity3D) (Channel)
 * [Unity Asset Collection (Daily Update)](https://t.me/unity_asset_collection) (Channel)
 * [Unity Assets List](https://t.me/unity_assets_vip) (Channel)
@@ -324,6 +325,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [GameDev.ES](https://t.me/gamedev_es) (Group)
 * [Godot Cuba](https://t.me/GodotCuba) (Group)
 * [GODOT Español](https://t.me/ForoGodot) (Group)
+* [Phaserjs Recursos](https://t.me/phaserjs_recursos) (Channel)
 * [Programación Godot Engine](https://t.me/godotspanish) (Group)
 * [SGD Forum](https://t.me/foro_spaingamedevs) (Group)
 * [Spain Game Devs Noticias](https://t.me/spaingamedevsnews) (Channel)
@@ -342,9 +344,15 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Game Development UA](https://t.me/gamedevua) (Group)
 * [GameDev Assets](https://t.me/GameDevAssets) (Channel)
 * [GameDEV](https://t.me/game_devz) (Channel)
+* [Game Maker RU](https://t.me/gamemaker_ru) (Group)
 * [Godot Engine (Russian)](https://t.me/godot_engine) (Group)
 * [Unity3D & CG / Unity 3D](https://t.me/unity3d_usergroup) (Group)
 * [Unreal Engine: Blueprints](https://t.me/ue_blueprints) (Channel)
+
+### Italian
+
+* [GMI](https://t.me/gamemakeritalia) (Group)
+* [Unity Italia](https://t.me/UnityItalia) (Group)
 
 ### Portuguese
 
