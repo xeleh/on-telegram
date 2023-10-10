@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (194 links)  
+[Retro](#Retro) (197 links)  
 [Demoscene](#Demoscene) (31 links)  
 [GameDev](#GameDev) (57 links)  
 [AI](#AI) (77 links)  
@@ -178,11 +178,13 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 ### Russian
 
 * [AmigaRu](https://t.me/amigaru) (Group)
+* [Apple II, Правец 8, Агат](https://t.me/appleIIe) (Group)
 * [Atari Russian Corner](https://t.me/atari_corner) (Group)
 * [Atari XL/XE](https://t.me/atari_xl_xe) (Group)
 * [CommodoreChat](https://t.me/c64chat) (Group)
 * [ENTERPRISE retrocomp](https://t.me/Enterprise_retrocomp) (Group)
 * [GB development](https://t.me/gameboy_development) (Channel)
+* [Ms-Dos (ЭлектроФлудилка)](https://t.me/MsDos_PC) (Group)
 * [Paw Noir C64 devlog](https://t.me/paw_noir) (Channel)
 * [Retro Development](https://t.me/RetroDevelopment) (Group)
 * [retrodevs](https://t.me/retrodevs) (Group)
@@ -219,6 +221,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 ### Italian
 
 * [Commodore 64](https://t.me/commodorec64) (Channel)
+* [MS-DOS ITALIA](https://t.me/msdositalia) (Group)
 * [RetroComputer & RetroGaming World](https://t.me/retrocomputerworld) (Channel)
 * [Retrocomputer Italia](https://t.me/retrocomputeritalia) (Channel)
 * [Retrocomputer Italia](https://t.me/retrocomputingitalia) (Group)
