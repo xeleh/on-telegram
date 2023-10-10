@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (183 links)  
+[Retro](#Retro) (194 links)  
 [Demoscene](#Demoscene) (31 links)  
 [GameDev](#GameDev) (57 links)  
 [AI](#AI) (77 links)  
@@ -17,8 +17,6 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 ### English
 
-* [千ⓜ тσώภＳ 𝔀Ỗ𝓡ℓ๔](https://t.me/FMT_X68K) (Group)
-* [Retro Gamer Furs](https://t.me/RetroGamerFurs) (Group)
 * [8bit text adventures](https://t.me/Advent8bit) (Group)
 * [8bit.fm](https://t.me/bit8fm) (Channel)
 * [8bits4ever](https://t.me/eightbitsforever) (Group)
@@ -36,16 +34,25 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Interesting Computers and Retro Fun](https://t.me/RetroCompu) (Channel)
 * [m68k](https://t.me/m68k_info) (Group)
 * [MASTER BOOT RECORD](https://t.me/master_boot_record) (Channel)
+* [NeoGeo Fans](https://t.me/neogeofans) (Group)
+* [NeoGeoCFW](https://t.me/NeoGeoCFW) (Channel)
+* [Nintendo 64](https://t.me/RomSet_Nintendo64) (Channel)
 * [Retro Computer Furs 2.0](https://t.me/RetroComputerFursv2) (Group)
 * [Retro game ROMs](https://t.me/retrogamer) (Channel)
+* [Retro Gamer Furs](https://t.me/RetroGamerFurs) (Group)
 * [Retro Games](https://t.me/retrogames) (Channel)
 * [retrocomputingbr](https://t.me/retrocomputingbr) (Group)
 * [RetroMagazine World](https://t.me/RetroMagazineW) (Channel)
+* [roms_neogeo](https://t.me/roms_neogeo) (Channel)
 * [RomsDS](https://t.me/RomsDS) (Channel)
+* [RomSet Neo-Geo CD](https://t.me/RomSet_NeoGeoCD) (Channel)
+* [RomSet Neo-Geo](https://t.me/RomSet_NeoGeo) (Channel)
 * [RomsPokemon](https://t.me/RomsPokemon) (Channel)
+* [Sega Saturn](https://t.me/RomSet_SegaSaturn) (Channel)
 * [Vamped Amiga](https://t.me/vampedamiga) (Group)
 * [Vintage Anthro Computer Coders](https://t.me/vintageanthrocomputercoders) (Group)
 * [z88dk](https://t.me/z88dk_org) (Group)
+* [千ⓜ тσώภＳ 𝔀Ỗ𝓡ℓ๔](https://t.me/FMT_X68K) (Group)
 
 ### Spanish
 
@@ -60,6 +67,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Amigawave audios](https://t.me/amigawaveaudios) (Channel)
 * [AminetOS](https://t.me/AminetOS) (Group)
 * [Amstrad Eterno](https://t.me/amstradeterno) (Group)
+* [AMSTRAD POWER LiliCPC](https://t.me/LiliCPC) (Group)
 * [AMSTRAD POWER](https://t.me/amstradpower) (Group)
 * [Aportes Comunidad Atari](https://t.me/comunidad_atari_aportes) (Group)
 * [ARCADIUM The Online RetroGaming System](https://t.me/ArcadiumRetroSystem) (Group)
@@ -88,6 +96,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [El laberinto de PacMan](https://t.me/laberintopacman) (Group)
 * [El mundo del Spectrum Podcast](https://t.me/joinchat/CLSbG1jr4OmhoKFiR2_UVQ) (Group)
 * [Emulacion TVBox EmuELEC.](https://t.me/Emutvbox) (Group)
+* [Emuladores — Roms — PS1 — SEGA — NEOGEO](https://t.me/Emuladoresromsneogeosega) (Channel)
 * [Ensamblador 6502](https://t.me/Ensamblador_6502) (Group)
 * [Ensamblador 68000](https://t.me/Ensamblador_68000) (Group)
 * [Ensamblador Z80 (ZX Spectrum, Amstrad, MSX y más)](https://t.me/EnsambladorZXSpectrum) (Group)
@@ -99,7 +108,6 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Juanje Juega](https://t.me/canaldejuanje) (Channel)
 * [Kaoto Store](https://t.me/KaotoStore) (Channel)
 * [La ACHUS - Recreativos](https://t.me/+AHJ_8KbVYsI2MTdk) (Group)
-* [AMSTRAD POWER LiliCPC](https://t.me/LiliCPC) (Group)
 * [Macintosh classic 68k y PPC](https://t.me/mac68kPPC) (Group)
 * [Mega Drive/Genesis ROMs](https://t.me/MegaDriveROMsGenesis) (Channel)
 * [MiST / Mistica / SiDi](https://t.me/joinchat/KSh_qRCyjLDELhkMgHixtg) (Group)
@@ -154,6 +162,9 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [RetroStoneES+](https://t.me/RSESplus) (Channel)
 * [RetroSyS](https://t.me/RetroSysW) (Channel)
 * [Revistas_Retro (ES)](https://t.me/joinchat/AAAAAE8OEyfSoutoIv6B8g) (Channel)
+* [ROMS PSP](https://t.me/ROMSET_PSP) (Channel)
+* [romset gamecube](https://t.me/gamecubeextrem) (Channel)
+* [Romset PSX](https://t.me/romsetpsx) (Channel)
 * [SG-1000](https://t.me/+ih6QScTUCIphNDk0) (Channel)
 * [Sharp X68000 Español](https://t.me/+7KOc69bLQBxlMTNk) (Group)
 * [Spectrum Next ES](https://t.me/zxnext) (Group)
