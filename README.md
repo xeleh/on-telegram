@@ -6,7 +6,7 @@ Subjects:
 
 [Retro](#Retro) (196 links)  
 [Demoscene](#Demoscene) (31 links)  
-[GameDev](#GameDev) (62 links)  
+[GameDev](#GameDev) (64 links)  
 [AI](#AI) (77 links)  
 
 Please feel free to create an issue or PR if you know other Telegram groups/channels (preferably those with a description) that may fit.
@@ -326,9 +326,11 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [GODOT Español](https://t.me/ForoGodot) (Group)
 * [Phaserjs Recursos](https://t.me/phaserjs_recursos) (Channel)
 * [Programación Godot Engine](https://t.me/godotspanish) (Group)
+* [SGD Colabs](https://t.me/sgdcolabs) (Group)
 * [SGD Forum](https://t.me/foro_spaingamedevs) (Group)
 * [Spain Game Devs Noticias](https://t.me/spaingamedevsnews) (Channel)
 * [Spain Game Devs](https://t.me/spaingamedevs) (Group)
+* [Spain Godot Devs](https://t.me/spaingodotdevs) (Group)
 * [unity development for consoles](https://t.me/unitydevcon) (Group)
 * [Unity](https://t.me/unity3dspain) (Group)
 * [Unity3D Sevilla](https://t.me/unity3dsevilla) (Group)
