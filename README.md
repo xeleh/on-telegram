@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (197 links)  
+[Retro](#Retro) (196 links)  
 [Demoscene](#Demoscene) (31 links)  
 [GameDev](#GameDev) (62 links)  
 [AI](#AI) (77 links)  
@@ -162,7 +162,6 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [RetroStoneES+](https://t.me/RSESplus) (Channel)
 * [RetroSyS](https://t.me/RetroSysW) (Channel)
 * [Revistas_Retro (ES)](https://t.me/joinchat/AAAAAE8OEyfSoutoIv6B8g) (Channel)
-* [ROMS PSP](https://t.me/ROMSET_PSP) (Channel)
 * [romset gamecube](https://t.me/gamecubeextrem) (Channel)
 * [Romset PSX](https://t.me/romsetpsx) (Channel)
 * [SG-1000](https://t.me/+ih6QScTUCIphNDk0) (Channel)
