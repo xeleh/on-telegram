@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (196 links)  
+[Retro](#Retro) (199 links)  
 [Demoscene](#Demoscene) (31 links)  
 [GameDev](#GameDev) (64 links)  
 [AI](#AI) (77 links)  
@@ -183,9 +183,11 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [CommodoreChat](https://t.me/c64chat) (Group)
 * [ENTERPRISE retrocomp](https://t.me/Enterprise_retrocomp) (Group)
 * [GB development](https://t.me/gameboy_development) (Channel)
+* [Limowski' Precious Little Life](https://t.me/retrodevicesnerd) (Channel)
 * [Ms-Dos (ЭлектроФлудилка)](https://t.me/MsDos_PC) (Group)
 * [Paw Noir C64 devlog](https://t.me/paw_noir) (Channel)
 * [Retro Development](https://t.me/RetroDevelopment) (Group)
+* [retrodevil](https://t.me/retrodevil) (Group)
 * [retrodevs](https://t.me/retrodevs) (Group)
 * [Ru_PDP](https://t.me/ru_pdp) (Group)
 * [speccy code](https://t.me/speccy_code) (Group)
@@ -205,6 +207,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [ZXDev.Masters](https://t.me/zxdev_masters) (Group)
 * [zxgfx](https://t.me/zxgfx) (Group)
 * [АТМ, ZxEvo, BaseConf](https://t.me/atm_zxevo_baseconf) (Group)
+* [Картриджи из детства](https://t.me/retroinfo) (Channel)
 * [ПК на 8088|8086](https://t.me/PC8086) (Group)
 
 ### Portuguese
