@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (199 links)  
+[Retro](#Retro) (202 links)  
 [Demoscene](#Demoscene) (31 links)  
 [GameDev](#GameDev) (64 links)  
 [AI](#AI) (77 links)  
@@ -144,6 +144,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Raspberry Pi EMULADORES Retro VIDEOJUEGOS](https://t.me/RaspberryPiEmuladores) (Group)
 * [Retro 8 bits](https://t.me/Retro8bits) (Group)
 * [Retro Aventurαѕ](https://t.me/RetroAventuras) (Group)
+* [Retro Emuladores](https://t.me/retroRomsChe) (Channel)
+* [RETRO EMULADORES](https://t.me/romespanol) (Channel)
 * [Retro ES](https://t.me/Retro_Spain) (Group)
 * [Retro Games](https://t.me/retrogames_telegram) (Group)
 * [Retro PC Spain](https://t.me/Retro_PC_Spain) (Group)
@@ -167,6 +169,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [SG-1000](https://t.me/+ih6QScTUCIphNDk0) (Channel)
 * [Sharp X68000 Español](https://t.me/+7KOc69bLQBxlMTNk) (Group)
 * [Spectrum Next ES](https://t.me/zxnext) (Group)
+* [Steam deck emuladores](https://t.me/steamdeckemuladores) (Channel)
 * [Tugurio Computacional](https://t.me/tuguriocomputacional) (Channel)
 * [UnAmiga Español](https://t.me/joinchat/FDjURBAeiE1hmVZbMWfGWg) (Group)
 * [WinUAEspañol](https://t.me/winuaespanol) (Group)
