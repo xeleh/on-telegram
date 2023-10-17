@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (202 links)  
+[Retro](#Retro) (206 links)  
 [Demoscene](#Demoscene) (31 links)  
 [GameDev](#GameDev) (64 links)  
 [AI](#AI) (77 links)  
@@ -70,6 +70,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [AMSTRAD POWER LiliCPC](https://t.me/LiliCPC) (Group)
 * [AMSTRAD POWER](https://t.me/amstradpower) (Group)
 * [Aportes Comunidad Atari](https://t.me/comunidad_atari_aportes) (Group)
+* [Arcades RetroAl Canal Oficial](https://t.me/arcades_retroal_canal_oficial) (Channel)
+* [Arcadespain](https://t.me/arcadespain) (Channel)
 * [ARCADIUM The Online RetroGaming System](https://t.me/ArcadiumRetroSystem) (Group)
 * [ATARI ST GRUPO USUARIOS ESPAÑOL](https://t.me/joinchat/FoBR_wgmo-aACm2I) (Group)
 * [Atari ST/E Games](https://t.me/AtariSTGames) (Group)
@@ -109,6 +111,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Kaoto Store](https://t.me/KaotoStore) (Channel)
 * [La ACHUS - Recreativos](https://t.me/+AHJ_8KbVYsI2MTdk) (Group)
 * [Macintosh classic 68k y PPC](https://t.me/mac68kPPC) (Group)
+* [MAME32 OFICIAL - EMULADOR DE ARCADES](https://t.me/MAME32DESCARGAS) (Channel)
 * [Mega Drive/Genesis ROMs](https://t.me/MegaDriveROMsGenesis) (Channel)
 * [MiST / Mistica / SiDi](https://t.me/joinchat/KSh_qRCyjLDELhkMgHixtg) (Group)
 * [Mongo 32x](https://t.me/+etK1RQc18z9mOWZk) (Channel)
@@ -150,6 +153,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Retro Games](https://t.me/retrogames_telegram) (Group)
 * [Retro PC Spain](https://t.me/Retro_PC_Spain) (Group)
 * [Retro PC](https://t.me/retropcmdq) (Group)
+* [Retro-Arcade EmulOS Team](https://t.me/Retro_Arcade_EmulOs_Team) (Group)
 * [RetroBits](https://t.me/RetroBits) (Group)
 * [RetroCacharreo](https://t.me/RetroCacharreo) (Group)
 * [RetroComputingMurcia](https://t.me/retrocompMurcia) (Channel)
