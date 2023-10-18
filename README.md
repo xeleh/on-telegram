@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (206 links)  
+[Retro](#Retro) (210 links)  
 [Demoscene](#Demoscene) (31 links)  
 [GameDev](#GameDev) (64 links)  
 [AI](#AI) (77 links)  
@@ -67,6 +67,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Amigawave audios](https://t.me/amigawaveaudios) (Channel)
 * [AminetOS](https://t.me/AminetOS) (Group)
 * [Amstrad Eterno](https://t.me/amstradeterno) (Group)
+* [AMSTRAD POWER compra-venta](https://t.me/AmstradPower_CompraVenta) (Group)
 * [AMSTRAD POWER LiliCPC](https://t.me/LiliCPC) (Group)
 * [AMSTRAD POWER](https://t.me/amstradpower) (Group)
 * [Aportes Comunidad Atari](https://t.me/comunidad_atari_aportes) (Group)
@@ -102,6 +103,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Ensamblador 6502](https://t.me/Ensamblador_6502) (Group)
 * [Ensamblador 68000](https://t.me/Ensamblador_68000) (Group)
 * [Ensamblador Z80 (ZX Spectrum, Amstrad, MSX y más)](https://t.me/EnsambladorZXSpectrum) (Group)
+* [ESPectrum](https://t.me/ZXESPectrum) (Channel)
 * [FPGAmakers](https://t.me/FPGAmakers) (Group)
 * [FPGAs](https://t.me/fpga_es) (Group)
 * [Game Boy Advance GBA ROMs](https://t.me/GameBoyAdvanceROMsGBA) (Channel)
@@ -160,6 +162,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [RETROCONSOLAS](https://t.me/rg350spain) (Group)
 * [RetrocryptaRecords](https://t.me/RetrocryptaRecords) (Channel)
 * [RetroDev ES](https://t.me/RetroDevSpain) (Group)
+* [RetroFox Amstrad – CPC/GX4000](https://t.me/RetroFoxAmstrad) (Channel)
 * [RetroGamers](https://t.me/retrogamers80) (Channel)
 * [RetroHobby30](https://t.me/retrohobby_30) (Group)
 * [Retroinformática](https://t.me/retroinformatica) (Group)
@@ -229,6 +232,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 ### Italian
 
+* [ArcadeStory The Group](https://t.me/Arcadestorygroup) (Group)
 * [Commodore 64](https://t.me/commodorec64) (Channel)
 * [MS-DOS ITALIA](https://t.me/msdositalia) (Group)
 * [RetroComputer & RetroGaming World](https://t.me/retrocomputerworld) (Channel)
