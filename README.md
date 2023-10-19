@@ -7,7 +7,7 @@ Subjects:
 [Retro](#Retro) (212 links)  
 [Demoscene](#Demoscene) (31 links)  
 [GameDev](#GameDev) (69 links)  
-[Programming](#Programming) (64 links)  
+[Programming](#Programming) (70 links)  
 [AI](#AI) (77 links)  
 
 Please feel free to create an issue or PR if you know other Telegram groups/channels (preferably those with a description) that may fit.
@@ -415,16 +415,19 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Python](https://t.me/+j4pTYWEHCmY1OGU0) (Group)
 * [Python](https://t.me/joinchat/OD5CfVBedvYRFvRHP_Egow) (Group)
 * [React](https://t.me/react_js_en) (Group)
+* [React/Next.js Upwork Jobs](https://t.me/ReactUpworkJobs) (Channel)
 * [The Devs Groups Rules](https://t.me/rulesforthedevs) (Channel)
 * [The Devs](https://t.me/thedevs) (Channel)
 * [The V Programming Language](https://t.me/vlang_en) (Group)
 * [Threejs by Bruno Simons](https://t.me/bruno_threejs) (Channel)
 * [Threejs course](https://t.me/three_js_course) (Channel)
 * [TypeScript](https://t.me/typescriptl) (Channel)
+* [Why Typescript is bad](https://t.me/why_typescript_is_bad) (Channel)
 
 ### Spanish
 
 * [Andalucía Developers](https://t.me/andaluciadev) (Group)
+* [AWSLATAM](https://t.me/awslatam) (Group)
 * [Bash / Zsh / CLI](https://t.me/BashZshCLI) (Group)
 * [CLS - Info [Canal] 2023](https://t.me/clsinfo) (Channel)
 * [CrackSLatinoS [CLS]](https://t.me/crackslatinos) (Group)
@@ -438,6 +441,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Desarrollo de Bots](https://t.me/devbots) (Group)
 * [Desarrollo web developers](https://t.me/DesarrolladoresMx) (Group)
 * [Docentes de programación para niños y niñas MINTIC](https://t.me/DocentesDeProgramacion) (Channel)
+* [Flask en Español](https://t.me/FlaskVe) (Group)
+* [Freelancers Community](https://t.me/freelancersve) (Group)
 * [Go_es](https://t.me/Go_es) (Group)
 * [Hosting & Servers](https://t.me/hostingnservers) (Group)
 * [Ilerna - Desarrollo de Aplicaciones Web](https://t.me/ilerna_daw) (Channel)
@@ -454,6 +459,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [SevillaDotNet: Grupo de desarrolladores .NET de Sevilla](https://t.me/svqnetchat) (Group)
 * [TypeScript ES](https://t.me/typescript_esp) (Group)
 * [Web Reactiva](https://t.me/webreactiva) (Channel)
+* [XRDevs_ES](https://t.me/XRDevs_ES) (Group)
 
 ### Russian
 
@@ -469,7 +475,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 * [[SN] Three.js Italia](https://t.me/threejsitalia) (Group)
 
-### Portuguese
+### Portuguese
 
 * [Aprenda COBOL](https://t.me/aprendacobol) (Group)
 * [Astro.js Brasil](https://t.me/astrojs_br) (Group)
