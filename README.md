@@ -6,7 +6,7 @@ Subjects:
 
 [Retro](#Retro) (210 links)  
 [Demoscene](#Demoscene) (31 links)  
-[GameDev](#GameDev) (64 links)  
+[GameDev](#GameDev) (69 links)  
 [AI](#AI) (77 links)  
 
 Please feel free to create an issue or PR if you know other Telegram groups/channels (preferably those with a description) that may fit.
@@ -306,6 +306,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Game Constructor - Unreal Engine / UE / UE4 / UE5 / Marketplace / GameDev Free Assets Download](https://t.me/gc_unreal_engine_assets_free) (Channel)
 * [Game Development Decompiled Art Gamedev](https://t.me/decompiled_art) (Channel)
 * [Game Development](https://t.me/game_developments) (Group)
+* [GameDEV Channel](https://t.me/joinchat/AAAAAFF7E_qhaQLETiRygg) (Channel)
 * [GameDev Platform](https://t.me/gamedevplatform) (Channel)
 * [GameDev Pulse](https://t.me/GameDEV) (Channel)
 * [Games Development](https://t.me/games_developments) (Channel)
@@ -332,14 +333,17 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Desarrollo de Videojuegos](https://t.me/DesarrolloGamer) (Group)
 * [Desarrollo de Videojuegos](https://t.me/devjuegos) (Group)
 * [Devsfromspain -desarrollo de videojuego en español](https://t.me/devsfromspain) (Group)
+* [Gamattica: trabaja en videojuegos](https://t.me/trabajo_gamattica) (Channel)
 * [GameDev España - Recursos y Assets](https://t.me/gamedevrecursos) (Channel)
 * [GameDev España](https://t.me/gamedevspain) (Group)
 * [GAMEDEV JOBS ES](https://t.me/gamedevjobs_es) (Channel)
 * [GameDev.ES](https://t.me/gamedev_es) (Group)
 * [Godot Cuba](https://t.me/GodotCuba) (Group)
 * [GODOT Español](https://t.me/ForoGodot) (Group)
+* [GranadaJam](https://t.me/joinchat/P0YpVpLzQa59gjCO) (Group)
 * [Phaserjs Recursos](https://t.me/phaserjs_recursos) (Channel)
 * [Programación Godot Engine](https://t.me/godotspanish) (Group)
+* [Road to IndieDevDay 24](https://t.me/+SevBtO4gm805YmY0) (Group)
 * [SGD Colabs](https://t.me/sgdcolabs) (Group)
 * [SGD Forum](https://t.me/foro_spaingamedevs) (Group)
 * [Spain Game Devs Noticias](https://t.me/spaingamedevsnews) (Channel)
@@ -357,12 +361,13 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Game Development Jobs](https://t.me/devjobs) (Channel)
 * [Game Development Resume и поиск команды](https://t.me/DevJobs_Resume) (Channel)
 * [Game Development UA](https://t.me/gamedevua) (Group)
+* [Game Maker RU](https://t.me/gamemaker_ru) (Group)
 * [GameDev Assets](https://t.me/GameDevAssets) (Channel)
 * [GameDEV](https://t.me/game_devz) (Channel)
-* [Game Maker RU](https://t.me/gamemaker_ru) (Group)
 * [Godot Engine (Russian)](https://t.me/godot_engine) (Group)
 * [Unity3D & CG / Unity 3D](https://t.me/unity3d_usergroup) (Group)
 * [Unreal Engine: Blueprints](https://t.me/ue_blueprints) (Channel)
+* [Unreal Engine](https://t.me/unrealenginecis) (Channel)
 
 ### Italian
 
