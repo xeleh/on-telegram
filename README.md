@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (210 links)  
+[Retro](#Retro) (212 links)  
 [Demoscene](#Demoscene) (31 links)  
 [GameDev](#GameDev) (69 links)  
 [AI](#AI) (77 links)  
@@ -98,6 +98,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [El Hogar del MSX](https://t.me/el_hogar_del_msx) (Group)
 * [El laberinto de PacMan](https://t.me/laberintopacman) (Group)
 * [El mundo del Spectrum Podcast](https://t.me/joinchat/CLSbG1jr4OmhoKFiR2_UVQ) (Group)
+* [EMUENET Retro Arcade Online Games, sala NETPLAY para tv box Amlogic, raspberry pi, PC win64, odroid go super & rgb 10 max](https://t.me/emuenetgroup) (Group)
 * [Emulacion TVBox EmuELEC.](https://t.me/Emutvbox) (Group)
 * [Emuladores — Roms — PS1 — SEGA — NEOGEO](https://t.me/Emuladoresromsneogeosega) (Channel)
 * [Ensamblador 6502](https://t.me/Ensamblador_6502) (Group)
@@ -211,6 +212,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [ZX Evolution RU/EN](https://t.me/zxevo) (Group)
 * [ZX Games](https://t.me/zxgames) (Group)
 * [ZX Speccy](https://t.me/zxnews) (Channel)
+* [ZX Spectrum handhelds](https://t.me/zxspectrumhandhelds) (Channel)
 * [ZX Spectrum Next RU/EN](https://t.me/specnext) (Group)
 * [ZX_MURMULATOR](https://t.me/ZX_MURMULATOR) (Group)
 * [zxcoding](https://t.me/zxcoding) (Group)
