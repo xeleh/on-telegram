@@ -7,6 +7,7 @@ Subjects:
 [Retro](#Retro) (212 links)  
 [Demoscene](#Demoscene) (31 links)  
 [GameDev](#GameDev) (69 links)  
+[Programming](#Programming) (64 links)  
 [AI](#AI) (77 links)  
 
 Please feel free to create an issue or PR if you know other Telegram groups/channels (preferably those with a description) that may fit.
@@ -388,6 +389,92 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 ### Arabic
 
 * [Unity3d](https://t.me/unity3dd) (Channel)
+
+<br>
+
+
+## Programming
+
+[Programming on Telegram](https://t.me/programming_on_telegram) (Channel)
+
+### English
+
+* [Angular](https://t.me/joinchat/OD5CfUctX3gz1w5RoIH0RQ) (Group)
+* [DATABASES](https://t.me/joinchat/OD5CfVHEf8kz56vJlBiJFw) (Group)
+* [Desweb](https://t.me/desweb) (Group)
+* [Devs Share](https://t.me/thedevs_share) (Group)
+* [Free PacktPub Daily](https://t.me/FreePacktPubDaily) (Channel)
+* [JavaScript Daily](https://t.me/javascriptdaily) (Channel)
+* [JavaScript](https://t.me/javascript) (Channel)
+* [Laravel - English](https://t.me/Laravel_En) (Group)
+* [LARAVEL DEVELOPER](https://t.me/joinchat/OD5CfRj1MlbQHdnWT3lqUw) (Group)
+* [Magento2, Laravel and other PHP crap](https://t.me/magento_EN) (Group)
+* [Next Js](https://t.me/nextjss) (Channel)
+* [Next.js](https://t.me/nextjs) (Group)
+* [PHP](https://t.me/thedevs_php) (Group)
+* [Python](https://t.me/+j4pTYWEHCmY1OGU0) (Group)
+* [Python](https://t.me/joinchat/OD5CfVBedvYRFvRHP_Egow) (Group)
+* [React](https://t.me/react_js_en) (Group)
+* [The Devs Groups Rules](https://t.me/rulesforthedevs) (Channel)
+* [The Devs](https://t.me/thedevs) (Channel)
+* [The V Programming Language](https://t.me/vlang_en) (Group)
+* [Threejs by Bruno Simons](https://t.me/bruno_threejs) (Channel)
+* [Threejs course](https://t.me/three_js_course) (Channel)
+* [TypeScript](https://t.me/typescriptl) (Channel)
+
+### Spanish
+
+* [Andalucía Developers](https://t.me/andaluciadev) (Group)
+* [Bash / Zsh / CLI](https://t.me/BashZshCLI) (Group)
+* [CLS - Info [Canal] 2023](https://t.me/clsinfo) (Channel)
+* [CrackSLatinoS [CLS]](https://t.me/crackslatinos) (Group)
+* [Desarrolladores · Español](https://t.me/DesarrolladoresEs) (Group)
+* [Desarrolladores en Salesforce (Español)](https://t.me/DevSalesforceES) (Group)
+* [Desarrolladores Informaticos](https://t.me/DesarrolladoresInformaticos) (Channel)
+* [Desarrolladores NodeJS](https://t.me/programadores_nodejs) (Group)
+* [Desarrolladores telegram](https://t.me/desarrolladorest) (Group)
+* [Desarrolladores Telegrameros](https://t.me/desarrolladores) (Channel)
+* [Desarrolladores web/app](https://t.me/desarrolladorWebApp) (Group)
+* [Desarrollo de Bots](https://t.me/devbots) (Group)
+* [Desarrollo web developers](https://t.me/DesarrolladoresMx) (Group)
+* [Docentes de programación para niños y niñas MINTIC](https://t.me/DocentesDeProgramacion) (Channel)
+* [Go_es](https://t.me/Go_es) (Group)
+* [Hosting & Servers](https://t.me/hostingnservers) (Group)
+* [Ilerna - Desarrollo de Aplicaciones Web](https://t.me/ilerna_daw) (Channel)
+* [JavaScript Granada](https://t.me/beerjsgrx) (Group)
+* [Lenguaje C/C++ & Assembly x86](https://t.me/CandAssemblyX86) (Group)
+* [Libros de Programación](https://t.me/LibPro) (Channel)
+* [midudev - Desarrollo Web Frontend JavaScript](https://t.me/midudev) (Channel)
+* [Next.JS en (ESPAÑOL)](https://t.me/nextjs_esp) (Group)
+* [Programación Rust](https://t.me/rust_es) (Group)
+* [React JS Español](https://t.me/ReactJSEspanol) (Group)
+* [React_es](https://t.me/React_es) (Group)
+* [Reactjs Cuba](https://t.me/ReactjsCuba) (Group)
+* [Recursos para WebDevs](https://t.me/recursosparawebdevs) (Channel)
+* [SevillaDotNet: Grupo de desarrolladores .NET de Sevilla](https://t.me/svqnetchat) (Group)
+* [TypeScript ES](https://t.me/typescript_esp) (Group)
+* [Web Reactiva](https://t.me/webreactiva) (Channel)
+
+### Russian
+
+* [Astro - Build faster js websites - Чат](https://t.me/astrobuild) (Group)
+* [Books Книги Программиста](https://t.me/programming_books_it) (Channel)
+* [Next.js — русскоговорящее сообщество](https://t.me/nextjs_ru) (Group)
+* [RuStore Dev](https://t.me/rustoredev) (Channel)
+* [Three.js Journey](https://t.me/threejsjourney) (Channel)
+* [WebGL Jobs](https://t.me/webgl_jobs) (Channel)
+* [WebGL ru](https://t.me/webgl_ru) (Group)
+
+### Italian
+
+* [[SN] Three.js Italia](https://t.me/threejsitalia) (Group)
+
+### Portuguese
+
+* [Aprenda COBOL](https://t.me/aprendacobol) (Group)
+* [Astro.js Brasil](https://t.me/astrojs_br) (Group)
+* [Next.JS - Brasil](https://t.me/nextjs_br) (Group)
+* [Three.js Brasil](https://t.me/threejsbr) (Group)
 
 <br>
 
