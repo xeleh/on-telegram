@@ -11,6 +11,9 @@ Subjects:
 
 Please feel free to create an issue or PR if you know other Telegram groups/channels (preferably those with a description) that may fit.
 
+<br>
+
+
 ## Retro
 
 [Retro on Telegram](https://t.me/retro_on_telegram) (Channel)
@@ -244,6 +247,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [RetroTech&RetroGaming](https://t.me/RetroComputerGaming) (Group)
 * [ZX Spectrum](https://t.me/sinclairspectrum) (Channel)
 
+<br>
 
 
 ## Demoscene
@@ -292,6 +296,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 * [Demoscene italiana](https://t.me/demoscena) (Group)
 
+<br>
 
 
 ## GameDev
@@ -384,6 +389,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 * [Unity3d](https://t.me/unity3dd) (Channel)
 
+<br>
 
 
 ## AI
