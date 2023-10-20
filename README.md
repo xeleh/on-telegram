@@ -8,7 +8,7 @@ Subjects:
 [Demoscene](#Demoscene) (31 links)  
 [GameDev](#GameDev) (69 links)  
 [Programming](#Programming) (70 links)  
-[AI](#AI) (77 links)  
+[AI](#AI) (89 links)  
 
 Please feel free to create an issue or PR if you know other Telegram groups/channels (preferably those with a description) that may fit.
 
@@ -551,6 +551,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Inteligencia Artificial en Español](https://t.me/Inteligencia_Artificial_esp) (Channel)
 * [Inteligencia artificial gpt - Mercado de valores](https://t.me/inteligenciartificialgpt) (Channel)
 * [Inteligencia Artificial](https://t.me/IAInteligenciaArtificial) (Group)
+* [Inteligencia Artificial](https://t.me/IAVenezuela) (Group)
 * [Inteligencia Artificial](https://t.me/inteligencia_artificial) (Channel)
 * [Inteligencia artificial](https://t.me/inteligencia_artificialES) (Channel)
 * [INTELIGENCIA ARTIFICIAL](https://t.me/inteligencia1) (Group)
@@ -568,8 +569,19 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 ### Russian
 
 * [AI/MoLdin JOBS](https://t.me/ml_jobs_kz) (Channel)
+* [Artificial Intelligence](https://t.me/ArtificialIntelligencedl) (Channel)
 * [Bard AI Google bot](https://t.me/bard_ai_google_bot) (Bot)
+* [Big Data AI](https://t.me/bigdatai) (Channel)
 * [ChatGPT](https://t.me/GPT_onlinebot) (Bot)
 * [DALL-E-2](https://t.me/DALL_E_2BOT) (Bot)
+* [Data Science Jobs](https://t.me/datascienceml_jobs) (Channel)
+* [Data Science](https://t.me/datascienceiot) (Channel)
+* [Generative AI](https://t.me/ai_generative) (Channel)
+* [Machine learning chat](https://t.me/machinee_learning) (Group)
+* [Machine learning Interview](https://t.me/machinelearning_interview) (Channel)
 * [Machine learning](https://t.me/datasciencecourse) (Group)
+* [Machinelearning](https://t.me/ai_machinelearning_big_data) (Channel)
+* [Neural Networks | Нейронные сети](https://t.me/neural) (Channel)
+* [Анализ данных (Data analysis)](https://t.me/data_analysis_ml) (Channel)
 * [Генерируем Чат | MidJourney | StableDiffusion | DALL-E 3](https://t.me/text2image) (Group)
+* [Машинное обучение RU](https://t.me/machinelearning_ru) (Channel)
