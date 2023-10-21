@@ -6,7 +6,7 @@ Subjects:
 
 [Retro](#Retro) (212 links)  
 [Demoscene](#Demoscene) (31 links)  
-[GameDev](#GameDev) (69 links)  
+[GameDev](#GameDev) (92 links)  
 [Programming](#Programming) (124 links)  
 [AI](#AI) (89 links)  
 
@@ -306,6 +306,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 ### English
 
+* [5k Indiedev](https://t.me/proindiedev) (Channel)
+* [5K Indiedev - September 2023](https://t.me/sep23_5k_indiedev) (Channel)
 * [Arch Game Dev Freakshow](https://t.me/Architector_4_Gamedev) (Group)
 * [Asset Paradise](https://t.me/+ovcvUtaNLDdlODVk) (Group)
 * [Game Assets [Unity, Unreal Engine]](https://t.me/game_assets) (Channel)
@@ -315,15 +317,20 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Game Development Decompiled Art Gamedev](https://t.me/decompiled_art) (Channel)
 * [Game Development](https://t.me/game_developments) (Group)
 * [GameDEV Channel](https://t.me/joinchat/AAAAAFF7E_qhaQLETiRygg) (Channel)
+* [Game Developer](https://t.me/gamedeveloperfeed) (Channel)
 * [GameDev Platform](https://t.me/gamedevplatform) (Channel)
 * [GameDev Pulse](https://t.me/GameDEV) (Channel)
 * [Games Development](https://t.me/games_developments) (Channel)
+* [GGJ SG 2023](https://t.me/GameJamSG) (Channel)
+* [Indie Game Developers & Investors](https://t.me/indiegamechat) (Group)
 * [Learn it Godot](https://t.me/Learn_it_Godot) (Channel)
 * [Phaser](https://t.me/phaserjs) (Channel)
+* [Professional Indiedev Week 23](https://t.me/pidw23) (Channel)
 * [r/Unity3D](https://t.me/r_Unity3D) (Channel)
 * [Unity Asset Collection (Daily Update)](https://t.me/unity_asset_collection) (Channel)
 * [Unity Assets List](https://t.me/unity_assets_vip) (Channel)
 * [Unity Assets](https://t.me/assets_unity) (Channel)
+* [Unity News](https://t.me/unity_news) (Channel)
 * [Unity Vegas](https://t.me/unityvegas_assets) (Channel)
 * [Unity Z Hour Academy -Desarrollo de Videojuegos Unity 2D y 3D](https://t.me/unityprogramming) (Group)
 * [Worldwide Game Devs](https://t.me/worldwidegamedevs) (Group)
@@ -333,6 +340,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [C# programar unity](https://t.me/Unity3DSpanish) (Group)
 * [Canarias GameDev](https://t.me/CanariasGameDev) (Group)
 * [Club de Desarrollo de Videojuegos](https://t.me/CDV_ETSIIT_UGR) (Group)
+* [Creadores en Unity grupo en Español](https://t.me/unityes) (Group)
 * [Curso Blender Unity](https://t.me/CursoBlenderUnity) (Group)
 * [Cursos de Unity](https://t.me/UnityCursos) (Channel)
 * [Desarrolladores de Videojuegos Indie](https://t.me/DCdVI) (Group)
@@ -358,6 +366,9 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Spain Game Devs](https://t.me/spaingamedevs) (Group)
 * [Spain Godot Devs](https://t.me/spaingodotdevs) (Group)
 * [unity development for consoles](https://t.me/unitydevcon) (Group)
+* [Unity en Español](https://t.me/unityenesp) (Group)
+* [Unity en Español](https://t.me/unitymgesp) (Group)
+* [UNITY Español](https://t.me/unitydevesp) (Group)
 * [Unity](https://t.me/unity3dspain) (Group)
 * [Unity3D Sevilla](https://t.me/unity3dsevilla) (Group)
 * [UnitySpain](https://t.me/unityspain) (Group)
@@ -372,14 +383,23 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Game Maker RU](https://t.me/gamemaker_ru) (Group)
 * [GameDev Assets](https://t.me/GameDevAssets) (Channel)
 * [GameDEV](https://t.me/game_devz) (Channel)
+* [GameDev](https://t.me/IndieDevGame) (Channel)
+* [GDC RU/CIS](https://t.me/GDC_RU_CIS) (Group)
+* [Global Game Jam - SUSU](https://t.me/GlobalGameJamSUSU) (Group)
 * [Godot Engine (Russian)](https://t.me/godot_engine) (Group)
+* [Halloween GAMEJam](https://t.me/gamejamhackrt) (Group)
+* [Indie Cat](https://t.me/indiedevon) (Channel)
+* [Unity](https://t.me/UnityVector) (Channel)
+* [Unity Engine: вопрос - ответ](https://t.me/unity3d_ru) (Group)
 * [Unity3D & CG / Unity 3D](https://t.me/unity3d_usergroup) (Group)
 * [Unreal Engine: Blueprints](https://t.me/ue_blueprints) (Channel)
 * [Unreal Engine](https://t.me/unrealenginecis) (Channel)
+* [ФЛУД ЧАТ UNITY](https://t.me/unity_flood) (Group)
 
 ### Italian
 
 * [GMI](https://t.me/gamemakeritalia) (Group)
+* [Unity Ita](https://t.me/unity_ita) (Group)
 * [Unity Italia](https://t.me/UnityItalia) (Group)
 
 ### Portuguese
@@ -388,7 +408,13 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 ### Arabic
 
+* [Indie / Casual & Hypercasual GameDev](https://t.me/gamejamz) (Group)
 * [Unity3d](https://t.me/unity3dd) (Channel)
+* [Global Game Jam](https://t.me/globalgamejam) (Channel)
+
+### Chinese
+
+* [Indie Developers](https://t.me/IndieDevelopers) (Group)
 
 <br>
 
