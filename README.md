@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (212 links)  
+[Retro](#Retro) (215 links)  
 [Demoscene](#Demoscene) (31 links)  
 [GameDev](#GameDev) (92 links)  
 [Programming](#Programming) (157 links)  
@@ -37,6 +37,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Game Boy Advance](https://t.me/gameboyadvancegba) (Channel)
 * [Interesting Computers and Retro Fun](https://t.me/RetroCompu) (Channel)
 * [m68k](https://t.me/m68k_info) (Group)
+* [MAME Roms](https://t.me/Mameroms2021) (Channel)
 * [MASTER BOOT RECORD](https://t.me/master_boot_record) (Channel)
 * [NeoGeo Fans](https://t.me/neogeofans) (Group)
 * [NeoGeoCFW](https://t.me/NeoGeoCFW) (Channel)
@@ -120,6 +121,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Macintosh classic 68k y PPC](https://t.me/mac68kPPC) (Group)
 * [MAME32 OFICIAL - EMULADOR DE ARCADES](https://t.me/MAME32DESCARGAS) (Channel)
 * [Mega Drive/Genesis ROMs](https://t.me/MegaDriveROMsGenesis) (Channel)
+* [MiNi PC's para GAMING & Emulación, Testing & recomendaciónes](https://t.me/minipcgaming) (Group)
 * [MiST / Mistica / SiDi](https://t.me/joinchat/KSh_qRCyjLDELhkMgHixtg) (Group)
 * [Mongo 32x](https://t.me/+etK1RQc18z9mOWZk) (Channel)
 * [Mongo Dreamcast](https://t.me/+MISRdrsYKcJiZGQ8) (Channel)
@@ -171,6 +173,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [RetroGamers](https://t.me/retrogamers80) (Channel)
 * [RetroHobby30](https://t.me/retrohobby_30) (Group)
 * [Retroinformática](https://t.me/retroinformatica) (Group)
+* [RetroMercadillo](https://t.me/retromercadillo) (Group)
 * [RetroPC](https://t.me/GRUPORetroPC) (Group)
 * [RetroStoneES & retro en general](https://t.me/RetroStoneES) (Group)
 * [RetroStoneES+](https://t.me/RSESplus) (Channel)
