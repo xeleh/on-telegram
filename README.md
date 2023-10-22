@@ -7,7 +7,7 @@ Subjects:
 [Retro](#Retro) (215 links)  
 [Demoscene](#Demoscene) (31 links)  
 [GameDev](#GameDev) (92 links)  
-[Programming](#Programming) (157 links)  
+[Programming](#Programming) (182 links)  
 [AI](#AI) (98 links)  
 
 Please feel free to create an issue or PR if you know other Telegram groups/channels (preferably those with a description) that may fit.
@@ -428,6 +428,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 ### English
 
+* [Amazing PHP](https://t.me/phpme) (Channel)
 * [Angular](https://t.me/A_Ngular) (Group)
 * [Angular](https://t.me/joinchat/OD5CfUctX3gz1w5RoIH0RQ) (Group)
 * [babylon.js](https://t.me/babylonjs) (Group)
@@ -441,6 +442,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [JAVASCRIPT & FRAMEWORKS](https://t.me/joinchat/OD5CfUt7mkrgHUP21Al74Q) (Group)
 * [JavaScript Daily](https://t.me/javascriptdaily) (Channel)
 * [JavaScript](https://t.me/javascript) (Channel)
+* [JavaScript](https://t.me/thedevs_js) (Group)
 * [Laravel - English](https://t.me/Laravel_En) (Group)
 * [LARAVEL DEVELOPER](https://t.me/joinchat/OD5CfRj1MlbQHdnWT3lqUw) (Group)
 * [Laravel](https://t.me/LARAVEL_DISCUSS) (Group)
@@ -451,10 +453,12 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Next Js](https://t.me/nextjss) (Channel)
 * [Next.js Community](https://t.me/nextjscom) (Group)
 * [Next.js](https://t.me/nextjs) (Group)
+* [PHP Index](https://t.me/PHPIndexBot) (Bot)
 * [PHP](https://t.me/thedevs_php) (Group)
 * [Programming Deadlock](https://t.me/programming_deadlock) (Channel)
 * [Python](https://t.me/+j4pTYWEHCmY1OGU0) (Group)
 * [Python](https://t.me/joinchat/OD5CfVBedvYRFvRHP_Egow) (Group)
+* [React Js](https://t.me/reactjsf) (Channel)
 * [React](https://t.me/react_js_en) (Group)
 * [React/Next.js Upwork Jobs](https://t.me/ReactUpworkJobs) (Channel)
 * [The Devs Groups Rules](https://t.me/rulesforthedevs) (Channel)
@@ -467,6 +471,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Vim community](https://t.me/vim_devs) (Group)
 * [Why Typescript is bad](https://t.me/why_typescript_is_bad) (Channel)
 * [z88dk](https://t.me/z88dk_org) (Group)
+* [Zignog - with Skittles](https://t.me/zignog) (Group)
 
 ### Spanish
 
@@ -479,6 +484,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Bash / Zsh / CLI](https://t.me/BashZshCLI) (Group)
 * [Bash Shell en Español](https://t.me/bash_es) (Group)
 * [BD y otras NoSQL](https://t.me/bdvzla) (Group)
+* [C / C++](https://t.me/programacionc) (Group)
 * [C++ Venezuela](https://t.me/joinchat/BrCK8gmzgY_A2-Z2qg_MRg) (Group)
 * [CLS - Info [Canal] 2023](https://t.me/clsinfo) (Channel)
 * [CoDigo Abierto "FOSS"](https://t.me/software_de_codigo_libre_FOSS) (Channel)
@@ -495,13 +501,18 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Desarrollo web developers](https://t.me/DesarrolladoresMx) (Group)
 * [Desarrollo web](https://t.me/desarrolloweb) (Channel)
 * [Docentes de programación para niños y niñas MINTIC](https://t.me/DocentesDeProgramacion) (Channel)
+* [Ensamblador 6502](https://t.me/Ensamblador_6502) (Group)
 * [Ensamblador 68000](https://t.me/Ensamblador_68000) (Group)
+* [Ensamblador Z80 (ZX Spectrum, Amstrad, MSX y más)](https://t.me/EnsambladorZXSpectrum) (Group)
 * [Flask en Español](https://t.me/FlaskVe) (Group)
 * [Freelancers Community](https://t.me/freelancersve) (Group)
+* [Git - git commit -m "¡Al fin tenemos un grupo de git!"](https://t.me/git_ve) (Group)
 * [Go_es](https://t.me/Go_es) (Group)
+* [Golang Venezuela](https://t.me/golangve) (Group)
 * [Hosting & Servers](https://t.me/hostingnservers) (Group)
 * [Ilerna - Desarrollo de Aplicaciones Web](https://t.me/ilerna_daw) (Channel)
 * [Infraestructure as a code (IaC)](https://t.me/terraform_es) (Group)
+* [iOS VE](https://t.me/joinchat/AH2ZUgIUXVcougUIOTurtg) (Group)
 * [Java - Comunidad española](https://t.me/java_es) (Group)
 * [JavaScript ES](https://t.me/javascriptes) (Group)
 * [JavaScript Granada](https://t.me/beerjsgrx) (Group)
@@ -511,12 +522,19 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Lenguaje C/C++ & Assembly x86](https://t.me/CandAssemblyX86) (Group)
 * [Libros de Programación](https://t.me/LibPro) (Channel)
 * [midudev - Desarrollo Web Frontend JavaScript](https://t.me/midudev) (Channel)
+* [Mit App Inventor Comunidad](https://t.me/appinventorcomunidad) (Group)
+* [NestJS en Español](https://t.me/nestjshispano) (Group)
 * [Next.JS en (ESPAÑOL)](https://t.me/nextjs_esp) (Group)
 * [Node.js Venezuela](https://t.me/NodeVenezuela)
 * [Odoo desarrolladores y mas! (En español)](https://t.me/OdooEspDevs) (Group)
 * [Odoo Venezuela](https://t.me/OdooVenezuela) (Group)
+* [Odoo-Cuba (CCO)](https://t.me/odoodevcuba) (Group)
 * [Pamplona Software Crafters 2023](https://t.me/pamplonaswcraft) (Channel)
 * [Programación Rust](https://t.me/rust_es) (Group)
+* [Programadores Latino América](https://t.me/latam_programadores) (Group)
+* [Python en español](https://t.me/pythonesp) (Group)
+* [QA (Aseguramiento de Calidad)](https://t.me/qavzla) (Group)
+* [Quedadas WordPress en Español](https://t.me/quedadawp) (Group)
 * [React JS Español](https://t.me/ReactJSEspanol) (Group)
 * [React_es](https://t.me/React_es) (Group)
 * [Reactjs Cuba](https://t.me/ReactjsCuba) (Group)
@@ -526,14 +544,20 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [RetroDev ES](https://t.me/RetroDevSpain) (Group)
 * [Rust Español](https://t.me/rust_lang_es) (Group)
 * [SevillaDotNet: Grupo de desarrolladores .NET de Sevilla](https://t.me/svqnetchat) (Group)
+* [Tailwind CSS ES](https://t.me/tailwindcssespanol) (Group)
 * [Telegram bots php](https://t.me/bottelegramesp) (Group)
 * [Trabajos de Tecnología](https://t.me/trabajovenezuela) (Channel)
 * [TypeScript ES](https://t.me/typescript_esp) (Group)
 * [Un Kata al día](https://t.me/daily_katas) (Group)
 * [Un Python Al Dia](https://t.me/UnPythonAlDia) (Channel)
+* [Vue.js - Comunidad española](https://t.me/vue_es) (Group)
 * [VueJs](https://t.me/vueLatam) (Group)
 * [Web Reactiva](https://t.me/webreactiva) (Channel)
+* [Wordpress en español](https://t.me/afiliadoscplcpa) (Group)
+* [WordPress Hispano](https://t.me/WordPressHispano) (Group)
+* [WordPress Spain - En español](https://t.me/WPSpain) (Group)
 * [WordPress Venezuela](https://t.me/WPVenezuela) (Group)
+* [Wordpress](https://t.me/wordpress_es) (Group)
 * [XRDevs_ES](https://t.me/XRDevs_ES) (Group)
 
 ### Russian
@@ -597,6 +621,10 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Astro.js Brasil](https://t.me/astrojs_br) (Group)
 * [Next.JS - Brasil](https://t.me/nextjs_br) (Group)
 * [Three.js Brasil](https://t.me/threejsbr) (Group)
+
+### Arabic
+
+* [قالب وردپرس](https://t.me/wordpressx) (Channel)
 
 <br>
 
