@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (215 links)  
+[Retro](#Retro) (220 links)  
 [Demoscene](#Demoscene) (31 links)  
 [GameDev](#GameDev) (92 links)  
 [Programming](#Programming) (182 links)  
@@ -88,6 +88,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [BOB canal de descargas](https://t.me/BOBcera) (Channel)
 * [BOBcera Pi4 128GB](https://t.me/BOBcera_Pi4_128) (Channel)
 * [Boriel ZX Basic](https://t.me/+dSbWL8z8ol1lMjA0) (Group)
+* [BRICOGAME](https://t.me/bricogame) (Channel)
 * [Cafetería de las FPGAs](https://t.me/CafeteriaFPGA) (Group)
 * [COLECCIONISMO COMMODORE AMIGA](https://t.me/ColeccionismoCommodoreAmiga) (Group)
 * [Commodore Amiga en Español](https://t.me/amigaspain) (Group)
@@ -155,6 +156,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [R-R_8&16bits](https://t.me/retro_rev) (Group)
 * [Raspberry Pi EMULADORES Retro VIDEOJUEGOS](https://t.me/RaspberryPiEmuladores) (Group)
 * [Retro 8 bits](https://t.me/Retro8bits) (Group)
+* [Retro Antena](https://t.me/+6kjYHC_sN8pjNGNh) (Channel)
 * [Retro Aventurαѕ](https://t.me/RetroAventuras) (Group)
 * [Retro Emuladores](https://t.me/retroRomsChe) (Channel)
 * [RETRO EMULADORES](https://t.me/romespanol) (Channel)
@@ -162,6 +164,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Retro Games](https://t.me/retrogames_telegram) (Group)
 * [Retro PC Spain](https://t.me/Retro_PC_Spain) (Group)
 * [Retro PC](https://t.me/retropcmdq) (Group)
+* [RETRO-ARCADE ELX](https://t.me/retroarcadeelx) (Channel)
 * [Retro-Arcade EmulOS Team](https://t.me/Retro_Arcade_EmulOs_Team) (Group)
 * [RetroBits](https://t.me/RetroBits) (Group)
 * [RetroCacharreo](https://t.me/RetroCacharreo) (Group)
@@ -179,6 +182,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [RetroStoneES+](https://t.me/RSESplus) (Channel)
 * [RetroSyS](https://t.me/RetroSysW) (Channel)
 * [Revistas_Retro (ES)](https://t.me/joinchat/AAAAAE8OEyfSoutoIv6B8g) (Channel)
+* [Roms Retro](https://t.me/romsretro) (Channel)
 * [romset gamecube](https://t.me/gamecubeextrem) (Channel)
 * [Romset PSX](https://t.me/romsetpsx) (Channel)
 * [SG-1000](https://t.me/+ih6QScTUCIphNDk0) (Channel)
@@ -203,6 +207,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [GB development](https://t.me/gameboy_development) (Channel)
 * [Limowski' Precious Little Life](https://t.me/retrodevicesnerd) (Channel)
 * [Ms-Dos (ЭлектроФлудилка)](https://t.me/MsDos_PC) (Group)
+* [omegaHACKERSgroup](https://t.me/omegaHACKERSgroup) (Channel)
 * [Paw Noir C64 devlog](https://t.me/paw_noir) (Channel)
 * [Retro Development](https://t.me/RetroDevelopment) (Group)
 * [retrodevil](https://t.me/retrodevil) (Group)
