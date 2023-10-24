@@ -5,9 +5,9 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 Subjects:
 
 [Retro](#Retro) (220 links)  
-[Demoscene](#Demoscene) (31 links)  
-[GameDev](#GameDev) (92 links)  
-[Programming](#Programming) (182 links)  
+[Demoscene](#Demoscene) (33 links)  
+[GameDev](#GameDev) (94 links)  
+[Programming](#Programming) (185 links)  
 [AI](#AI) (98 links)  
 
 Please feel free to create an issue or PR if you know other Telegram groups/channels (preferably those with a description) that may fit.
@@ -286,6 +286,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 * [3 / DMSCN Music](https://t.me/+sI6IWpJguXszODcy) (Channel)
 * [5-7.01 DiHalt 2024 Demoparty :: Winter](https://t.me/dihaltdemoparty) (Group)
+* [Best Tracker Music](https://t.me/xtrackermusic) (Channel)
 * [cafeparty_video_bot](https://t.me/DemosceneVideoBot) (Bot)
 * [CAFePARTY...](https://t.me/CAFe_Demoparty) (Group)
 * [Chaos Constructions Demo/Retro](https://t.me/chaosconstructions) (Group)
@@ -295,6 +296,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [hyperadio chat](https://t.me/hyperadio) (Group)
 * [Multimatograf](https://t.me/multimatograf) (Group)
 * [Newskool demomakers chat](https://t.me/pcdemomaking) (Group)
+* [omegaHACKERSgroup](https://t.me/omegaHACKERSgroup) (Channel)
 * [Out Of Compo](https://t.me/ooc_chat) (Group)
 * [SizeCoders Chat](https://t.me/sizecoders) (Group)
 * [Undefined DIY Fest](https://t.me/undefined_diy_fest) (Channel)
@@ -314,18 +316,19 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 ### English
 
-* [5k Indiedev](https://t.me/proindiedev) (Channel)
 * [5K Indiedev - September 2023](https://t.me/sep23_5k_indiedev) (Channel)
+* [5k Indiedev](https://t.me/proindiedev) (Channel)
 * [Arch Game Dev Freakshow](https://t.me/Architector_4_Gamedev) (Group)
 * [Asset Paradise](https://t.me/+ovcvUtaNLDdlODVk) (Group)
 * [Game Assets [Unity, Unreal Engine]](https://t.me/game_assets) (Channel)
 * [Game Assets Club™ 2.1 [ © Unity , ® Unreal Engine ]](https://t.me/game_assets_top) (Channel)
 * [Game Assets Club™ v3 [ © ® Unreal Engine 4.16 / 5.2 ]️](https://t.me/ue4devtop) (Channel)
 * [Game Constructor - Unreal Engine / UE / UE4 / UE5 / Marketplace / GameDev Free Assets Download](https://t.me/gc_unreal_engine_assets_free) (Channel)
+* [Game Dev Learning Platform](https://t.me/unityassets4free) (Channel)
+* [Game Developer](https://t.me/gamedeveloperfeed) (Channel)
 * [Game Development Decompiled Art Gamedev](https://t.me/decompiled_art) (Channel)
 * [Game Development](https://t.me/game_developments) (Group)
 * [GameDEV Channel](https://t.me/joinchat/AAAAAFF7E_qhaQLETiRygg) (Channel)
-* [Game Developer](https://t.me/gamedeveloperfeed) (Channel)
 * [GameDev Platform](https://t.me/gamedevplatform) (Channel)
 * [GameDev Pulse](https://t.me/GameDEV) (Channel)
 * [Games Development](https://t.me/games_developments) (Channel)
@@ -397,11 +400,12 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Godot Engine (Russian)](https://t.me/godot_engine) (Group)
 * [Halloween GAMEJam](https://t.me/gamejamhackrt) (Group)
 * [Indie Cat](https://t.me/indiedevon) (Channel)
-* [Unity](https://t.me/UnityVector) (Channel)
 * [Unity Engine: вопрос - ответ](https://t.me/unity3d_ru) (Group)
+* [Unity](https://t.me/UnityVector) (Channel)
 * [Unity3D & CG / Unity 3D](https://t.me/unity3d_usergroup) (Group)
 * [Unreal Engine: Blueprints](https://t.me/ue_blueprints) (Channel)
 * [Unreal Engine](https://t.me/unrealenginecis) (Channel)
+* [VG](https://t.me/vgamengines) (Channel)
 * [ФЛУД ЧАТ UNITY](https://t.me/unity_flood) (Group)
 
 ### Italian
@@ -441,6 +445,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [DATABASES](https://t.me/joinchat/OD5CfVHEf8kz56vJlBiJFw) (Group)
 * [Desweb](https://t.me/desweb) (Group)
 * [Devs Share](https://t.me/thedevs_share) (Group)
+* [FlutterDev](https://t.me/flutterDev) (Channel)
 * [Free PacktPub Daily](https://t.me/FreePacktPubDaily) (Channel)
 * [IT Books - Programming Books](https://t.me/itbook_store) (Channel)
 * [JAVA](https://t.me/joinchat/OD5CfRhqAzsHcdv_q9cvHw) (Group)
@@ -452,6 +457,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [LARAVEL DEVELOPER](https://t.me/joinchat/OD5CfRj1MlbQHdnWT3lqUw) (Group)
 * [Laravel](https://t.me/LARAVEL_DISCUSS) (Group)
 * [Laravel](https://t.me/Laravel) (Channel)
+* [Lua - Reddit](https://t.me/r_lua) (Channel)
 * [m68k](https://t.me/m68k_info) (Group)
 * [Magento2, Laravel and other PHP crap](https://t.me/magento_EN) (Group)
 * [MVC PHP DEVELOPERS](https://t.me/joinchat/OD5CfUf0awLsiT84ZhfY1Q) (Group)
@@ -466,6 +472,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [React Js](https://t.me/reactjsf) (Channel)
 * [React](https://t.me/react_js_en) (Group)
 * [React/Next.js Upwork Jobs](https://t.me/ReactUpworkJobs) (Channel)
+* [Symmetria](https://t.me/symmetria) (Channel)
 * [The Devs Groups Rules](https://t.me/rulesforthedevs) (Channel)
 * [The Devs](https://t.me/thedevs) (Channel)
 * [The V Programming Language](https://t.me/vlang_en) (Group)
