@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (220 links)  
+[Retro](#Retro) (222 links)  
 [Demoscene](#Demoscene) (33 links)  
 [GameDev](#GameDev) (94 links)  
 [Programming](#Programming) (185 links)  
@@ -35,6 +35,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [CPC-DDI-Revival](https://t.me/+1E57s7QRpg8wNjU8) (Group)
 * [DAAD Ready](https://t.me/daadready) (Group)
 * [Game Boy Advance](https://t.me/gameboyadvancegba) (Channel)
+* [GamesNostalgia News](https://t.me/gamesnostalgia) (Channel)
 * [Interesting Computers and Retro Fun](https://t.me/RetroCompu) (Channel)
 * [m68k](https://t.me/m68k_info) (Group)
 * [MAME Roms](https://t.me/Mameroms2021) (Channel)
@@ -167,6 +168,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [RETRO-ARCADE ELX](https://t.me/retroarcadeelx) (Channel)
 * [Retro-Arcade EmulOS Team](https://t.me/Retro_Arcade_EmulOs_Team) (Group)
 * [RetroBits](https://t.me/RetroBits) (Group)
+* [Retrogaming TV](https://t.me/RetroGamingTV) (Channel)
 * [RetroCacharreo](https://t.me/RetroCacharreo) (Group)
 * [RetroComputingMurcia](https://t.me/retrocompMurcia) (Channel)
 * [RETROCONSOLAS](https://t.me/rg350spain) (Group)
