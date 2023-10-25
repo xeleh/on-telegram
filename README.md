@@ -6,7 +6,7 @@ Subjects:
 
 [Retro](#Retro) (222 links)  
 [Demoscene](#Demoscene) (33 links)  
-[GameDev](#GameDev) (94 links)  
+[GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (185 links)  
 [AI](#AI) (98 links)  
 
@@ -333,6 +333,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [GameDEV Channel](https://t.me/joinchat/AAAAAFF7E_qhaQLETiRygg) (Channel)
 * [GameDev Platform](https://t.me/gamedevplatform) (Channel)
 * [GameDev Pulse](https://t.me/GameDEV) (Channel)
+* [GameDev - Unreal Engine, Unity](https://t.me/GameDevUE) (Channel)
 * [Games Development](https://t.me/games_developments) (Channel)
 * [GGJ SG 2023](https://t.me/GameJamSG) (Channel)
 * [Indie Game Developers & Investors](https://t.me/indiegamechat) (Group)
@@ -390,18 +391,23 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 ### Russian
 
+* [CHOICE: GameDev Jobs](https://t.me/gamedevtopjobs) (Channel)
 * [Game Development Jobs](https://t.me/devjobs) (Channel)
 * [Game Development Resume и поиск команды](https://t.me/DevJobs_Resume) (Channel)
 * [Game Development UA](https://t.me/gamedevua) (Group)
 * [Game Maker RU](https://t.me/gamemaker_ru) (Group)
 * [GameDev Assets](https://t.me/GameDevAssets) (Channel)
+* [GameDev DOU](https://t.me/gamedev_dou) (Channel)
+* [Gamedev suffering](https://t.me/gamedev_suffering) (Channel)
 * [GameDEV](https://t.me/game_devz) (Channel)
 * [GameDev](https://t.me/IndieDevGame) (Channel)
 * [GDC RU/CIS](https://t.me/GDC_RU_CIS) (Group)
 * [Global Game Jam - SUSU](https://t.me/GlobalGameJamSUSU) (Group)
 * [Godot Engine (Russian)](https://t.me/godot_engine) (Group)
+* [Godot Hell](https://t.me/godot3d) (Channel)
 * [Halloween GAMEJam](https://t.me/gamejamhackrt) (Group)
 * [Indie Cat](https://t.me/indiedevon) (Channel)
+* [Job for Gamedev](https://t.me/forgamedev) (Channel)
 * [Unity Engine: вопрос - ответ](https://t.me/unity3d_ru) (Group)
 * [Unity](https://t.me/UnityVector) (Channel)
 * [Unity3D & CG / Unity 3D](https://t.me/unity3d_usergroup) (Group)
