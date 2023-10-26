@@ -57,7 +57,6 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Sega Saturn](https://t.me/RomSet_SegaSaturn) (Channel)
 * [Vamped Amiga](https://t.me/vampedamiga) (Group)
 * [Vintage Anthro Computer Coders](https://t.me/vintageanthrocomputercoders) (Group)
-* [z88dk](https://t.me/z88dk_org) (Group)
 * [千ⓜ тσώภＳ 𝔀Ỗ𝓡ℓ๔](https://t.me/FMT_X68K) (Group)
 
 ### Spanish
@@ -197,6 +196,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [UnAmiga Español](https://t.me/joinchat/FDjURBAeiE1hmVZbMWfGWg) (Group)
 * [WinUAEspañol](https://t.me/winuaespanol) (Group)
 * [Yo Tenia Un Juego](https://t.me/canalyoteniaunjuego) (Channel)
+* [z88dk](https://t.me/z88dk_org) (Group)
 * [ZXDOS FPGA](https://t.me/zxdosfpga) (Group)
 * [ZXUNO](https://t.me/zxuno) (Group)
 
@@ -492,7 +492,6 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [TypeScript](https://t.me/typescriptl) (Channel)
 * [Vim community](https://t.me/vim_devs) (Group)
 * [Why Typescript is bad](https://t.me/why_typescript_is_bad) (Channel)
-* [z88dk](https://t.me/z88dk_org) (Group)
 * [Zignog - with Skittles](https://t.me/zignog) (Group)
 
 ### Spanish
@@ -581,6 +580,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [WordPress Venezuela](https://t.me/WPVenezuela) (Group)
 * [Wordpress](https://t.me/wordpress_es) (Group)
 * [XRDevs_ES](https://t.me/XRDevs_ES) (Group)
+* [z88dk](https://t.me/z88dk_org) (Group)
 
 ### Russian
 
