@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (222 links)  
+[Retro](#Retro) (224 links)  
 [Demoscene](#Demoscene) (33 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (185 links)  
@@ -96,6 +96,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Comunidad Atari](https://t.me/comunidad_atari) (Group)
 * [Consolas MINI y EMULACION en sistemas RETRO (SNES/NES/MD/PSX Classic Mini...)](https://t.me/snesminiroms) (Group)
 * [Cpctelera](https://t.me/cpctelera_asm) (Group)
+* [Creativo en Japón](https://t.me/creativoenjaponOFICIAL) (Group)
 * [CURSO BASIC AsteroideZX](https://t.me/CURSOBASICAsteroideZX) (Group)
 * [Curso Basic ZX](https://t.me/CursoBasicZX) (Group)
 * [CYC1000 & MAX1000](https://t.me/CYC1000) (Channel)
@@ -156,6 +157,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Póster Retro Juegos](https://t.me/+z7BeH8IjlO5mMDc0) (Channel)
 * [R-R_8&16bits](https://t.me/retro_rev) (Group)
 * [Raspberry Pi EMULADORES Retro VIDEOJUEGOS](https://t.me/RaspberryPiEmuladores) (Group)
+* [Renoves & mucho más! Bricogame y Amigos](https://t.me/+aVBEIXHSEtgwNDA8) (Group)
 * [Retro 8 bits](https://t.me/Retro8bits) (Group)
 * [Retro Antena](https://t.me/+6kjYHC_sN8pjNGNh) (Channel)
 * [Retro Aventurαѕ](https://t.me/RetroAventuras) (Group)
