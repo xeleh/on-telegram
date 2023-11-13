@@ -4,10 +4,10 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (224 links)  
+[Retro](#Retro) (225 links)  
 [Demoscene](#Demoscene) (33 links)  
 [GameDev](#GameDev) (100 links)  
-[Programming](#Programming) (266 links)  
+[Programming](#Programming) (265 links)  
 [AI](#AI) (98 links)  
 
 Please feel free to create an issue or PR if you know other Telegram groups/channels (preferably those with a description) that may fit.
@@ -197,6 +197,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [WinUAEspañol](https://t.me/winuaespanol) (Group)
 * [Yo Tenia Un Juego](https://t.me/canalyoteniaunjuego) (Channel)
 * [z88dk](https://t.me/z88dk_org) (Group)
+* [ZX Spectrum Game Maker](https://t.me/zx_spectrum_game_maker) (Group)
 * [ZXDOS FPGA](https://t.me/zxdosfpga) (Group)
 * [ZXUNO](https://t.me/zxuno) (Group)
 
@@ -466,7 +467,6 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Devs Share](https://t.me/thedevs_share) (Group)
 * [DotAware: Off-Campus Tech Jobs](https://t.me/dot_aware) (Channel)
 * [FlutterDev](https://t.me/flutterDev) (Channel)
-* [Fraz](https://t.me/leadcoding) (Channel)
 * [Free PacktPub Daily](https://t.me/FreePacktPubDaily) (Channel)
 * [IT Books - Programming Books](https://t.me/itbook_store) (Channel)
 * [JAVA](https://t.me/joinchat/OD5CfRhqAzsHcdv_q9cvHw) (Group)
