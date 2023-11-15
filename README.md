@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (225 links)  
+[Retro](#Retro) (227 links)  
 [Demoscene](#Demoscene) (33 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (265 links)  
@@ -90,6 +90,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Boriel ZX Basic](https://t.me/+dSbWL8z8ol1lMjA0) (Group)
 * [BRICOGAME](https://t.me/bricogame) (Channel)
 * [Cafetería de las FPGAs](https://t.me/CafeteriaFPGA) (Group)
+* [Canarias Go Retro - Novedades](https://t.me/canariasgoretronoticias) (Channel)
 * [COLECCIONISMO COMMODORE AMIGA](https://t.me/ColeccionismoCommodoreAmiga) (Group)
 * [Commodore Amiga en Español](https://t.me/amigaspain) (Group)
 * [Comunidad Atari](https://t.me/comunidad_atari) (Group)
@@ -247,6 +248,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 ### German
 
+* [AMIGAWorld](https://t.me/amigaworld_de) (Group)
 * [Commodore 64 Chat](https://t.me/commodore64chat) (Group)
 
 ### Italian
