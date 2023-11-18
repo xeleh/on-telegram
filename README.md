@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (227 links)  
+[Retro](#Retro) (232 links)  
 [Demoscene](#Demoscene) (33 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (265 links)  
@@ -79,6 +79,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Arcades RetroAl Canal Oficial](https://t.me/arcades_retroal_canal_oficial) (Channel)
 * [Arcadespain](https://t.me/arcadespain) (Channel)
 * [ARCADIUM The Online RetroGaming System](https://t.me/ArcadiumRetroSystem) (Group)
+* [Archivo Retroinformática](https://t.me/joinchat/WAL3KyNrw9iDeScq) (Channel)
 * [ATARI ST GRUPO USUARIOS ESPAÑOL](https://t.me/joinchat/FoBR_wgmo-aACm2I) (Group)
 * [Atari ST/E Games](https://t.me/AtariSTGames) (Group)
 * [AtariCoders](https://t.me/ataricoders) (Group)
@@ -91,6 +92,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [BRICOGAME](https://t.me/bricogame) (Channel)
 * [Cafetería de las FPGAs](https://t.me/CafeteriaFPGA) (Group)
 * [Canarias Go Retro - Novedades](https://t.me/canariasgoretronoticias) (Channel)
+* [Clásicos básicos de #Msdos (by @Patxu_lee)](https://t.me/joinchat/WEUr4etRgq1cyXol) (Channel)
 * [COLECCIONISMO COMMODORE AMIGA](https://t.me/ColeccionismoCommodoreAmiga) (Group)
 * [Commodore Amiga en Español](https://t.me/amigaspain) (Group)
 * [Comunidad Atari](https://t.me/comunidad_atari) (Group)
@@ -117,7 +119,9 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [FPGAs](https://t.me/fpga_es) (Group)
 * [Game Boy Advance GBA ROMs](https://t.me/GameBoyAdvanceROMsGBA) (Channel)
 * [Game Boy España](https://t.me/GameboyEs) (Group)
+* [Grupo abierto Retroparla](https://t.me/joinchat/A5-6EBJ-CcOr0t1ah66l_w) (Group)
 * [HORUS Consolas y Roms](https://t.me/zonaretro) (Channel)
+* [INFORMATICA RETRO Y MERCADILLO](https://t.me/inforetro) (Group)
 * [Juanje Juega](https://t.me/canaldejuanje) (Channel)
 * [Kaoto Store](https://t.me/KaotoStore) (Channel)
 * [La ACHUS - Recreativos](https://t.me/+AHJ_8KbVYsI2MTdk) (Group)
@@ -146,6 +150,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [MSXBlog (Difusión)](https://t.me/msxblog) (Channel)
 * [Mundo Retro Videojuegos](https://t.me/mundo_retro) (Group)
 * [Museo de la Informática](https://t.me/museodelainformatica) (Channel)
+* [Museo de la Preservación Digital](https://t.me/mupredi) (Group)
 * [Museo del Videojuego - (Repositorio Digital)](https://t.me/museodelvideojuego) (Channel)
 * [N-GO (a ZX Spectrum Next clone)](https://t.me/+SWUgrvR6LTBEzeYp) (Group)
 * [OGA-OGS / RK2020 / RGB10-20-MAX / RG351P(M)-V / CANIFORCE](https://t.me/OdroidGoAdvance) (Group)
