@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (232 links)  
+[Retro](#Retro) (235 links)  
 [Demoscene](#Demoscene) (33 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (265 links)  
@@ -56,6 +56,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [RomsPokemon](https://t.me/RomsPokemon) (Channel)
 * [Sega Saturn](https://t.me/RomSet_SegaSaturn) (Channel)
 * [Vamped Amiga](https://t.me/vampedamiga) (Group)
+* [Vampire Amiga Dev](https://t.me/VampireGameDev) (Channel)
 * [Vintage Anthro Computer Coders](https://t.me/vintageanthrocomputercoders) (Group)
 * [千ⓜ тσώภＳ 𝔀Ỗ𝓡ℓ๔](https://t.me/FMT_X68K) (Group)
 
@@ -64,6 +65,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [8 bit Ordenadores: C64, CPC, Spectrum, Oric, MSX, Atari, etc.](https://t.me/ord8bit) (Group)
 * [AbadíaRetro](https://t.me/abadiaretro) (Group)
 * [ABANDONTECA](https://t.me/ABANDONTECA) (Channel)
+* [amiga pistorm](https://t.me/pistorm) (Group)
 * [Amiga Storage](https://t.me/+41X8i7iM4kRjYWRk) (Group)
 * [AMIGA](https://t.me/+xWW2dZGK6gE1NWZk) (Channel)
 * [amigafsx86](https://t.me/amigafsx86) (Group)
@@ -206,6 +208,10 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [ZX Spectrum Game Maker](https://t.me/zx_spectrum_game_maker) (Group)
 * [ZXDOS FPGA](https://t.me/zxdosfpga) (Group)
 * [ZXUNO](https://t.me/zxuno) (Group)
+
+### Catalan
+
+* [Amiga Development](https://t.me/amigadevelopment) (Channel)
 
 ### Russian
 
