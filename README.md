@@ -8,7 +8,7 @@ Subjects:
 [Demoscene](#Demoscene) (33 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (276 links)  
-[AI](#AI) (100 links)  
+[AI](#AI) (109 links)  
 
 Please feel free to create an issue or PR if you know other Telegram groups/channels (preferably those with a description) that may fit.
 
@@ -762,9 +762,11 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 ### English
 
+* [| Artificial Intelligence | Machine Learning |](https://t.me/Artificial_Intelligence_ML) (Group)
 * [AI / ML jobs, empl - NotificaJobs (artificial intelligence, Machine Learning)](https://t.me/notificaJobs_AI_MachineLearning) (Channel)
 * [AI & Deep Learning](https://t.me/deeplearning005) (Channel)
 * [AI Jobs](https://t.me/AiIndiaJobs) (Channel)
+* [AI Programming](https://t.me/freecodecs) (Channel)
 * [AI Toolbox](https://t.me/chatgpt_ask) (Channel)
 * [AI with Papers - Artificial Intelligence & Deep Learning](https://t.me/AI_DeepLearning) (Channel)
 * [AIGO Group Chat](https://t.me/aigochatgpt) (Group)
@@ -778,6 +780,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Artificial Intelligence ML](https://t.me/artificialintelligenceml) (Channel)
 * [Artificial Intelligence with Python](https://t.me/aiwithpy) (Group)
 * [Artificial Intelligence](https://t.me/Artificial_Intelligence_AI) (Channel)
+* [Artificial Intelligence](https://t.me/Artificial_intelligence_in) (Channel)
 * [Artificial Intelligence](https://t.me/ArtificialIntelligence7) (Channel)
 * [Artificial Intelligence](https://t.me/ArtificialIntelligencedl) (Channel)
 * [ArtificialIntelligenceArticles](https://t.me/ArtificialIntelligenceArticles) (Channel)
@@ -794,6 +797,9 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Chatgpt4](https://t.me/chatgpt4) (Channel)
 * [Computer Science and Programming](https://t.me/computer_science_and_programming) (Channel)
 * [DALL·E mini bot](https://t.me/dalle_mini_bot) (Bot)
+* [Data Science by ODS.ai](https://t.me/opendatascience) (Channel)
+* [Data Science, Machine Learning, AI & IOT](https://t.me/KDnuggets) (Channel)
+* [datascienceinfo](https://t.me/data_science_info) (Channel)
 * [GPT-3.5 + DALL·E](https://t.me/mozg_gpt_bot) (Bot)
 * [Learn.MachineLearning](https://t.me/LearnDotMachineLearning) (Channel)
 * [Machine learning chat](https://t.me/machinee_learning) (Group)
@@ -803,7 +809,10 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [MidJourney Dark](https://t.me/midjourney_dark) (Channel)
 * [MidJourney](https://t.me/MidJourney) (Channel)
 * [Neural channel | Deep Learning | Datascience | Dank Memes](https://t.me/neural_channel) (Channel)
+* [Plasma chatGPT 4 + Midjourney 5.2](https://t.me/Plasma_GPT_AI_Bot) (Bot)
 * [Python | Machine Learning | Coding | R](https://t.me/CodeProgrammer) (Channel)
+* [Skynet Chat](https://t.me/+4PrBO9Fb7mQ0ZmM6) (Group)
+* [Skynet Dreams](https://t.me/skynet_dreams) (Channel)
 * [Superalgos Machine Learning](https://t.me/superalgosmachinelearning) (Group)
 
 ### Spanish
