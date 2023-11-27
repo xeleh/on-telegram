@@ -8,7 +8,7 @@ Subjects:
 [Demoscene](#Demoscene) (33 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (265 links)  
-[AI](#AI) (98 links)  
+[AI](#AI) (100 links)  
 
 Please feel free to create an issue or PR if you know other Telegram groups/channels (preferably those with a description) that may fit.
 
@@ -781,6 +781,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [ChatGPT](https://t.me/chatgptzs_bot) (Bot)
 * [ChatGPT4 | Midjourney](https://t.me/gpt3_unlim_chatbot) (Bot)
 * [Chatgpt4](https://t.me/chatgpt4) (Channel)
+* [Computer Science and Programming](https://t.me/computer_science_and_programming) (Channel)
 * [DALL·E mini bot](https://t.me/dalle_mini_bot) (Bot)
 * [GPT-3.5 + DALL·E](https://t.me/mozg_gpt_bot) (Bot)
 * [Learn.MachineLearning](https://t.me/LearnDotMachineLearning) (Channel)
@@ -845,6 +846,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Generative AI](https://t.me/ai_generative) (Channel)
 * [Machine learning chat](https://t.me/machinee_learning) (Group)
 * [Machine learning Interview](https://t.me/machinelearning_interview) (Channel)
+* [Machine Learning World](https://t.me/ml_world) (Channel)
 * [Machine learning](https://t.me/datasciencecourse) (Group)
 * [Machinelearning](https://t.me/ai_machinelearning_big_data) (Channel)
 * [Majesticjourney](https://t.me/Midjourney9) (Channel)
