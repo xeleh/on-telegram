@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (235 links)  
+[Retro](#Retro) (245 links)  
 [Demoscene](#Demoscene) (33 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (276 links)  
@@ -34,8 +34,11 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Commodore 64](https://t.me/thec64) (Channel)
 * [CPC-DDI-Revival](https://t.me/+1E57s7QRpg8wNjU8) (Group)
 * [DAAD Ready](https://t.me/daadready) (Group)
+* [Furry Retro Gaming and Collecting](https://t.me/furryretrogaming) (Group)
 * [Game Boy Advance](https://t.me/gameboyadvancegba) (Channel)
 * [GamesNostalgia News](https://t.me/gamesnostalgia) (Channel)
+* [GDMSX](https://t.me/gdmsx) (Channel)
+* [GDMSX - Comments](https://t.me/gdmsxc) (Group)
 * [Interesting Computers and Retro Fun](https://t.me/RetroCompu) (Channel)
 * [m68k](https://t.me/m68k_info) (Group)
 * [MAME Roms](https://t.me/Mameroms2021) (Channel)
@@ -177,7 +180,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [RETRO-ARCADE ELX](https://t.me/retroarcadeelx) (Channel)
 * [Retro-Arcade EmulOS Team](https://t.me/Retro_Arcade_EmulOs_Team) (Group)
 * [RetroBits](https://t.me/RetroBits) (Group)
-* [Retrogaming TV](https://t.me/RetroGamingTV) (Channel)
+* [RetroBytes](https://t.me/RetrobytesCordoba) (Group)
 * [RetroCacharreo](https://t.me/RetroCacharreo) (Group)
 * [RetroComputingMurcia](https://t.me/retrocompMurcia) (Channel)
 * [RETROCONSOLAS](https://t.me/rg350spain) (Group)
@@ -185,8 +188,13 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [RetroDev ES](https://t.me/RetroDevSpain) (Group)
 * [RetroFox Amstrad – CPC/GX4000](https://t.me/RetroFoxAmstrad) (Channel)
 * [RetroGamers](https://t.me/retrogamers80) (Channel)
+* [RetroGamesHistory: RetroInformática y demás](https://t.me/+9F_ABE3XEjhhOTE0) (Group)
+* [RetroGamesHistory](https://t.me/RetroGamesHistory) (Channel)
+* [Retrogaming TV](https://t.me/RetroGamingTV) (Channel)
 * [RetroHobby30](https://t.me/retrohobby_30) (Group)
 * [Retroinformática](https://t.me/retroinformatica) (Group)
+* [Retromania Viejuner](https://t.me/retromaniaviejuner) (Channel)
+* [RetroManiacs](https://t.me/retrorafaxex) (Channel)
 * [RetroMercadillo](https://t.me/retromercadillo) (Group)
 * [RetroPC](https://t.me/GRUPORetroPC) (Group)
 * [RetroStoneES & retro en general](https://t.me/RetroStoneES) (Group)
@@ -202,6 +210,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Steam deck emuladores](https://t.me/steamdeckemuladores) (Channel)
 * [Tugurio Computacional](https://t.me/tuguriocomputacional) (Channel)
 * [UnAmiga Español](https://t.me/joinchat/FDjURBAeiE1hmVZbMWfGWg) (Group)
+* [ViejuMIX](https://t.me/ViejuMIX) (Channel)
 * [WinUAEspañol](https://t.me/winuaespanol) (Group)
 * [Yo Tenia Un Juego](https://t.me/canalyoteniaunjuego) (Channel)
 * [z88dk](https://t.me/z88dk_org) (Group)
@@ -264,6 +273,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 ### Italian
 
+* [Apulia Retrocomputing](https://t.me/ApuliaRetro) (Channel)
 * [ArcadeStory The Group](https://t.me/Arcadestorygroup) (Group)
 * [Commodore 64](https://t.me/commodorec64) (Channel)
 * [MS-DOS ITALIA](https://t.me/msdositalia) (Group)
