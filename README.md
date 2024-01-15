@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (245 links)  
+[Retro](#Retro) (253 links)  
 [Demoscene](#Demoscene) (33 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (291 links)  
@@ -25,6 +25,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [8bit.fm](https://t.me/bit8fm) (Channel)
 * [8bits4ever](https://t.me/eightbitsforever) (Group)
 * [Amiga](https://t.me/amigaaaa) (Group)
+* [amiga500](https://t.me/amiga500backtolife) (Channel)
 * [AmigaWarez](https://t.me/joinchat/-qIghJQ6SWk5OTU0) (Group)
 * [AmigaWarez](https://t.me/joinchat/xnwDU7MYdAkxZGU0) (Channel)
 * [ArcadeGamesRaspberryPi](https://t.me/+WUxkfTUyozgNovlj) (Group)
@@ -37,8 +38,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Furry Retro Gaming and Collecting](https://t.me/furryretrogaming) (Group)
 * [Game Boy Advance](https://t.me/gameboyadvancegba) (Channel)
 * [GamesNostalgia News](https://t.me/gamesnostalgia) (Channel)
-* [GDMSX](https://t.me/gdmsx) (Channel)
 * [GDMSX - Comments](https://t.me/gdmsxc) (Group)
+* [GDMSX](https://t.me/gdmsx) (Channel)
 * [Interesting Computers and Retro Fun](https://t.me/RetroCompu) (Channel)
 * [m68k](https://t.me/m68k_info) (Group)
 * [MAME Roms](https://t.me/Mameroms2021) (Channel)
@@ -72,6 +73,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Amiga Storage](https://t.me/+41X8i7iM4kRjYWRk) (Group)
 * [AMIGA](https://t.me/+xWW2dZGK6gE1NWZk) (Channel)
 * [amigafsx86](https://t.me/amigafsx86) (Group)
+* [amigagames plus (oficial)](https://t.me/amigagamesplus) (Channel)
 * [️amigagames](https://t.me/amigagames) (Group)
 * [amigamarkt](https://t.me/amigamarkt) (Group)
 * [Amigawave audios](https://t.me/amigawaveaudios) (Channel)
@@ -122,6 +124,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [ESPectrum](https://t.me/ZXESPectrum) (Channel)
 * [FPGAmakers](https://t.me/FPGAmakers) (Group)
 * [FPGAs](https://t.me/fpga_es) (Group)
+* [FS-UAE-para-AmigaGames](https://t.me/fs_uae_win32_para_ag) (Channel)
 * [Game Boy Advance GBA ROMs](https://t.me/GameBoyAdvanceROMsGBA) (Channel)
 * [Game Boy España](https://t.me/GameboyEs) (Group)
 * [Grupo abierto Retroparla](https://t.me/joinchat/A5-6EBJ-CcOr0t1ah66l_w) (Group)
@@ -202,6 +205,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [RetroSyS](https://t.me/RetroSysW) (Channel)
 * [Revistas_Retro (ES)](https://t.me/joinchat/AAAAAE8OEyfSoutoIv6B8g) (Channel)
 * [Roms Retro](https://t.me/romsretro) (Channel)
+* [Roms y Musicas De Sega Genesis/MegaDrive](https://t.me/SegaGenesisRomsAndSoundTracks) (Group)
 * [romset gamecube](https://t.me/gamecubeextrem) (Channel)
 * [Romset PSX](https://t.me/romsetpsx) (Channel)
 * [SG-1000](https://t.me/+ih6QScTUCIphNDk0) (Channel)
@@ -239,6 +243,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [retrodevil](https://t.me/retrodevil) (Group)
 * [retrodevs](https://t.me/retrodevs) (Group)
 * [Ru_PDP](https://t.me/ru_pdp) (Group)
+* [Sega Mega Drive | Genesis](https://t.me/megadrivesega) (Channel)
 * [speccy code](https://t.me/speccy_code) (Group)
 * [Speccy hardware](https://t.me/speccy_hard) (Group)
 * [speccy music](https://t.me/speccymusic) (Group)
@@ -273,6 +278,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 ### Italian
 
+* [A500 Mini](https://t.me/A500mini) (Group)
+* [Amiga Forever](https://t.me/amigagame) (Channel)
 * [Apulia Retrocomputing](https://t.me/ApuliaRetro) (Channel)
 * [ArcadeStory The Group](https://t.me/Arcadestorygroup) (Group)
 * [Commodore 64](https://t.me/commodorec64) (Channel)
@@ -282,6 +289,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Retrocomputer Italia](https://t.me/retrocomputingitalia) (Group)
 * [Retrocomputers sales](https://t.me/retrocomputers) (Channel)
 * [RetroTech&RetroGaming](https://t.me/RetroComputerGaming) (Group)
+* [The A500 Mini Ita & Amiga Channel 2](https://t.me/TheA500miniitaAmigachanel2) (Group)
 * [ZX Spectrum](https://t.me/sinclairspectrum) (Channel)
 
 <br>
