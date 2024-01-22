@@ -4,11 +4,11 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (253 links)  
-[Demoscene](#Demoscene) (33 links)  
+[Retro](#Retro) (254 links)  
+[Demoscene](#Demoscene) (35 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (291 links)  
-[AI](#AI) (109 links)  
+[AI](#AI) (111 links)  
 
 Please feel free to create an issue or PR if you know other Telegram groups/channels (preferably those with a description) that may fit.
 
@@ -24,6 +24,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [8bit text adventures](https://t.me/Advent8bit) (Group)
 * [8bit.fm](https://t.me/bit8fm) (Channel)
 * [8bits4ever](https://t.me/eightbitsforever) (Group)
+* [AMIGA ND GAMES WORKBENCH EDITION](https://t.me/AMIGACOLLECTION) (Channel)
 * [Amiga](https://t.me/amigaaaa) (Group)
 * [amiga500](https://t.me/amiga500backtolife) (Channel)
 * [AmigaWarez](https://t.me/joinchat/-qIghJQ6SWk5OTU0) (Group)
@@ -308,6 +309,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Demoscene](https://t.me/demoscene_channel) (Channel)
 * [Demoscene](https://t.me/demoscenetg) (Group)
 * [DMSCN](https://t.me/demoscene) (Channel)
+* [Graffathon](https://t.me/graffathon) (Group)
 * [hyperadio](https://t.me/hyperadio_bot) (Bot)
 * [Noncommercial Demoscene/Netlabel/Chiptune Music](https://t.me/Noncommercial_Music_Fangroup) (Channel)
 * [SizeCoding Tricks](https://t.me/sizecoding) (Channel)
@@ -317,6 +319,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [#demoescena](https://t.me/demoescena) (Group)
 * [posadasparty.com](https://t.me/posadasparty) (Group)
 * [pouet.net Bot - Demoscene Info](https://t.me/pouetnetbot) (Bot)
+* [Subcultura.digital](https://t.me/+R-ixTdpQVTRrAjuT) (Group)
 
 ### Russian
 
@@ -820,6 +823,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Bard AI](https://t.me/bard_kpbot) (Bot)
 * [Chat GPT 5](https://t.me/chatgpt5) (Channel)
 * [Chat GPT](https://t.me/gpt_chat) (Channel)
+* [ChatGPT official](https://t.me/CustomGPTAi) (Channel)
 * [ChatGPT (GPT-4)](https://t.me/chatgpt_karfly_bot) (Bot)
 * [ChatGPT & Midjourney | AI bot](https://t.me/GPT4Telegrambot) (Bot)
 * [ChatGPT & Midjourney | New bot](https://t.me/GPT4Tbot) (Bot)
@@ -833,6 +837,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Data Science by ODS.ai](https://t.me/opendatascience) (Channel)
 * [Data Science, Machine Learning, AI & IOT](https://t.me/KDnuggets) (Channel)
 * [datascienceinfo](https://t.me/data_science_info) (Channel)
+* [GPT Demos](https://t.me/GPT3_Demos) (Channel)
 * [GPT-3.5 + DALL·E](https://t.me/mozg_gpt_bot) (Bot)
 * [Learn.MachineLearning](https://t.me/LearnDotMachineLearning) (Channel)
 * [Machine learning chat](https://t.me/machinee_learning) (Group)
