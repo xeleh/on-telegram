@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (254 links)  
+[Retro](#Retro) (258 links)  
 [Demoscene](#Demoscene) (35 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (291 links)  
@@ -169,6 +169,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Pinball Edition - CoinOPS](https://t.me/PinballEdition) (Group)
 * [PiStorm for Amiga](https://t.me/PiStormforAmiga) (Group)
 * [Póster Retro Juegos](https://t.me/+z7BeH8IjlO5mMDc0) (Channel)
+* [POWADCR - Powa Digital Cassette Recorder](https://t.me/powatap_recorder) (Group)
+* [Preservación de Videojuegos/Videogame Preservation](https://t.me/preservacionvideojuegos) (Channel)
 * [R-R_8&16bits](https://t.me/retro_rev) (Group)
 * [Raspberry Pi EMULADORES Retro VIDEOJUEGOS](https://t.me/RaspberryPiEmuladores) (Group)
 * [Renoves & mucho más! Bricogame y Amigos](https://t.me/+aVBEIXHSEtgwNDA8) (Group)
@@ -200,6 +202,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Retromania Viejuner](https://t.me/retromaniaviejuner) (Channel)
 * [RetroManiacs](https://t.me/retrorafaxex) (Channel)
 * [RetroMercadillo](https://t.me/retromercadillo) (Group)
+* [Retro OFERTAS TV (Canal Retrovideojuegos TV)](https://t.me/RETROFERTASTV) (Channel)
 * [RetroPC](https://t.me/GRUPORetroPC) (Group)
 * [RetroStoneES & retro en general](https://t.me/RetroStoneES) (Group)
 * [RetroStoneES+](https://t.me/RSESplus) (Channel)
@@ -211,6 +214,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Romset PSX](https://t.me/romsetpsx) (Channel)
 * [SG-1000](https://t.me/+ih6QScTUCIphNDk0) (Channel)
 * [Sharp X68000 Español](https://t.me/+7KOc69bLQBxlMTNk) (Group)
+* [SCP Rulez!](https://t.me/+NRssOzcdNWA5MDI0) (Group)
 * [Spectrum Next ES](https://t.me/zxnext) (Group)
 * [Steam deck emuladores](https://t.me/steamdeckemuladores) (Channel)
 * [Tugurio Computacional](https://t.me/tuguriocomputacional) (Channel)
