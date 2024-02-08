@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (258 links)  
+[Retro](#Retro) (261 links)  
 [Demoscene](#Demoscene) (35 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (291 links)  
@@ -130,6 +130,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Game Boy España](https://t.me/GameboyEs) (Group)
 * [Grupo abierto Retroparla](https://t.me/joinchat/A5-6EBJ-CcOr0t1ah66l_w) (Group)
 * [HORUS Consolas y Roms](https://t.me/zonaretro) (Channel)
+* [Huelva Informatica Retro](https://t.me/huelvaretro) (Group)
 * [INFORMATICA RETRO Y MERCADILLO](https://t.me/inforetro) (Group)
 * [Juanje Juega](https://t.me/canaldejuanje) (Channel)
 * [Kaoto Store](https://t.me/KaotoStore) (Channel)
@@ -174,6 +175,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [R-R_8&16bits](https://t.me/retro_rev) (Group)
 * [Raspberry Pi EMULADORES Retro VIDEOJUEGOS](https://t.me/RaspberryPiEmuladores) (Group)
 * [Renoves & mucho más! Bricogame y Amigos](https://t.me/+aVBEIXHSEtgwNDA8) (Group)
+* [Reparaciones Retro Informática](https://t.me/RetroReparaciones) (Group)
 * [Retro 8 bits](https://t.me/Retro8bits) (Group)
 * [Retro Antena](https://t.me/+6kjYHC_sN8pjNGNh) (Channel)
 * [Retro Aventurαѕ](https://t.me/RetroAventuras) (Group)
@@ -215,6 +217,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [SG-1000](https://t.me/+ih6QScTUCIphNDk0) (Channel)
 * [Sharp X68000 Español](https://t.me/+7KOc69bLQBxlMTNk) (Group)
 * [SCP Rulez!](https://t.me/+NRssOzcdNWA5MDI0) (Group)
+* [Sega Master System y Game Gear](https://t.me/SegaMasterSystem_ESP) (Group)
 * [Spectrum Next ES](https://t.me/zxnext) (Group)
 * [Steam deck emuladores](https://t.me/steamdeckemuladores) (Channel)
 * [Tugurio Computacional](https://t.me/tuguriocomputacional) (Channel)
