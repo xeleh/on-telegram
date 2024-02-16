@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (268 links)  
+[Retro](#Retro) (274 links)  
 [Demoscene](#Demoscene) (35 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (291 links)  
@@ -21,127 +21,128 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 ### English
 
-* [8bit text adventures](https://t.me/Advent8bit) (Group)
+* [8bit text adventures](https://t.me/Advent8bit) (Group) <!-- 05/10/2023 -->
 * [8bit.fm](https://t.me/bit8fm) (Channel)
 * [8bits4ever](https://t.me/eightbitsforever) (Group)
-* [AMIGA ND GAMES WORKBENCH EDITION](https://t.me/AMIGACOLLECTION) (Channel)
-* [Amiga](https://t.me/amigaaaa) (Group)
-* [amiga500](https://t.me/amiga500backtolife) (Channel)
-* [AmigaWarez](https://t.me/joinchat/-qIghJQ6SWk5OTU0) (Group)
-* [AmigaWarez](https://t.me/joinchat/xnwDU7MYdAkxZGU0) (Channel)
-* [ArcadeGamesRaspberryPi](https://t.me/+WUxkfTUyozgNovlj) (Group)
+* [AMIGA ND GAMES WORKBENCH EDITION](https://t.me/AMIGACOLLECTION) (Channel) <!-- 19/01/2024 -->
+* [Amiga](https://t.me/amigaaaa) (Group) <!-- 04/10/2023 -->
+* [amiga500](https://t.me/amiga500backtolife) (Channel) <!-- 14/01/2024 -->
+* [AmigaWarez](https://t.me/joinchat/-qIghJQ6SWk5OTU0) (Group) <!-- 04/10/2023 -->
+* [AmigaWarez](https://t.me/joinchat/xnwDU7MYdAkxZGU0) (Channel) <!-- 04/10/2023 -->
+* [ArcadeGamesRaspberryPi](https://t.me/+WUxkfTUyozgNovlj) (Group) <!-- 10/10/2023 -->
 * [Comm6x, mini, maxi, Vic20, A500 mini](https://t.me/+bsrwc305xrE0NmJk) (Group)
-* [Commodore 64 Art Daily](https://t.me/c64artdaily) (Channel)
-* [Commodore 64 Remix](https://t.me/Commodore64_Remix) (Channel)
-* [Commodore 64](https://t.me/thec64) (Channel)
-* [CPC-DDI-Revival](https://t.me/+1E57s7QRpg8wNjU8) (Group)
-* [DAAD Ready](https://t.me/daadready) (Group)
-* [Furry Retro Gaming and Collecting](https://t.me/furryretrogaming) (Group)
-* [Game Boy Advance](https://t.me/gameboyadvancegba) (Channel)
-* [GamesNostalgia News](https://t.me/gamesnostalgia) (Channel)
-* [GDMSX - Comments](https://t.me/gdmsxc) (Group)
-* [GDMSX](https://t.me/gdmsx) (Channel)
-* [Interesting Computers and Retro Fun](https://t.me/RetroCompu) (Channel)
+* [Commodore 64 Art Daily](https://t.me/c64artdaily) (Channel) <!-- 04/10/2023 -->
+* [Commodore 64 Remix](https://t.me/Commodore64_Remix) (Channel) <!-- 04/10/2023 -->
+* [Commodore 64](https://t.me/thec64) (Channel) <!-- 04/10/2023 -->
+* [CPC-DDI-Revival](https://t.me/+1E57s7QRpg8wNjU8) (Group) <!-- 04/10/2023 -->
+* [DAAD Ready](https://t.me/daadready) (Group) <!-- 04/10/2023 -->
+* [千ⓜ тσώภＳ 𝔀Ỗ𝓡ℓ๔](https://t.me/FMT_X68K) (Group) <!-- 04/10/2023 -->
+* [Furry Retro Gaming and Collecting](https://t.me/furryretrogaming) (Group) <!-- 06/12/2023 -->
+* [Game Boy Advance](https://t.me/gameboyadvancegba) (Channel) <!-- 08/10/2023 -->
+* [GamesNostalgia News](https://t.me/gamesnostalgia) (Channel) <!-- 28/10/2023 -->
+* [GDMSX - Comments](https://t.me/gdmsxc) (Group) <!-- 09/12/2023 -->
+* [GDMSX](https://t.me/gdmsx) (Channel) <!-- 09/12/2023 -->
+* [Interesting Computers and Retro Fun](https://t.me/RetroCompu) (Channel) <!-- 11/10/2023 -->
 * [m68k](https://t.me/m68k_info) (Group)
 * [MAME Roms](https://t.me/Mameroms2021) (Channel)
 * [MASTER BOOT RECORD](https://t.me/master_boot_record) (Channel)
-* [NeoGeo Fans](https://t.me/neogeofans) (Group)
-* [NeoGeoCFW](https://t.me/NeoGeoCFW) (Channel)
+* [Neo-Geo](https://t.me/RomSet_NeoGeo) (Channel) <!-- 13/10/2023 -->
+* [Neo-Geo CD](https://t.me/RomSet_NeoGeoCD) (Channel) <!-- 13/10/2023 -->
+* [NeoGeo Fans](https://t.me/neogeofans) (Group) <!-- 12/10/2023 -->
+* [NeoGeoCFW](https://t.me/NeoGeoCFW) (Channel) <!-- 10/10/2023 -->
 * [NeptUNO+](https://t.me/neptuno_plus) (Group)
-* [Nintendo 64](https://t.me/RomSet_Nintendo64) (Channel)
-* [Retro Computer Furs 2.0](https://t.me/RetroComputerFursv2) (Group)
-* [Retro game ROMs](https://t.me/retrogamer) (Channel)
-* [Retro Gamer Furs](https://t.me/RetroGamerFurs) (Group)
-* [Retro Games](https://t.me/retrogames) (Channel)
+* [Nintendo 64](https://t.me/RomSet_Nintendo64) (Channel) <!-- 13/10/2023 -->
+* [Retro Computer Furs 2.0](https://t.me/RetroComputerFursv2) (Group) <!-- 09/10/2023 -->
+* [Retro game ROMs](https://t.me/retrogamer) (Channel) <!-- 06/10/2023 -->
+* [Retro Gamer Furs](https://t.me/RetroGamerFurs) (Group) <!-- 07/10/2023 -->
+* [Retro Games](https://t.me/retrogames) (Channel) <!-- 08/10/2023 -->
 * [retrocomputingbr](https://t.me/retrocomputingbr) (Group)
-* [RetroMagazine World](https://t.me/RetroMagazineW) (Channel)
+* [RetroMagazine World](https://t.me/RetroMagazineW) (Channel) <!-- 06/10/2023 -->
 * [roms_neogeo](https://t.me/roms_neogeo) (Channel)
 * [RomsDS](https://t.me/RomsDS) (Channel)
-* [RomSet Neo-Geo CD](https://t.me/RomSet_NeoGeoCD) (Channel)
-* [RomSet Neo-Geo](https://t.me/RomSet_NeoGeo) (Channel)
 * [RomsPokemon](https://t.me/RomsPokemon) (Channel)
-* [Sega Saturn](https://t.me/RomSet_SegaSaturn) (Channel)
-* [Vamped Amiga](https://t.me/vampedamiga) (Group)
-* [Vampire Amiga Dev](https://t.me/VampireGameDev) (Channel)
-* [Vintage Anthro Computer Coders](https://t.me/vintageanthrocomputercoders) (Group)
-* [千ⓜ тσώภＳ 𝔀Ỗ𝓡ℓ๔](https://t.me/FMT_X68K) (Group)
+* [Sega Saturn](https://t.me/RomSet_SegaSaturn) (Channel) <!-- 13/10/2023 -->
+* [Vamped Amiga](https://t.me/vampedamiga) (Group) <!-- 04/10/2023 -->
+* [Vampire Amiga Dev](https://t.me/VampireGameDev) (Channel) <!-- 24/11/2023 -->
+* [Vintage Anthro Computer Coders](https://t.me/vintageanthrocomputercoders) (Group) <!-- 08/10/2023 -->
 
 ### Spanish
 
-* [../repositorio [ag+]](https://t.me/agplus_repositorio) (Group)
-* [8 bit Ordenadores: C64, CPC, Spectrum, Oric, MSX, Atari, etc.](https://t.me/ord8bit) (Group)
+* [../repositorio [ag+]](https://t.me/agplus_repositorio) (Group) <!-- 15/02/2024 -->
+* [8 bit Ordenadores: C64, CPC, Spectrum, Oric, MSX, Atari, etc.](https://t.me/ord8bit) (Group) <!-- 04/10/2023 -->
 * [AbadíaRetro](https://t.me/abadiaretro) (Group)
-* [ABANDONTECA](https://t.me/ABANDONTECA) (Channel)
-* [amiga pistorm](https://t.me/pistorm) (Group)
-* [Amiga Storage](https://t.me/+41X8i7iM4kRjYWRk) (Group)
-* [AMIGA](https://t.me/+xWW2dZGK6gE1NWZk) (Channel)
-* [amigafsx86](https://t.me/amigafsx86) (Group)
-* [amigagames plus (oficial)](https://t.me/amigagamesplus) (Channel)
-* [️amigagames](https://t.me/amigagames) (Group)
-* [amigamarkt](https://t.me/amigamarkt) (Group)
+* [ABANDONTECA](https://t.me/ABANDONTECA) (Channel) <!-- 04/10/2023 -->
+* [amiga pistorm](https://t.me/pistorm) (Group) <!-- 24/11/2023 -->
+* [Amiga Storage](https://t.me/+41X8i7iM4kRjYWRk) (Group) <!-- 04/10/2023 -->
+* [AMIGA](https://t.me/+xWW2dZGK6gE1NWZk) (Channel) <!-- 04/10/2023 -->
+* [amigafsx86](https://t.me/amigafsx86) (Group) <!-- 04/10/2023 -->
+* [amigagames plus (oficial)](https://t.me/amigagamesplus) (Channel) <!-- 14/01/2024 -->
+* [️amigagames](https://t.me/amigagames) (Group) <!-- 04/10/2023 -->
+* [amigamarkt](https://t.me/amigamarkt) (Group) <!-- 04/10/2023 -->
 * [Amigawave audios](https://t.me/amigawaveaudios) (Channel)
-* [AminetOS](https://t.me/AminetOS) (Group)
+* [AminetOS](https://t.me/AminetOS) (Group) <!-- 04/10/2023 -->
 * [Amstrad Eterno](https://t.me/amstradeterno) (Group)
-* [AMSTRAD POWER compra-venta](https://t.me/AmstradPower_CompraVenta) (Group)
-* [AMSTRAD POWER LiliCPC](https://t.me/LiliCPC) (Group)
-* [AMSTRAD POWER](https://t.me/amstradpower) (Group)
-* [Aportes Comunidad Atari](https://t.me/comunidad_atari_aportes) (Group)
-* [Arcades RetroAl Canal Oficial](https://t.me/arcades_retroal_canal_oficial) (Channel)
-* [Arcadespain](https://t.me/arcadespain) (Channel)
-* [ARCADIUM The Online RetroGaming System](https://t.me/ArcadiumRetroSystem) (Group)
-* [Archivo Retroinformática](https://t.me/joinchat/WAL3KyNrw9iDeScq) (Channel)
-* [ATARI ST GRUPO USUARIOS ESPAÑOL](https://t.me/joinchat/FoBR_wgmo-aACm2I) (Group)
-* [Atari ST/E Games](https://t.me/AtariSTGames) (Group)
-* [AtariCoders](https://t.me/ataricoders) (Group)
-* [Batocera PC Español](https://t.me/BatoceraPCesp) (Group)
-* [BEST OF THE BEST - Raspberry Pi0, Pi1, Pi2, Pi3, Pi4, TVBOX Emuelec, PC, Windows. Batocera, Retropie, Emuelec](https://t.me/BOB_Retropie_Windows) (Channel)
-* [BOB - Mejores juegos viejunos para Raspberry pi0/1/2/3/4, Batocera, Emuelec tvbox, OGA, PC, Mac, Windows. Sala de dudas.](https://t.me/BOB_retropie_windows_dudas) (Group)
+* [AMSTRAD POWER compra-venta](https://t.me/AmstradPower_CompraVenta) (Group) <!-- 19/10/2023 -->
+* [AMSTRAD POWER LiliCPC](https://t.me/LiliCPC) (Group) <!-- 09/10/2023 -->
+* [AMSTRAD POWER](https://t.me/amstradpower) (Group) <!-- 04/10/2023 -->
+* [Aportes Comunidad Atari](https://t.me/comunidad_atari_aportes) (Group) <!-- 04/10/2023 -->
+* [Arcades RetroAl Canal Oficial](https://t.me/arcades_retroal_canal_oficial) (Channel) <!-- 17/10/2023 -->
+* [Arcadespain](https://t.me/arcadespain) (Channel) <!-- 20/10/2023 -->
+* [ARCADIUM The Online RetroGaming System](https://t.me/ArcadiumRetroSystem) (Group) <!-- 09/10/2023 -->
+* [Archivo Retroinformática](https://t.me/joinchat/WAL3KyNrw9iDeScq) (Channel) <!-- 19/11/2023 -->
+* [ATARI ST GRUPO USUARIOS ESPAÑOL](https://t.me/joinchat/FoBR_wgmo-aACm2I) (Group) <!-- 11/10/2023 -->
+* [Atari ST/E Games](https://t.me/AtariSTGames) (Group) <!-- 04/10/2023 -->
+* [AtariCoders](https://t.me/ataricoders) (Group) <!-- 04/10/2023 -->
+* [Batocera PC Español](https://t.me/BatoceraPCesp) (Group) <!-- 05/10/2023 -->
+* [BEST OF THE BEST - Raspberry Pi0, Pi1, Pi2, Pi3, Pi4, TVBOX Emuelec, PC, Windows. Batocera, Retropie, Emuelec](https://t.me/BOB_Retropie_Windows) (Channel) <!-- 08/10/2023 -->
+* [BOB - Mejores juegos viejunos para Raspberry pi0/1/2/3/4, Batocera, Emuelec tvbox, OGA, PC, Mac, Windows. Sala de dudas.](https://t.me/BOB_retropie_windows_dudas) (Group) <!-- 12/10/2023 -->
 * [BOB canal de descargas](https://t.me/BOBcera) (Channel)
-* [BOBcera Pi4 128GB](https://t.me/BOBcera_Pi4_128) (Channel)
-* [Boriel ZX Basic](https://t.me/+dSbWL8z8ol1lMjA0) (Group)
-* [BRICOGAME](https://t.me/bricogame) (Channel)
-* [Cafetería de las FPGAs](https://t.me/CafeteriaFPGA) (Group)
-* [Canarias Go Retro - Novedades](https://t.me/canariasgoretronoticias) (Channel)
-* [Clásicos básicos de #Msdos (by @Patxu_lee)](https://t.me/joinchat/WEUr4etRgq1cyXol) (Channel)
-* [COLECCIONISMO COMMODORE AMIGA](https://t.me/ColeccionismoCommodoreAmiga) (Group)
-* [Commodore Amiga en Español](https://t.me/amigaspain) (Group)
-* [Comunidad Atari](https://t.me/comunidad_atari) (Group)
-* [Consolas MINI y EMULACION en sistemas RETRO (SNES/NES/MD/PSX Classic Mini...)](https://t.me/snesminiroms) (Group)
+* [BOBcera Pi4 128GB](https://t.me/BOBcera_Pi4_128) (Channel) <!-- 05/10/2023 -->
+* [Boriel ZX Basic](https://t.me/+dSbWL8z8ol1lMjA0) (Group) <!-- 05/10/2023 -->
+* [BRICOGAME](https://t.me/bricogame) (Channel) <!-- 26/10/2023 -->
+* [Cafetería de las FPGAs](https://t.me/CafeteriaFPGA) (Group) <!-- 07/10/2023 -->
+* [Canarias Go Retro - Novedades](https://t.me/canariasgoretronoticias) (Channel) <!-- 15/11/2023 -->
+* [Clásicos básicos de #Msdos (by @Patxu_lee)](https://t.me/joinchat/WEUr4etRgq1cyXol) (Channel) <!-- 19/11/2023 -->
+* [COLECCIONISMO COMMODORE AMIGA](https://t.me/ColeccionismoCommodoreAmiga) (Group) <!-- 04/10/2023 -->
+* [Commodore Amiga en Español](https://t.me/amigaspain) (Group) <!-- 04/10/2023 -->
+* [Comunidad Atari](https://t.me/comunidad_atari) (Group) <!-- 04/10/2023 -->
+* [Consolas MINI y EMULACION en sistemas RETRO (SNES/NES/MD/PSX Classic Mini...)](https://t.me/snesminiroms) (Group) <!-- 04/10/2023 -->
 * [Cpctelera](https://t.me/cpctelera_asm) (Group)
-* [Creativo en Japón](https://t.me/creativoenjaponOFICIAL) (Group)
-* [CURSO BASIC AsteroideZX](https://t.me/CURSOBASICAsteroideZX) (Group)
+* [Creativo en Japón](https://t.me/creativoenjaponOFICIAL) (Group) <!-- 29/10/2023 -->
+* [CURSO BASIC AsteroideZX](https://t.me/CURSOBASICAsteroideZX) (Group) <!-- 06/10/2023 -->
 * [Curso Basic ZX](https://t.me/CursoBasicZX) (Group)
 * [CYC1000 & MAX1000](https://t.me/CYC1000) (Channel)
-* [DAAD Ready](https://t.me/daadready) (Group)
-* [DEZ80 - Dominando Ensamblador del Z80](https://t.me/asmz80) (Group)
+* [DAAD Ready](https://t.me/daadready) (Group) <!-- 04/10/2023 -->
+* [DEZ80 - Dominando Ensamblador del Z80](https://t.me/asmz80) (Group) <!-- 04/10/2023 -->
 * [El almacen AbadiaRetro](https://t.me/alamacen) (Channel)
-* [El Hogar del MSX](https://t.me/el_hogar_del_msx) (Group)
-* [El laberinto de PacMan](https://t.me/laberintopacman) (Group)
-* [El mundo del Spectrum Podcast](https://t.me/joinchat/CLSbG1jr4OmhoKFiR2_UVQ) (Group)
-* [EMUENET Retro Arcade Online Games, sala NETPLAY para tv box Amlogic, raspberry pi, PC win64, odroid go super & rgb 10 max](https://t.me/emuenetgroup) (Group)
-* [Emulacion TVBox EmuELEC.](https://t.me/Emutvbox) (Group)
+* [El Hogar del MSX](https://t.me/el_hogar_del_msx) (Group) <!-- 04/10/2023 -->
+* [El laberinto de PacMan](https://t.me/laberintopacman) (Group) <!-- 04/10/2023 -->
+* [El mundo del Spectrum Podcast](https://t.me/joinchat/CLSbG1jr4OmhoKFiR2_UVQ) (Group) <!-- 08/10/2023 -->
+* [EMUENET Retro Arcade Online Games, sala NETPLAY para tv box Amlogic, raspberry pi, PC win64, odroid go super & rgb 10 max](https://t.me/emuenetgroup) (Group) <!-- 18/10/2023 -->
+* [Emulacion TVBox EmuELEC.](https://t.me/Emutvbox) (Group) <!-- 04/10/2023 -->
 * [Emuladores — Roms — PS1 — SEGA — NEOGEO](https://t.me/Emuladoresromsneogeosega) (Channel)
-* [Ensamblador 6502](https://t.me/Ensamblador_6502) (Group)
-* [Ensamblador 68000](https://t.me/Ensamblador_68000) (Group)
-* [Ensamblador Z80 (ZX Spectrum, Amstrad, MSX y más)](https://t.me/EnsambladorZXSpectrum) (Group)
-* [ESPectrum](https://t.me/ZXESPectrum) (Channel)
-* [FPGAmakers](https://t.me/FPGAmakers) (Group)
-* [FPGAs](https://t.me/fpga_es) (Group)
-* [FS-UAE-para-AmigaGames](https://t.me/fs_uae_win32_para_ag) (Channel)
-* [Game Boy Advance GBA ROMs](https://t.me/GameBoyAdvanceROMsGBA) (Channel)
-* [Game Boy España](https://t.me/GameboyEs) (Group)
+* [Ensamblador 6502](https://t.me/Ensamblador_6502) (Group) <!-- 04/10/2023 -->
+* [Ensamblador 68000](https://t.me/Ensamblador_68000) (Group) <!-- 04/10/2023 -->
+* [Ensamblador Z80 (ZX Spectrum, Amstrad, MSX y más)](https://t.me/EnsambladorZXSpectrum) (Group) <!-- 04/10/2023 -->
+* [ESPectrum](https://t.me/ZXESPectrum) (Channel) <!-- 17/10/2023 -->
+* [FPGAmakers](https://t.me/FPGAmakers) (Group) <!-- 04/10/2023 -->
+* [FPGAs](https://t.me/fpga_es) (Group) <!-- 09/10/2023 -->
+* [FS-UAE-para-AmigaGames](https://t.me/fs_uae_win32_para_ag) (Channel) <!-- 15/01/2024 -->
+* [Game Boy Advance GBA ROMs](https://t.me/GameBoyAdvanceROMsGBA) (Channel) <!-- 08/10/2023 -->
+* [Game Boy España](https://t.me/GameboyEs) (Group) <!-- 06/10/2023 -->
 * [Grupo abierto Retroparla](https://t.me/joinchat/A5-6EBJ-CcOr0t1ah66l_w) (Group)
-* [HORUS Consolas y Roms](https://t.me/zonaretro) (Channel)
-* [Huelva Informatica Retro](https://t.me/huelvaretro) (Group)
-* [INFORMATICA RETRO Y MERCADILLO](https://t.me/inforetro) (Group)
-* [Juanje Juega](https://t.me/canaldejuanje) (Channel)
+* [GRUPORetroPC](https://t.me/GRUPORetroPC) (Group) <!-- 04/10/2023 -->
+* [HORUS Consolas y Roms](https://t.me/zonaretro) (Channel) <!-- 04/10/2023 -->
+* [Huelva Informatica Retro](https://t.me/huelvaretro) (Group) <!-- 04/02/2024 -->
+* [INFORMATICA RETRO Y MERCADILLO](https://t.me/inforetro) (Group) <!-- 18/11/2023 -->
+* [Juanje Juega](https://t.me/canaldejuanje) (Channel) <!-- 05/10/2023 -->
 * [Kaoto Store](https://t.me/KaotoStore) (Channel)
-* [La ACHUS - Recreativos](https://t.me/+AHJ_8KbVYsI2MTdk) (Group)
-* [Macintosh classic 68k y PPC](https://t.me/mac68kPPC) (Group)
-* [MAME32 OFICIAL - EMULADOR DE ARCADES](https://t.me/MAME32DESCARGAS) (Channel)
-* [Mega Drive/Genesis ROMs](https://t.me/MegaDriveROMsGenesis) (Channel)
+* [La ACHUS - Recreativos](https://t.me/+AHJ_8KbVYsI2MTdk) (Group) <!-- 08/10/2023 -->
+* [Macintosh classic 68k y PPC](https://t.me/mac68kPPC) (Group) <!-- 04/10/2023 -->
+* [MAME32 OFICIAL - EMULADOR DE ARCADES](https://t.me/MAME32DESCARGAS) (Channel) <!-- 22/10/2023 -->
+* [Mega Drive/Genesis ROMs](https://t.me/MegaDriveROMsGenesis) (Channel) <!-- 05/10/2023 -->
 * [MiNi PC's para GAMING & Emulación, Testing & recomendaciónes](https://t.me/minipcgaming) (Group)
-* [MiST / Mistica / SiDi](https://t.me/joinchat/KSh_qRCyjLDELhkMgHixtg) (Group)
+* [MiST / Mistica / SiDi](https://t.me/joinchat/KSh_qRCyjLDELhkMgHixtg) (Group) <!-- 10/10/2023 -->
 * [Mongo 32x](https://t.me/+etK1RQc18z9mOWZk) (Channel)
 * [Mongo Dreamcast](https://t.me/+MISRdrsYKcJiZGQ8) (Channel)
 * [Mongo Game Gear](https://t.me/+LNwPRWKQMrsxMTE0) (Channel)
@@ -155,79 +156,78 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Mongo Nintendo 64](https://t.me/+n_NwZ_bqgOwzNmQ0) (Channel)
 * [Mongo Saturn](https://t.me/+m0l9O9HazXwxNTc0) (Channel)
 * [Mongo SNES](https://t.me/+ZmVXH5bdqxFmMWE0) (Channel)
-* [MSDOS CLUB](https://t.me/+O4IkZHZXZ9s5ZTc0) (Group)
-* [MSX Boixos Club](https://t.me/msxboixosclub) (Group)
-* [MSX BTV Videos](https://t.me/msxbtv) (Channel)
-* [MSX Grupo 968](https://t.me/msxgrupo968) (Group)
-* [MSXBlog (Difusión)](https://t.me/msxblog) (Channel)
+* [MSDOS CLUB](https://t.me/+O4IkZHZXZ9s5ZTc0) (Group) <!-- 06/10/2023 -->
+* [MSX Boixos Club](https://t.me/msxboixosclub) (Group) <!-- 04/10/2023 -->
+* [MSX BTV Videos](https://t.me/msxbtv) (Channel) <!-- 04/10/2023 -->
+* [MSX Grupo 968](https://t.me/msxgrupo968) (Group) <!-- 04/10/2023 -->
+* [MSXBlog (Difusión)](https://t.me/msxblog) (Channel) <!-- 04/10/2023 -->
 * [Mundo Retro Videojuegos](https://t.me/mundo_retro) (Group)
-* [Museo de la Informática](https://t.me/museodelainformatica) (Channel)
-* [Museo de la Preservación Digital](https://t.me/mupredi) (Group)
-* [Museo del Videojuego - (Repositorio Digital)](https://t.me/museodelvideojuego) (Channel)
-* [N-GO (a ZX Spectrum Next clone)](https://t.me/+SWUgrvR6LTBEzeYp) (Group)
+* [Museo de la Informática](https://t.me/museodelainformatica) (Channel) <!-- 06/10/2023 -->
+* [Museo de la Preservación Digital](https://t.me/mupredi) (Group) <!-- 18/11/2023 -->
+* [Museo del Videojuego - (Repositorio Digital)](https://t.me/museodelvideojuego) (Channel) <!-- 07/10/2023 -->
+* [N-GO (a ZX Spectrum Next clone)](https://t.me/+SWUgrvR6LTBEzeYp) (Group) <!-- 09/10/2023 -->
 * [OGA-OGS / RK2020 / RGB10-20-MAX / RG351P(M)-V / CANIFORCE](https://t.me/OdroidGoAdvance) (Group)
-* [oldbits zone](https://t.me/oldbitszone) (Group)
-* [Oyentes de conexión MSX](https://t.me/+SOGAGW5mG2hlZmI0) (Group)
+* [oldbits zone](https://t.me/oldbitszone) (Group) <!-- 04/10/2023 -->
+* [Oyentes de conexión MSX](https://t.me/+SOGAGW5mG2hlZmI0) (Group) <!-- 04/10/2023 -->
 * [PCXT Core & HW DEV](https://t.me/PCXTCoreDEV) (Group)
-* [Pinball Edition - CoinOPS](https://t.me/PinballEdition) (Group)
-* [PiStorm for Amiga](https://t.me/PiStormforAmiga) (Group)
-* [Póster Retro Juegos](https://t.me/+z7BeH8IjlO5mMDc0) (Channel)
-* [POWADCR - Powa Digital Cassette Recorder](https://t.me/powatap_recorder) (Group)
+* [Pinball Edition - CoinOPS](https://t.me/PinballEdition) (Group) <!-- 04/10/2023 -->
+* [PiStorm for Amiga](https://t.me/PiStormforAmiga) (Group) <!-- 04/10/2023 -->
+* [Póster Retro Juegos](https://t.me/+z7BeH8IjlO5mMDc0) (Channel) <!-- 09/10/2023 -->
+* [POWADCR - Powa Digital Cassette Recorder](https://t.me/powatap_recorder) (Group) <!-- 27/01/2024 -->
 * [Preservación de Videojuegos/Videogame Preservation](https://t.me/preservacionvideojuegos) (Channel)
-* [R-R_8&16bits](https://t.me/retro_rev) (Group)
-* [Raspberry Pi EMULADORES Retro VIDEOJUEGOS](https://t.me/RaspberryPiEmuladores) (Group)
-* [Renoves & mucho más! Bricogame y Amigos](https://t.me/+aVBEIXHSEtgwNDA8) (Group)
-* [Reparaciones Retro Informática](https://t.me/RetroReparaciones) (Group)
-* [Retro 8 bits](https://t.me/Retro8bits) (Group)
+* [R-R_8&16bits](https://t.me/retro_rev) (Group) <!-- 04/10/2023 -->
+* [Raspberry Pi EMULADORES Retro VIDEOJUEGOS](https://t.me/RaspberryPiEmuladores) (Group) <!-- 12/10/2023 -->
+* [Renoves & mucho más! Bricogame y Amigos](https://t.me/+aVBEIXHSEtgwNDA8) (Group) <!-- 30/10/2023 -->
+* [Reparaciones Retro Informática](https://t.me/RetroReparaciones) (Group) <!-- 04/02/2024 -->
+* [Retro 8 bits](https://t.me/Retro8bits) (Group) <!-- 05/10/2023 -->
 * [Retro Antena](https://t.me/+6kjYHC_sN8pjNGNh) (Channel)
-* [Retro Aventurαѕ](https://t.me/RetroAventuras) (Group)
-* [Retro Emuladores](https://t.me/retroRomsChe) (Channel)
-* [RETRO EMULADORES](https://t.me/romespanol) (Channel)
-* [Retro ES](https://t.me/Retro_Spain) (Group)
+* [Retro Aventurαѕ](https://t.me/RetroAventuras) (Group) <!-- 04/10/2023 -->
+* [Retro Emuladores](https://t.me/retroRomsChe) (Channel) <!-- 16/10/2023 -->
+* [RETRO EMULADORES](https://t.me/romespanol) (Channel) <!-- 17/10/2023 -->
+* [Retro ES](https://t.me/Retro_Spain) (Group) <!-- 04/10/2023 -->
 * [Retro Games](https://t.me/retrogames_telegram) (Group)
-* [Retro PC Spain](https://t.me/Retro_PC_Spain) (Group)
+* [Retro PC Spain](https://t.me/Retro_PC_Spain) (Group) <!-- 04/10/2023 -->
 * [Retro PC](https://t.me/retropcmdq) (Group)
-* [RETRO-ARCADE ELX](https://t.me/retroarcadeelx) (Channel)
+* [RETRO-ARCADE ELX](https://t.me/retroarcadeelx) (Channel) <!-- 25/10/2023 -->
 * [Retro-Arcade EmulOS Team](https://t.me/Retro_Arcade_EmulOs_Team) (Group)
-* [RetroBits](https://t.me/RetroBits) (Group)
+* [RetroBits](https://t.me/RetroBits) (Group) <!-- 07/10/2023 -->
 * [RetroBytes](https://t.me/RetrobytesCordoba) (Group)
-* [RetroCacharreo](https://t.me/RetroCacharreo) (Group)
-* [RetroComputingMurcia](https://t.me/retrocompMurcia) (Channel)
-* [RETROCONSOLAS](https://t.me/rg350spain) (Group)
-* [RetrocryptaRecords](https://t.me/RetrocryptaRecords) (Channel)
-* [RetroDev ES](https://t.me/RetroDevSpain) (Group)
+* [RetroCacharreo](https://t.me/RetroCacharreo) (Group) <!-- 04/10/2023 -->
+* [RetroComputingMurcia](https://t.me/retrocompMurcia) (Channel) <!-- 05/10/2023 -->
+* [RETROCONSOLAS](https://t.me/rg350spain) (Group) <!-- 04/10/2023 -->
+* [RetrocryptaRecords](https://t.me/RetrocryptaRecords) (Channel) <!-- 09/10/2023 -->
+* [RetroDev ES](https://t.me/RetroDevSpain) (Group) <!-- 04/10/2023 -->
 * [RetroFox Amstrad – CPC/GX4000](https://t.me/RetroFoxAmstrad) (Channel)
-* [RetroGamers](https://t.me/retrogamers80) (Channel)
-* [RetroGamesHistory: RetroInformática y demás](https://t.me/+9F_ABE3XEjhhOTE0) (Group)
-* [RetroGamesHistory](https://t.me/RetroGamesHistory) (Channel)
-* [Retrogaming TV](https://t.me/RetroGamingTV) (Channel)
+* [RetroGamers](https://t.me/retrogamers80) (Channel) <!-- 04/10/2023 -->
+* [RetroGamesHistory: RetroInformática y demás](https://t.me/+9F_ABE3XEjhhOTE0) (Group) <!-- 01/12/2023 -->
+* [RetroGamesHistory](https://t.me/RetroGamesHistory) (Channel) <!-- 01/12/2023 -->
+* [Retrogaming TV](https://t.me/RetroGamingTV) (Channel) <!-- 27/10/2023 -->
 * [RetroHobby30](https://t.me/retrohobby_30) (Group)
-* [Retroinformática](https://t.me/retroinformatica) (Group)
-* [Retromania Viejuner](https://t.me/retromaniaviejuner) (Channel)
+* [Retroinformática](https://t.me/retroinformatica) (Group) <!-- 04/10/2023 -->
+* [Retromania Viejuner](https://t.me/retromaniaviejuner) (Channel) <!-- 02/12/2023 -->
 * [RetroManiacs](https://t.me/retrorafaxex) (Channel)
-* [RetroMercadillo](https://t.me/retromercadillo) (Group)
-* [Retro OFERTAS TV (Canal Retrovideojuegos TV)](https://t.me/RETROFERTASTV) (Channel)
-* [RetroPC](https://t.me/GRUPORetroPC) (Group)
+* [RetroMercadillo](https://t.me/retromercadillo) (Group) <!-- 21/10/2023 -->
+* [Retro OFERTAS TV (Canal Retrovideojuegos TV)](https://t.me/RETROFERTASTV) (Channel) <!-- 03/02/2024 -->
 * [RetroStoneES & retro en general](https://t.me/RetroStoneES) (Group)
 * [RetroStoneES+](https://t.me/RSESplus) (Channel)
-* [RetroSyS](https://t.me/RetroSysW) (Channel)
-* [Revistas_Retro (ES)](https://t.me/joinchat/AAAAAE8OEyfSoutoIv6B8g) (Channel)
-* [Roms Retro](https://t.me/romsretro) (Channel)
+* [RetroSyS](https://t.me/RetroSysW) (Channel) <!-- 06/10/2023 -->
+* [Revistas_Retro (ES)](https://t.me/joinchat/AAAAAE8OEyfSoutoIv6B8g) (Channel) <!-- 04/10/2023 -->
+* [Roms Retro](https://t.me/romsretro) (Channel) <!-- 24/10/2023 -->
 * [Roms y Musicas De Sega Genesis/MegaDrive](https://t.me/SegaGenesisRomsAndSoundTracks) (Group)
 * [romset gamecube](https://t.me/gamecubeextrem) (Channel)
 * [Romset PSX](https://t.me/romsetpsx) (Channel)
 * [SG-1000](https://t.me/+ih6QScTUCIphNDk0) (Channel)
-* [Sharp X68000 Español](https://t.me/+7KOc69bLQBxlMTNk) (Group)
-* [SCP Rulez!](https://t.me/+NRssOzcdNWA5MDI0) (Group)
-* [Sega Master System y Game Gear](https://t.me/SegaMasterSystem_ESP) (Group)
-* [Spectrum Next ES](https://t.me/zxnext) (Group)
-* [Steam deck emuladores](https://t.me/steamdeckemuladores) (Channel)
-* [Tugurio Computacional](https://t.me/tuguriocomputacional) (Channel)
-* [UnAmiga Español](https://t.me/joinchat/FDjURBAeiE1hmVZbMWfGWg) (Group)
-* [ViejuMIX](https://t.me/ViejuMIX) (Channel)
-* [WinUAEspañol](https://t.me/winuaespanol) (Group)
-* [Yo Tenia Un Juego](https://t.me/canalyoteniaunjuego) (Channel)
-* [z88dk](https://t.me/z88dk_org) (Group)
+* [Sharp X68000 Español](https://t.me/+7KOc69bLQBxlMTNk) (Group) <!-- 04/10/2023 -->
+* [SCP Rulez!](https://t.me/+NRssOzcdNWA5MDI0) (Group) <!-- 31/01/2024 -->
+* [Sega Master System y Game Gear](https://t.me/SegaMasterSystem_ESP) (Group) <!-- 08/02/2024 -->
+* [Spectrum Next ES](https://t.me/zxnext) (Group) <!-- 04/10/2023 -->
+* [Steam deck emuladores](https://t.me/steamdeckemuladores) (Channel) <!-- 16/10/2023 -->
+* [Tugurio Computacional](https://t.me/tuguriocomputacional) (Channel) <!-- 04/10/2023 -->
+* [UnAmiga Español](https://t.me/joinchat/FDjURBAeiE1hmVZbMWfGWg) (Group) <!-- 04/10/2023 -->
+* [ViejuMIX](https://t.me/ViejuMIX) (Channel) <!-- 29/11/2023 -->
+* [WinUAEspañol](https://t.me/winuaespanol) (Group) <!-- 04/10/2023 -->
+* [Yo Tenia Un Juego](https://t.me/canalyoteniaunjuego) (Channel) <!-- 04/10/2023 -->
+* [z88dk](https://t.me/z88dk_org) (Group) <!-- 07/10/2023 -->
 * [ZX Spectrum Game Maker](https://t.me/zx_spectrum_game_maker) (Group)
 * [ZXDOS FPGA](https://t.me/zxdosfpga) (Group)
 * [ZXTRES FPGA (The first one)](https://t.me/ZXTresFPGA) (Group)
@@ -236,7 +236,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 ### Catalan
 
-* [Amiga Development](https://t.me/amigadevelopment) (Channel)
+* [Amiga Development](https://t.me/amigadevelopment) (Channel) <!-- 23/11/2023 -->
 
 ### Russian
 
@@ -244,22 +244,22 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Apple II, Правец 8, Агат](https://t.me/appleIIe) (Group)
 * [Atari Russian Corner](https://t.me/atari_corner) (Group)
 * [Atari XL/XE](https://t.me/atari_xl_xe) (Group)
-* [CommodoreChat](https://t.me/c64chat) (Group)
+* [CommodoreChat](https://t.me/c64chat) (Group) <!-- 04/10/2023 -->
 * [ENTERPRISE retrocomp](https://t.me/Enterprise_retrocomp) (Group)
-* [GB development](https://t.me/gameboy_development) (Channel)
+* [GB development](https://t.me/gameboy_development) (Channel) <!-- 07/10/2023 -->
 * [Limowski' Precious Little Life](https://t.me/retrodevicesnerd) (Channel)
 * [Ms-Dos (ЭлектроФлудилка)](https://t.me/MsDos_PC) (Group)
 * [omegaHACKERSgroup](https://t.me/omegaHACKERSgroup) (Channel)
-* [Paw Noir C64 devlog](https://t.me/paw_noir) (Channel)
+* [Paw Noir C64 devlog](https://t.me/paw_noir) (Channel) <!-- 04/10/2023 -->
 * [Retro Development](https://t.me/RetroDevelopment) (Group)
 * [retrodevil](https://t.me/retrodevil) (Group)
-* [retrodevs](https://t.me/retrodevs) (Group)
+* [retrodevs](https://t.me/retrodevs) (Group) <!-- 04/10/2023 -->
 * [Ru_PDP](https://t.me/ru_pdp) (Group)
 * [Sega Mega Drive | Genesis](https://t.me/megadrivesega) (Channel)
 * [Sinclair QL](https://t.me/sinclair_ql) (Group)
 * [speccy code](https://t.me/speccy_code) (Group)
 * [Speccy hardware](https://t.me/speccy_hard) (Group)
-* [speccy music](https://t.me/speccymusic) (Group)
+* [speccy music](https://t.me/speccymusic) (Group) <!-- 04/10/2023 -->
 * [Sprinter Computer Blog](https://t.me/zx_sprinter_computer) (Channel)
 * [Sprinter Computer](https://t.me/zx_sprinter) (Group)
 * [TS-Config](https://t.me/tsconf) (Group)
@@ -270,7 +270,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [ZX Speccy](https://t.me/zxnews) (Channel)
 * [ZX Spectrum handhelds](https://t.me/zxspectrumhandhelds) (Channel)
 * [ZX Spectrum Next RU/EN](https://t.me/specnext) (Group)
-* [ZX_MURMULATOR](https://t.me/ZX_MURMULATOR) (Group)
+* [ZX_MURMULATOR](https://t.me/ZX_MURMULATOR) (Group) <!-- 06/10/2023 -->
 * [zxcoding](https://t.me/zxcoding) (Group)
 * [ZXDev.Masters](https://t.me/zxdev_masters) (Group)
 * [zxgfx](https://t.me/zxgfx) (Group)
@@ -283,16 +283,16 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Computadores Antigos](https://t.me/retropc_br) (Group)
 * [GAMES.RETRO ( venda de video games e jogos). SOU DE SALTO SP- Entrego nas cidades próximas aceito cartão](https://t.me/cleibson2022) (Channel)
 * [Retro PC Brasil](https://t.me/retropcbrasil) (Group)
-* [Revista Clube MSX (Canal de Transmissão)](https://t.me/clubemsx) (Channel)
+* [Revista Clube MSX (Canal de Transmissão)](https://t.me/clubemsx) (Channel) <!-- 04/10/2023 -->
 
 ### German
 
-* [AMIGAWorld](https://t.me/amigaworld_de) (Group)
-* [Commodore 64 Chat](https://t.me/commodore64chat) (Group)
+* [AMIGAWorld](https://t.me/amigaworld_de) (Group) <!-- 17/11/2023 -->
+* [Commodore 64 Chat](https://t.me/commodore64chat) (Group) <!-- 04/10/2023 -->
 
 ### Italian
 
-* [A500 Mini](https://t.me/A500mini) (Group)
+* [A500 Mini](https://t.me/A500mini) (Group) <!-- 11/12/2023 -->
 * [Amiga Forever](https://t.me/amigagame) (Channel)
 * [Apulia Retrocomputing](https://t.me/ApuliaRetro) (Channel)
 * [ArcadeStory The Group](https://t.me/Arcadestorygroup) (Group)
@@ -303,9 +303,9 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Retrocomputer Italia](https://t.me/retrocomputingitalia) (Group)
 * [Retrocomputers sales](https://t.me/retrocomputers) (Channel)
 * [RetroTech&RetroGaming](https://t.me/RetroComputerGaming) (Group)
-* [STL VIDEO GAMES / RETRO](https://t.me/stl_retro) (Group)
+* [STL VIDEO GAMES / RETRO](https://t.me/stl_retro) (Group) <!-- 15/02/2024 -->
 * [The A500 Mini Ita & Amiga Channel 2](https://t.me/TheA500miniitaAmigachanel2) (Group)
-* [ZX Spectrum](https://t.me/sinclairspectrum) (Channel)
+* [ZX Spectrum](https://t.me/sinclairspectrum) (Channel) <!-- 04/10/2023 -->
 
 <br>
 
