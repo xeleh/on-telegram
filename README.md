@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (261 links)  
+[Retro](#Retro) (268 links)  
 [Demoscene](#Demoscene) (35 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (291 links)  
@@ -47,6 +47,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [MASTER BOOT RECORD](https://t.me/master_boot_record) (Channel)
 * [NeoGeo Fans](https://t.me/neogeofans) (Group)
 * [NeoGeoCFW](https://t.me/NeoGeoCFW) (Channel)
+* [NeptUNO+](https://t.me/neptuno_plus) (Group)
 * [Nintendo 64](https://t.me/RomSet_Nintendo64) (Channel)
 * [Retro Computer Furs 2.0](https://t.me/RetroComputerFursv2) (Group)
 * [Retro game ROMs](https://t.me/retrogamer) (Channel)
@@ -67,6 +68,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 ### Spanish
 
+* [../repositorio [ag+]](https://t.me/agplus_repositorio) (Group)
 * [8 bit Ordenadores: C64, CPC, Spectrum, Oric, MSX, Atari, etc.](https://t.me/ord8bit) (Group)
 * [AbadíaRetro](https://t.me/abadiaretro) (Group)
 * [ABANDONTECA](https://t.me/ABANDONTECA) (Channel)
@@ -228,6 +230,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [z88dk](https://t.me/z88dk_org) (Group)
 * [ZX Spectrum Game Maker](https://t.me/zx_spectrum_game_maker) (Group)
 * [ZXDOS FPGA](https://t.me/zxdosfpga) (Group)
+* [ZXTRES FPGA (The first one)](https://t.me/ZXTresFPGA) (Group)
+* [ZXTRES FPGA](https://t.me/zxtres) (Group)
 * [ZXUNO](https://t.me/zxuno) (Group)
 
 ### Catalan
@@ -252,6 +256,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [retrodevs](https://t.me/retrodevs) (Group)
 * [Ru_PDP](https://t.me/ru_pdp) (Group)
 * [Sega Mega Drive | Genesis](https://t.me/megadrivesega) (Channel)
+* [Sinclair QL](https://t.me/sinclair_ql) (Group)
 * [speccy code](https://t.me/speccy_code) (Group)
 * [Speccy hardware](https://t.me/speccy_hard) (Group)
 * [speccy music](https://t.me/speccymusic) (Group)
@@ -276,6 +281,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 ### Portuguese
 
 * [Computadores Antigos](https://t.me/retropc_br) (Group)
+* [GAMES.RETRO ( venda de video games e jogos). SOU DE SALTO SP- Entrego nas cidades próximas aceito cartão](https://t.me/cleibson2022) (Channel)
 * [Retro PC Brasil](https://t.me/retropcbrasil) (Group)
 * [Revista Clube MSX (Canal de Transmissão)](https://t.me/clubemsx) (Channel)
 
@@ -297,6 +303,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Retrocomputer Italia](https://t.me/retrocomputingitalia) (Group)
 * [Retrocomputers sales](https://t.me/retrocomputers) (Channel)
 * [RetroTech&RetroGaming](https://t.me/RetroComputerGaming) (Group)
+* [STL VIDEO GAMES / RETRO](https://t.me/stl_retro) (Group)
 * [The A500 Mini Ita & Amiga Channel 2](https://t.me/TheA500miniitaAmigachanel2) (Group)
 * [ZX Spectrum](https://t.me/sinclairspectrum) (Channel)
 
