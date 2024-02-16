@@ -96,7 +96,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Batocera PC Español](https://t.me/BatoceraPCesp) (Group) <!-- 05/10/2023 -->
 * [BEST OF THE BEST - Raspberry Pi0, Pi1, Pi2, Pi3, Pi4, TVBOX Emuelec, PC, Windows. Batocera, Retropie, Emuelec](https://t.me/BOB_Retropie_Windows) (Channel) <!-- 08/10/2023 -->
 * [BOB - Mejores juegos viejunos para Raspberry pi0/1/2/3/4, Batocera, Emuelec tvbox, OGA, PC, Mac, Windows. Sala de dudas.](https://t.me/BOB_retropie_windows_dudas) (Group) <!-- 12/10/2023 -->
-* [BOB canal de descargas](https://t.me/BOBcera) (Channel)
+* [BOB canal de descargas](https://t.me/BOBcera) (Channel) <!-- 05/10/2023 -->
 * [BOBcera Pi4 128GB](https://t.me/BOBcera_Pi4_128) (Channel) <!-- 05/10/2023 -->
 * [Boriel ZX Basic](https://t.me/+dSbWL8z8ol1lMjA0) (Group) <!-- 05/10/2023 -->
 * [BRICOGAME](https://t.me/bricogame) (Channel) <!-- 26/10/2023 -->
@@ -136,6 +136,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Huelva Informatica Retro](https://t.me/huelvaretro) (Group) <!-- 04/02/2024 -->
 * [INFORMATICA RETRO Y MERCADILLO](https://t.me/inforetro) (Group) <!-- 18/11/2023 -->
 * [Juanje Juega](https://t.me/canaldejuanje) (Channel) <!-- 05/10/2023 -->
+* [JUEGOS WINDOWS 95/98/XP REPACKS ALMACEN](https://t.me/+ejBlLH3tGQthZjg0) (Group) <!-- 16/01/2024 -->
 * [Kaoto Store](https://t.me/KaotoStore) (Channel)
 * [La ACHUS - Recreativos](https://t.me/+AHJ_8KbVYsI2MTdk) (Group) <!-- 08/10/2023 -->
 * [Macintosh classic 68k y PPC](https://t.me/mac68kPPC) (Group) <!-- 04/10/2023 -->
@@ -186,6 +187,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [RETRO EMULADORES](https://t.me/romespanol) (Channel) <!-- 17/10/2023 -->
 * [Retro ES](https://t.me/Retro_Spain) (Group) <!-- 04/10/2023 -->
 * [Retro Games](https://t.me/retrogames_telegram) (Group)
+* [Retro Juego Mensual](https://t.me/retrojuegodelmes) (Channel) <!-- 03/12/2023 -->
 * [Retro PC Spain](https://t.me/Retro_PC_Spain) (Group) <!-- 04/10/2023 -->
 * [Retro PC](https://t.me/retropcmdq) (Group)
 * [RETRO-ARCADE ELX](https://t.me/retroarcadeelx) (Channel) <!-- 25/10/2023 -->
@@ -202,7 +204,6 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [RetroGamesHistory: RetroInformática y demás](https://t.me/+9F_ABE3XEjhhOTE0) (Group) <!-- 01/12/2023 -->
 * [RetroGamesHistory](https://t.me/RetroGamesHistory) (Channel) <!-- 01/12/2023 -->
 * [Retrogaming TV](https://t.me/RetroGamingTV) (Channel) <!-- 27/10/2023 -->
-* [RetroHobby30](https://t.me/retrohobby_30) (Group)
 * [Retroinformática](https://t.me/retroinformatica) (Group) <!-- 04/10/2023 -->
 * [Retromania Viejuner](https://t.me/retromaniaviejuner) (Channel) <!-- 02/12/2023 -->
 * [RetroManiacs](https://t.me/retrorafaxex) (Channel)
@@ -295,7 +296,6 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [A500 Mini](https://t.me/A500mini) (Group) <!-- 11/12/2023 -->
 * [Amiga Forever](https://t.me/amigagame) (Channel)
 * [Apulia Retrocomputing](https://t.me/ApuliaRetro) (Channel)
-* [ArcadeStory The Group](https://t.me/Arcadestorygroup) (Group)
 * [Commodore 64](https://t.me/commodorec64) (Channel)
 * [MS-DOS ITALIA](https://t.me/msdositalia) (Group)
 * [RetroComputer & RetroGaming World](https://t.me/retrocomputerworld) (Channel)
