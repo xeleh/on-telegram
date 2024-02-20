@@ -8,7 +8,7 @@ Subjects:
 [Demoscene](#Demoscene) (35 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (291 links)  
-[AI](#AI) (111 links)  
+[AI](#AI) (120 links)  
 
 Please feel free to create an issue or PR if you know other Telegram groups/channels (preferably those with a description) that may fit.
 
@@ -819,6 +819,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [AI Programming](https://t.me/freecodecs) (Channel)
 * [AI Toolbox](https://t.me/chatgpt_ask) (Channel)
 * [AI with Papers - Artificial Intelligence & Deep Learning](https://t.me/AI_DeepLearning) (Channel)
+* [AI-Liberation-Front](https://t.me/AI_Liberation_Front) (Channel)
 * [AIGO Group Chat](https://t.me/aigochatgpt) (Group)
 * [ANZ Jobs - AI, ML, Cloud, Data Sci](https://t.me/AI_ML_Jobs) (Group)
 * [Artificial Intellegence in Power Industry](https://t.me/ai_energy_urfu) (Channel)
@@ -851,6 +852,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Data Science by ODS.ai](https://t.me/opendatascience) (Channel)
 * [Data Science, Machine Learning, AI & IOT](https://t.me/KDnuggets) (Channel)
 * [datascienceinfo](https://t.me/data_science_info) (Channel)
+* [Gemini & ChatGPT | AI bot](https://t.me/AI_free_chat_bot) (Bot) <!-- 20/02/2024-->
+* [GEMINI AI ChatBot and Personal Assistant](https://t.me/GeminiTalkBot) (Bot) <!-- 20/02/2024-->
 * [GPT Demos](https://t.me/GPT3_Demos) (Channel)
 * [GPT-3.5 + DALL·E](https://t.me/mozg_gpt_bot) (Bot)
 * [Learn.MachineLearning](https://t.me/LearnDotMachineLearning) (Channel)
@@ -900,6 +903,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [MidJourney & cIA](https://t.me/esmidjourney) (Group)
 * [Negocios optimizados - Inteligencia Artificial, Utilidades para Negocios, Diseño web, posicionamiento SEO](https://t.me/negociosoptimizados) (Channel)
 * [Noticias de IA | Inteligencia Artificial | DiarioIA.com](https://t.me/diarioIA) (Group)
+* [Sora IA Español](https://t.me/sora_es) (Group)
 * [TeKaran2 (Inteligencia artificial en tu Android)](https://t.me/TeKaran_inteligenciartificial2) (Channel)
 * [Todo Inteligencia Artificial](https://t.me/TodoIA) (Channel)
 * [TweetMasters y AI Business](https://t.me/TweetMastersIA) (Channel)
@@ -907,6 +911,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 ### Russian
 
 * [AI/MoLdin JOBS](https://t.me/ml_jobs_kz) (Channel)
+* [All in One: Gemini | GPT-4](https://t.me/virtual_ai_assistant_bot) (Bot)
 * [Artificial Intelligence](https://t.me/ArtificialIntelligencedl) (Channel)
 * [Bard AI Google bot](https://t.me/bard_ai_google_bot) (Bot)
 * [Big Data AI](https://t.me/bigdatai) (Channel)
@@ -916,6 +921,9 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Data Science](https://t.me/datascienceiot) (Channel)
 * [FaceSwap | Нейросети | Нейросеть](https://t.me/DeepPaintBot) (Bot)
 * [Generative AI](https://t.me/ai_generative) (Channel)
+* [GigaChat | Gemini | Sora](https://t.me/bard_claude_ii_ai) (Group) <!-- 20/02/2024-->
+* [iSmartGPT | Gemini AI](https://t.me/ismartgpt_bot) (Bot) <!-- 20/02/2024-->
+* [Лама: ChatGPT & Gemini Ultra без ограничений](https://t.me/gpt_lama_bot) (Bot) <!-- 20/02/2024-->
 * [Machine learning chat](https://t.me/machinee_learning) (Group)
 * [Machine learning Interview](https://t.me/machinelearning_interview) (Channel)
 * [Machine Learning World](https://t.me/ml_world) (Channel)
@@ -925,6 +933,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [MidJourney Free | Бесплатно](https://t.me/midjourney_midjourney) (Group)
 * [MidJourney](https://t.me/midjourney_ru) (Channel)
 * [Neural Networks | Нейронные сети](https://t.me/neural) (Channel)
+* [Okey, AI](https://t.me/all_in_one_learn) (Channel) <!-- 20/02/2024-->
 * [Анализ данных (Data analysis)](https://t.me/data_analysis_ml) (Channel)
 * [Генерируем Чат | MidJourney | StableDiffusion | DALL-E 3](https://t.me/text2image) (Group)
 * [Машинное обучение RU](https://t.me/machinelearning_ru) (Channel)
