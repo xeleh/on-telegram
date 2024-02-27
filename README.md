@@ -175,7 +175,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [PiStorm for Amiga](https://t.me/PiStormforAmiga) (Group) <!-- 04/10/2023 -->
 * [Póster Retro Juegos](https://t.me/+z7BeH8IjlO5mMDc0) (Channel) <!-- 09/10/2023 -->
 * [POWADCR - Powa Digital Cassette Recorder](https://t.me/powatap_recorder) (Group) <!-- 27/01/2024 -->
-* [Preservación de Videojuegos/Videogame Preservation](https://t.me/preservacionvideojuegos) (Channel)
+* [Preservación de Videojuegos/Videogame Preservation](https://t.me/preservacionvideojuegos) (Channel) <!-- 24/02/2024 -->
 * [R-R_8&16bits](https://t.me/retro_rev) (Group) <!-- 04/10/2023 -->
 * [Raspberry Pi EMULADORES Retro VIDEOJUEGOS](https://t.me/RaspberryPiEmuladores) (Group) <!-- 12/10/2023 -->
 * [Renoves & mucho más! Bricogame y Amigos](https://t.me/+aVBEIXHSEtgwNDA8) (Group) <!-- 30/10/2023 -->
@@ -231,7 +231,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [z88dk](https://t.me/z88dk_org) (Group) <!-- 07/10/2023 -->
 * [ZX Spectrum Game Maker](https://t.me/zx_spectrum_game_maker) (Group)
 * [ZXDOS FPGA](https://t.me/zxdosfpga) (Group)
-* [ZXTRES FPGA (The first one)](https://t.me/ZXTresFPGA) (Group)
+* [ZXTRES FPGA (The first one)](https://t.me/ZXTresFPGA) (Group) <!-- 16/02/2024 -->
 * [ZXTRES FPGA](https://t.me/zxtres) (Group)
 * [ZXUNO](https://t.me/zxuno) (Group)
 
@@ -249,16 +249,16 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [ENTERPRISE retrocomp](https://t.me/Enterprise_retrocomp) (Group)
 * [GB development](https://t.me/gameboy_development) (Channel) <!-- 07/10/2023 -->
 * [Limowski' Precious Little Life](https://t.me/retrodevicesnerd) (Channel)
-* [Ms-Dos (ЭлектроФлудилка)](https://t.me/MsDos_PC) (Group)
+* [Ms-Dos (ЭлектроФлудилка)](https://t.me/MsDos_PC) (Group) <!-- 22/02/2024 -->
 * [omegaHACKERSgroup](https://t.me/omegaHACKERSgroup) (Channel)
 * [Paw Noir C64 devlog](https://t.me/paw_noir) (Channel) <!-- 04/10/2023 -->
 * [Retro Development](https://t.me/RetroDevelopment) (Group)
-* [retrodevil](https://t.me/retrodevil) (Group)
+* [retrodevil](https://t.me/retrodevil) (Group) <!-- 17/02/2024 -->
 * [retrodevs](https://t.me/retrodevs) (Group) <!-- 04/10/2023 -->
 * [Ru_PDP](https://t.me/ru_pdp) (Group)
 * [Sega Mega Drive | Genesis](https://t.me/megadrivesega) (Channel)
 * [Sinclair QL](https://t.me/sinclair_ql) (Group)
-* [speccy code](https://t.me/speccy_code) (Group)
+* [speccy code](https://t.me/speccy_code) (Group) <!-- 19/02/2024 -->
 * [Speccy hardware](https://t.me/speccy_hard) (Group)
 * [speccy music](https://t.me/speccymusic) (Group) <!-- 04/10/2023 -->
 * [Sprinter Computer Blog](https://t.me/zx_sprinter_computer) (Channel)
@@ -283,7 +283,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 * [Computadores Antigos](https://t.me/retropc_br) (Group)
 * [GAMES.RETRO ( venda de video games e jogos). SOU DE SALTO SP- Entrego nas cidades próximas aceito cartão](https://t.me/cleibson2022) (Channel)
-* [Retro PC Brasil](https://t.me/retropcbrasil) (Group)
+* [Retro PC Brasil](https://t.me/retropcbrasil) (Group) <!-- 26/02/2024 -->
 * [Revista Clube MSX (Canal de Transmissão)](https://t.me/clubemsx) (Channel) <!-- 04/10/2023 -->
 
 ### German
@@ -294,7 +294,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 ### Italian
 
 * [A500 Mini](https://t.me/A500mini) (Group) <!-- 11/12/2023 -->
-* [Amiga Forever](https://t.me/amigagame) (Channel)
+* [Amiga Forever](https://t.me/amigagame) (Channel) <!-- 17/02/2024 -->
 * [Apulia Retrocomputing](https://t.me/ApuliaRetro) (Channel)
 * [Commodore 64](https://t.me/commodorec64) (Channel)
 * [MS-DOS ITALIA](https://t.me/msdositalia) (Group)
@@ -302,9 +302,9 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Retrocomputer Italia](https://t.me/retrocomputeritalia) (Channel)
 * [Retrocomputer Italia](https://t.me/retrocomputingitalia) (Group)
 * [Retrocomputers sales](https://t.me/retrocomputers) (Channel)
-* [RetroTech&RetroGaming](https://t.me/RetroComputerGaming) (Group)
+* [RetroTech&RetroGaming](https://t.me/RetroComputerGaming) (Group) <!-- 21/02/2024 -->
 * [STL VIDEO GAMES / RETRO](https://t.me/stl_retro) (Group) <!-- 15/02/2024 -->
-* [The A500 Mini Ita & Amiga Channel 2](https://t.me/TheA500miniitaAmigachanel2) (Group)
+* [The A500 Mini Ita & Amiga Channel 2](https://t.me/TheA500miniitaAmigachanel2) (Group) <!-- 23/02/2024 -->
 * [ZX Spectrum](https://t.me/sinclairspectrum) (Channel) <!-- 04/10/2023 -->
 
 <br>
