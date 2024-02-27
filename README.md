@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (274 links)  
+[Retro](#Retro) (282 links)  
 [Demoscene](#Demoscene) (35 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (291 links)  
@@ -46,6 +46,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [m68k](https://t.me/m68k_info) (Group)
 * [MAME Roms](https://t.me/Mameroms2021) (Channel)
 * [MASTER BOOT RECORD](https://t.me/master_boot_record) (Channel)
+* [Minimig](https://t.me/AmigaMinimig) (Group) <!-- 20/02/2024 -->
+* [MiSTer FPGA English](https://t.me/mister_fpga) (Group)
 * [Neo-Geo](https://t.me/RomSet_NeoGeo) (Channel) <!-- 13/10/2023 -->
 * [Neo-Geo CD](https://t.me/RomSet_NeoGeoCD) (Channel) <!-- 13/10/2023 -->
 * [NeoGeo Fans](https://t.me/neogeofans) (Group) <!-- 12/10/2023 -->
@@ -72,6 +74,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [8 bit Ordenadores: C64, CPC, Spectrum, Oric, MSX, Atari, etc.](https://t.me/ord8bit) (Group) <!-- 04/10/2023 -->
 * [AbadíaRetro](https://t.me/abadiaretro) (Group)
 * [ABANDONTECA](https://t.me/ABANDONTECA) (Channel) <!-- 04/10/2023 -->
+* [Amazon fire TV Retro Games](https://t.me/FireTvRetroEmulacion) (Group) <!-- 17/02/2024 -->
 * [amiga pistorm](https://t.me/pistorm) (Group) <!-- 24/11/2023 -->
 * [Amiga Storage](https://t.me/+41X8i7iM4kRjYWRk) (Group) <!-- 04/10/2023 -->
 * [AMIGA](https://t.me/+xWW2dZGK6gE1NWZk) (Channel) <!-- 04/10/2023 -->
@@ -127,6 +130,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [ESPectrum](https://t.me/ZXESPectrum) (Channel) <!-- 17/10/2023 -->
 * [FPGAmakers](https://t.me/FPGAmakers) (Group) <!-- 04/10/2023 -->
 * [FPGAs](https://t.me/fpga_es) (Group) <!-- 09/10/2023 -->
+* [FPGAwars](https://t.me/FPGAwars) (Group) <!-- 25/02/2024 -->
 * [FS-UAE-para-AmigaGames](https://t.me/fs_uae_win32_para_ag) (Channel) <!-- 15/01/2024 -->
 * [Game Boy Advance GBA ROMs](https://t.me/GameBoyAdvanceROMsGBA) (Channel) <!-- 08/10/2023 -->
 * [Game Boy España](https://t.me/GameboyEs) (Group) <!-- 06/10/2023 -->
@@ -144,6 +148,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Mega Drive/Genesis ROMs](https://t.me/MegaDriveROMsGenesis) (Channel) <!-- 05/10/2023 -->
 * [MiNi PC's para GAMING & Emulación, Testing & recomendaciónes](https://t.me/minipcgaming) (Group)
 * [MiST / Mistica / SiDi](https://t.me/joinchat/KSh_qRCyjLDELhkMgHixtg) (Group) <!-- 10/10/2023 -->
+* [MiSTer FPGA Español](https://t.me/misterfpga) (Group)
+* [MiSTer FPGA WoRLd](https://t.me/MiSTerFPGAWoRLd) (Group) <!-- 18/02/2024 -->
 * [Mongo 32x](https://t.me/+etK1RQc18z9mOWZk) (Channel)
 * [Mongo Dreamcast](https://t.me/+MISRdrsYKcJiZGQ8) (Channel)
 * [Mongo Game Gear](https://t.me/+LNwPRWKQMrsxMTE0) (Channel)
@@ -223,6 +229,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Sega Master System y Game Gear](https://t.me/SegaMasterSystem_ESP) (Group) <!-- 08/02/2024 -->
 * [Spectrum Next ES](https://t.me/zxnext) (Group) <!-- 04/10/2023 -->
 * [Steam deck emuladores](https://t.me/steamdeckemuladores) (Channel) <!-- 16/10/2023 -->
+* [TELE DE TUBO](https://t.me/teledetubo) (Group) <!-- 25/02/2024 -->
+* [Testeo Amazon fire TV Retro Games (juegos y apps)](https://t.me/+SryM_Jvhy2w1ODNh) (Channel) <!-- 27/02/2024 -->
 * [Tugurio Computacional](https://t.me/tuguriocomputacional) (Channel) <!-- 04/10/2023 -->
 * [UnAmiga Español](https://t.me/joinchat/FDjURBAeiE1hmVZbMWfGWg) (Group) <!-- 04/10/2023 -->
 * [ViejuMIX](https://t.me/ViejuMIX) (Channel) <!-- 29/11/2023 -->
