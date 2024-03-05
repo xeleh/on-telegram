@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (282 links)  
+[Retro](#Retro) (285 links)  
 [Demoscene](#Demoscene) (35 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (291 links)  
@@ -95,6 +95,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Archivo Retroinformática](https://t.me/joinchat/WAL3KyNrw9iDeScq) (Channel) <!-- 19/11/2023 -->
 * [ATARI ST GRUPO USUARIOS ESPAÑOL](https://t.me/joinchat/FoBR_wgmo-aACm2I) (Group) <!-- 11/10/2023 -->
 * [Atari ST/E Games](https://t.me/AtariSTGames) (Group) <!-- 04/10/2023 -->
+* [Atari ST/E/MegaSTe Computers](https://t.me/AtariSTe_Computers) (Group) <!-- 09/03/2024 -->
 * [AtariCoders](https://t.me/ataricoders) (Group) <!-- 04/10/2023 -->
 * [Batocera PC Español](https://t.me/BatoceraPCesp) (Group) <!-- 05/10/2023 -->
 * [BEST OF THE BEST - Raspberry Pi0, Pi1, Pi2, Pi3, Pi4, TVBOX Emuelec, PC, Windows. Batocera, Retropie, Emuelec](https://t.me/BOB_Retropie_Windows) (Channel) <!-- 08/10/2023 -->
@@ -103,6 +104,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [BOBcera Pi4 128GB](https://t.me/BOBcera_Pi4_128) (Channel) <!-- 05/10/2023 -->
 * [Boriel ZX Basic](https://t.me/+dSbWL8z8ol1lMjA0) (Group) <!-- 05/10/2023 -->
 * [BRICOGAME](https://t.me/bricogame) (Channel) <!-- 26/10/2023 -->
+* [C64 core Mist/Sidi devel](https://t.me/C64MistiSidi) (Group) <!-- 04/03/2024 -->
 * [Cafetería de las FPGAs](https://t.me/CafeteriaFPGA) (Group) <!-- 07/10/2023 -->
 * [Canarias Go Retro - Novedades](https://t.me/canariasgoretronoticias) (Channel) <!-- 15/11/2023 -->
 * [Clásicos básicos de #Msdos (by @Patxu_lee)](https://t.me/joinchat/WEUr4etRgq1cyXol) (Channel) <!-- 19/11/2023 -->
@@ -238,6 +240,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Yo Tenia Un Juego](https://t.me/canalyoteniaunjuego) (Channel) <!-- 04/10/2023 -->
 * [z88dk](https://t.me/z88dk_org) (Group) <!-- 07/10/2023 -->
 * [ZX Spectrum Game Maker](https://t.me/zx_spectrum_game_maker) (Group)
+* [ZXBaremulator](https://t.me/ZXBaremulator) (Group) <!-- 27/02/2024 -->
 * [ZXDOS FPGA](https://t.me/zxdosfpga) (Group)
 * [ZXTRES FPGA (The first one)](https://t.me/ZXTresFPGA) (Group) <!-- 16/02/2024 -->
 * [ZXTRES FPGA](https://t.me/zxtres) (Group)
