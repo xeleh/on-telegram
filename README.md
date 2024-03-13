@@ -49,8 +49,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [MASTER BOOT RECORD](https://t.me/master_boot_record) (Channel)
 * [Minimig](https://t.me/AmigaMinimig) (Group) <!-- 20/02/2024 -->
 * [MiSTer FPGA English](https://t.me/mister_fpga) (Group)
-* [Neo-Geo](https://t.me/RomSet_NeoGeo) (Channel) <!-- 13/10/2023 -->
 * [Neo-Geo CD](https://t.me/RomSet_NeoGeoCD) (Channel) <!-- 13/10/2023 -->
+* [Neo-Geo](https://t.me/RomSet_NeoGeo) (Channel) <!-- 13/10/2023 -->
 * [NeoGeo Fans](https://t.me/neogeofans) (Group) <!-- 12/10/2023 -->
 * [NeoGeoCFW](https://t.me/NeoGeoCFW) (Channel) <!-- 10/10/2023 -->
 * [NeptUNO+](https://t.me/neptuno_plus) (Group)
@@ -199,6 +199,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Retro ES](https://t.me/Retro_Spain) (Group) <!-- 04/10/2023 -->
 * [Retro Games](https://t.me/retrogames_telegram) (Group)
 * [Retro Juego Mensual](https://t.me/retrojuegodelmes) (Channel) <!-- 03/12/2023 -->
+* [Retro OFERTAS TV (Canal Retrovideojuegos TV)](https://t.me/RETROFERTASTV) (Channel) <!-- 03/02/2024 -->
 * [Retro PC Spain](https://t.me/Retro_PC_Spain) (Group) <!-- 04/10/2023 -->
 * [Retro PC](https://t.me/retropcmdq) (Group)
 * [RETRO-ARCADE ELX](https://t.me/retroarcadeelx) (Channel) <!-- 25/10/2023 -->
@@ -219,7 +220,6 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Retromania Viejuner](https://t.me/retromaniaviejuner) (Channel) <!-- 02/12/2023 -->
 * [RetroManiacs](https://t.me/retrorafaxex) (Channel)
 * [RetroMercadillo](https://t.me/retromercadillo) (Group) <!-- 21/10/2023 -->
-* [Retro OFERTAS TV (Canal Retrovideojuegos TV)](https://t.me/RETROFERTASTV) (Channel) <!-- 03/02/2024 -->
 * [RetroStoneES & retro en general](https://t.me/RetroStoneES) (Group)
 * [RetroStoneES+](https://t.me/RSESplus) (Channel)
 * [RetroSyS](https://t.me/RetroSysW) (Channel) <!-- 06/10/2023 -->
@@ -228,10 +228,10 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Roms y Musicas De Sega Genesis/MegaDrive](https://t.me/SegaGenesisRomsAndSoundTracks) (Group)
 * [romset gamecube](https://t.me/gamecubeextrem) (Channel)
 * [Romset PSX](https://t.me/romsetpsx) (Channel)
-* [SG-1000](https://t.me/+ih6QScTUCIphNDk0) (Channel)
-* [Sharp X68000 Español](https://t.me/+7KOc69bLQBxlMTNk) (Group) <!-- 04/10/2023 -->
 * [SCP Rulez!](https://t.me/+NRssOzcdNWA5MDI0) (Group) <!-- 31/01/2024 -->
 * [Sega Master System y Game Gear](https://t.me/SegaMasterSystem_ESP) (Group) <!-- 08/02/2024 -->
+* [SG-1000](https://t.me/+ih6QScTUCIphNDk0) (Channel)
+* [Sharp X68000 Español](https://t.me/+7KOc69bLQBxlMTNk) (Group) <!-- 04/10/2023 -->
 * [Spectrum Next ES](https://t.me/zxnext) (Group) <!-- 04/10/2023 -->
 * [Steam deck emuladores](https://t.me/steamdeckemuladores) (Channel) <!-- 16/10/2023 -->
 * [TELE DE TUBO](https://t.me/teledetubo) (Group) <!-- 25/02/2024 -->
@@ -395,10 +395,10 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Game Developer](https://t.me/gamedeveloperfeed) (Channel)
 * [Game Development Decompiled Art Gamedev](https://t.me/decompiled_art) (Channel)
 * [Game Development](https://t.me/game_developments) (Group)
+* [GameDev - Unreal Engine, Unity](https://t.me/GameDevUE) (Channel)
 * [GameDEV Channel](https://t.me/joinchat/AAAAAFF7E_qhaQLETiRygg) (Channel)
 * [GameDev Platform](https://t.me/gamedevplatform) (Channel)
 * [GameDev Pulse](https://t.me/GameDEV) (Channel)
-* [GameDev - Unreal Engine, Unity](https://t.me/GameDevUE) (Channel)
 * [Games Development](https://t.me/games_developments) (Channel)
 * [GGJ SG 2023](https://t.me/GameJamSG) (Channel)
 * [Indie Game Developers & Investors](https://t.me/indiegamechat) (Group)
@@ -493,9 +493,9 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 ### Arabic
 
+* [Global Game Jam](https://t.me/globalgamejam) (Channel)
 * [Indie / Casual & Hypercasual GameDev](https://t.me/gamejamz) (Group)
 * [Unity3d](https://t.me/unity3dd) (Channel)
-* [Global Game Jam](https://t.me/globalgamejam) (Channel)
 
 ### Chinese
 
@@ -519,8 +519,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [babylon.js](https://t.me/babylonjs) (Group)
 * [COBOLhub (but also C and Fortran and Algol and PHP and not actually C)](https://t.me/COBOLchat) (Group)
 * [CODE BASHERS](https://t.me/codebashers) (Channel)
-* [Codechef || Leetcode || Codeforces || Topcoder || SPOJ || Codestudio || HackerRank || Solutions](https://t.me/allcodingsolution_official) (Group)
 * [Codechef (CP)](https://t.me/codechef_group) (Group)
+* [Codechef || Leetcode || Codeforces || Topcoder || SPOJ || Codestudio || HackerRank || Solutions](https://t.me/allcodingsolution_official) (Group)
 * [CODEFORCES (CP)](https://t.me/codeforces_cp) (Group)
 * [Coding Buddies](https://t.me/Coding_Buddies) (Channel)
 * [Coding Chat](https://t.me/CodingChat) (Group)
@@ -545,8 +545,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Front End World](https://t.me/front_end_first) (Channel)
 * [FrontEnd Development](https://t.me/fedevelopment) (Channel)
 * [GFG Solutions GEEKS FOR GEEKS (GEEKSFORGEEKS)](https://t.me/gfg_official) (Channel)
-* [GROUP FOR PROGRAMMERS](https://t.me/realgroupforprogrammer) (Channel)
 * [GROUP FOR PROGRAMMERS](https://t.me/groupforprogrammerofficial) (Group)
+* [GROUP FOR PROGRAMMERS](https://t.me/realgroupforprogrammer) (Channel)
 * [IT Books - Programming Books](https://t.me/itbook_store) (Channel)
 * [JAVA](https://t.me/joinchat/OD5CfRhqAzsHcdv_q9cvHw) (Group)
 * [JAVASCRIPT & FRAMEWORKS](https://t.me/joinchat/OD5CfUt7mkrgHUP21Al74Q) (Group)
@@ -581,8 +581,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Symmetria](https://t.me/symmetria) (Channel)
 * [The Devs Groups Rules](https://t.me/rulesforthedevs) (Channel)
 * [The Devs](https://t.me/thedevs) (Channel)
-* [TheFrontEnd](https://t.me/thefrontend) (Channel)
 * [The V Programming Language](https://t.me/vlang_en) (Group)
+* [TheFrontEnd](https://t.me/thefrontend) (Channel)
 * [Threejs by Bruno Simons](https://t.me/bruno_threejs) (Channel)
 * [ThreeJS Community](https://t.me/threejs_community) (Group)
 * [Threejs course](https://t.me/three_js_course) (Channel)
@@ -852,11 +852,11 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Bard AI](https://t.me/bard_kpbot) (Bot)
 * [Chat GPT 5](https://t.me/chatgpt5) (Channel)
 * [Chat GPT](https://t.me/gpt_chat) (Channel)
-* [ChatGPT official](https://t.me/CustomGPTAi) (Channel)
 * [ChatGPT (GPT-4)](https://t.me/chatgpt_karfly_bot) (Bot)
 * [ChatGPT & Midjourney | AI bot](https://t.me/GPT4Telegrambot) (Bot)
 * [ChatGPT & Midjourney | New bot](https://t.me/GPT4Tbot) (Bot)
 * [ChatGPT DALL-E Bot](https://t.me/JWGPT3_bot) (Bot)
+* [ChatGPT official](https://t.me/CustomGPTAi) (Channel)
 * [ChatGPT_Dall-E 2_Kandinsky 2.1](https://t.me/UmarchehBot) (Bot)
 * [ChatGPT](https://t.me/chatgptzs_bot) (Bot)
 * [ChatGPT4 | Midjourney](https://t.me/gpt3_unlim_chatbot) (Bot)
@@ -937,7 +937,6 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Generative AI](https://t.me/ai_generative) (Channel)
 * [GigaChat | Gemini | Sora](https://t.me/bard_claude_ii_ai) (Group) <!-- 20/02/2024-->
 * [iSmartGPT | Gemini AI](https://t.me/ismartgpt_bot) (Bot) <!-- 20/02/2024-->
-* [Лама: ChatGPT & Gemini Ultra без ограничений](https://t.me/gpt_lama_bot) (Bot) <!-- 20/02/2024-->
 * [Machine learning chat](https://t.me/machinee_learning) (Group)
 * [Machine learning Interview](https://t.me/machinelearning_interview) (Channel)
 * [Machine Learning World](https://t.me/ml_world) (Channel)
@@ -950,4 +949,5 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Okey, AI](https://t.me/all_in_one_learn) (Channel) <!-- 20/02/2024-->
 * [Анализ данных (Data analysis)](https://t.me/data_analysis_ml) (Channel)
 * [Генерируем Чат | MidJourney | StableDiffusion | DALL-E 3](https://t.me/text2image) (Group)
+* [Лама: ChatGPT & Gemini Ultra без ограничений](https://t.me/gpt_lama_bot) (Bot) <!-- 20/02/2024-->
 * [Машинное обучение RU](https://t.me/machinelearning_ru) (Channel)
