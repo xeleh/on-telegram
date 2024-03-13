@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (285 links)  
+[Retro](#Retro) (288 links)  
 [Demoscene](#Demoscene) (35 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (291 links)  
@@ -30,6 +30,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [AmigaWarez](https://t.me/joinchat/-qIghJQ6SWk5OTU0) (Group) <!-- 04/10/2023 -->
 * [AmigaWarez](https://t.me/joinchat/xnwDU7MYdAkxZGU0) (Channel) <!-- 04/10/2023 -->
 * [ArcadeGamesRaspberryPi](https://t.me/+WUxkfTUyozgNovlj) (Group) <!-- 10/10/2023 -->
+* [Batocera.Linux [ENG]](https://t.me/Batocera) (Group) <!-- 13/03/2024 -->
 * [Comm6x, mini, maxi, Vic20, A500 mini](https://t.me/+bsrwc305xrE0NmJk) (Group)
 * [Commodore 64 Art Daily](https://t.me/c64artdaily) (Channel) <!-- 04/10/2023 -->
 * [Commodore 64 Remix](https://t.me/Commodore64_Remix) (Channel) <!-- 04/10/2023 -->
@@ -54,6 +55,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [NeoGeoCFW](https://t.me/NeoGeoCFW) (Channel) <!-- 10/10/2023 -->
 * [NeptUNO+](https://t.me/neptuno_plus) (Group)
 * [Nintendo 64](https://t.me/RomSet_Nintendo64) (Channel) <!-- 13/10/2023 -->
+* [Raspberry — Retropie Batocera Recallbox](https://t.me/raspberrygamecore) (Channel)
 * [Retro Computer Furs 2.0](https://t.me/RetroComputerFursv2) (Group) <!-- 09/10/2023 -->
 * [Retro game ROMs](https://t.me/retrogamer) (Channel) <!-- 06/10/2023 -->
 * [Retro Gamer Furs](https://t.me/RetroGamerFurs) (Group) <!-- 07/10/2023 -->
@@ -78,7 +80,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [amiga pistorm](https://t.me/pistorm) (Group) <!-- 24/11/2023 -->
 * [Amiga Storage](https://t.me/+41X8i7iM4kRjYWRk) (Group) <!-- 04/10/2023 -->
 * [AMIGA](https://t.me/+xWW2dZGK6gE1NWZk) (Channel) <!-- 04/10/2023 -->
-* [amigafsx86](https://t.me/amigafsx86) (Group) <!-- 04/10/2023 -->
+* [amigafsx86 / batocerag+](https://t.me/amigafsx86) (Group) <!-- 04/10/2023 -->
 * [amigagames plus (oficial)](https://t.me/amigagamesplus) (Channel) <!-- 14/01/2024 -->
 * [️amigagames](https://t.me/amigagames) (Group) <!-- 04/10/2023 -->
 * [amigamarkt](https://t.me/amigamarkt) (Group) <!-- 04/10/2023 -->
@@ -97,6 +99,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Atari ST/E Games](https://t.me/AtariSTGames) (Group) <!-- 04/10/2023 -->
 * [Atari ST/E/MegaSTe Computers](https://t.me/AtariSTe_Computers) (Group) <!-- 09/03/2024 -->
 * [AtariCoders](https://t.me/ataricoders) (Group) <!-- 04/10/2023 -->
+* [Batocera Linux ESP](https://t.me/batocerafull) (Group)
 * [Batocera PC Español](https://t.me/BatoceraPCesp) (Group) <!-- 05/10/2023 -->
 * [BEST OF THE BEST - Raspberry Pi0, Pi1, Pi2, Pi3, Pi4, TVBOX Emuelec, PC, Windows. Batocera, Retropie, Emuelec](https://t.me/BOB_Retropie_Windows) (Channel) <!-- 08/10/2023 -->
 * [BOB - Mejores juegos viejunos para Raspberry pi0/1/2/3/4, Batocera, Emuelec tvbox, OGA, PC, Mac, Windows. Sala de dudas.](https://t.me/BOB_retropie_windows_dudas) (Group) <!-- 12/10/2023 -->
@@ -293,7 +296,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 ### Portuguese
 
 * [Computadores Antigos](https://t.me/retropc_br) (Group)
-* [GAMES.RETRO ( venda de video games e jogos). SOU DE SALTO SP- Entrego nas cidades próximas aceito cartão](https://t.me/cleibson2022) (Channel)
+* [GAMES.RETRO ( venda de video games e jogos). SOU DE SALTO SP- Entrego nas cidades próximas aceito cartão](https://t.me/cleibson2022) (Channel) <!-- 13/03/2024 -->
 * [Retro PC Brasil](https://t.me/retropcbrasil) (Group) <!-- 26/02/2024 -->
 * [Revista Clube MSX (Canal de Transmissão)](https://t.me/clubemsx) (Channel) <!-- 04/10/2023 -->
 
