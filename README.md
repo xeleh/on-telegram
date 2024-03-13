@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (288 links)  
+[Retro](#Retro) (294 links)  
 [Demoscene](#Demoscene) (35 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (291 links)  
@@ -112,6 +112,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Canarias Go Retro - Novedades](https://t.me/canariasgoretronoticias) (Channel) <!-- 15/11/2023 -->
 * [Clásicos básicos de #Msdos (by @Patxu_lee)](https://t.me/joinchat/WEUr4etRgq1cyXol) (Channel) <!-- 19/11/2023 -->
 * [COLECCIONISMO COMMODORE AMIGA](https://t.me/ColeccionismoCommodoreAmiga) (Group) <!-- 04/10/2023 -->
+* [Coleccionismo videojuegos retro/ compras wallapop,etc](https://t.me/retroalbacetejuego) (Group) (Abandoned)
 * [Commodore Amiga en Español](https://t.me/amigaspain) (Group) <!-- 04/10/2023 -->
 * [Comunidad Atari](https://t.me/comunidad_atari) (Group) <!-- 04/10/2023 -->
 * [Consolas MINI y EMULACION en sistemas RETRO (SNES/NES/MD/PSX Classic Mini...)](https://t.me/snesminiroms) (Group) <!-- 04/10/2023 -->
@@ -204,6 +205,11 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Retro PC](https://t.me/retropcmdq) (Group)
 * [RETRO-ARCADE ELX](https://t.me/retroarcadeelx) (Channel) <!-- 25/10/2023 -->
 * [Retro-Arcade EmulOS Team](https://t.me/Retro_Arcade_EmulOs_Team) (Group)
+* [RETRO4BARTOPS](https://t.me/RetroBartops) (Group)
+* [RETROBAT 40GB](https://t.me/RETROBAT40GB) (Channel)
+* [Retrobat Infinito - Malefica](https://t.me/retrobatinfinito) (Channel)
+* [Retrobat Infinito - Roms](https://t.me/retrobatinfinitoroms) (Channel)
+* [Retrobat_Ale3D](https://t.me/retrobat_Ale3D) (Channel)
 * [RetroBits](https://t.me/RetroBits) (Group) <!-- 07/10/2023 -->
 * [RetroBytes](https://t.me/RetrobytesCordoba) (Group)
 * [RetroCacharreo](https://t.me/RetroCacharreo) (Group) <!-- 04/10/2023 -->
