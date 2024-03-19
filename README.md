@@ -26,7 +26,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [8bits4ever](https://t.me/eightbitsforever) (Group)
 * [AMIGA ND GAMES WORKBENCH EDITION](https://t.me/AMIGACOLLECTION) (Channel) <!-- 19/01/2024 -->
 * [Amiga](https://t.me/amigaaaa) (Group) <!-- 04/10/2023 -->
-* [amiga500](https://t.me/amiga500backtolife) (Channel) <!-- 14/01/2024 -->
+* ~~[amiga500](https://t.me/amiga500backtolife) (Channel)~~ (Gone) <!-- 14/01/2024 -->
 * [AmigaWarez](https://t.me/joinchat/-qIghJQ6SWk5OTU0) (Group) <!-- 04/10/2023 -->
 * [AmigaWarez](https://t.me/joinchat/xnwDU7MYdAkxZGU0) (Channel) <!-- 04/10/2023 -->
 * [ArcadeGamesRaspberryPi](https://t.me/+WUxkfTUyozgNovlj) (Group) <!-- 10/10/2023 -->
@@ -83,7 +83,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [amigafsx86 / batocerag+](https://t.me/amigafsx86) (Group) <!-- 04/10/2023 -->
 * [amigagames plus (oficial)](https://t.me/amigagamesplus) (Channel) <!-- 14/01/2024 -->
 * [️amigagames](https://t.me/amigagames) (Group) <!-- 04/10/2023 -->
-* [amigamarkt](https://t.me/amigamarkt) (Group) <!-- 04/10/2023 -->
+* ~~[amigamarkt](https://t.me/amigamarkt) (Group)~~ (Gone)<!-- 04/10/2023 -->
 * [Amigawave audios](https://t.me/amigawaveaudios) (Channel)
 * [AminetOS](https://t.me/AminetOS) (Group) <!-- 04/10/2023 -->
 * [Amstrad Eterno](https://t.me/amstradeterno) (Group)
@@ -96,7 +96,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [ARCADIUM The Online RetroGaming System](https://t.me/ArcadiumRetroSystem) (Group) <!-- 09/10/2023 -->
 * [Archivo Retroinformática](https://t.me/joinchat/WAL3KyNrw9iDeScq) (Channel) <!-- 19/11/2023 -->
 * [ATARI ST GRUPO USUARIOS ESPAÑOL](https://t.me/joinchat/FoBR_wgmo-aACm2I) (Group) <!-- 11/10/2023 -->
-* [Atari ST/E Games](https://t.me/AtariSTGames) (Group) <!-- 04/10/2023 -->
+* ~~[Atari ST/E Games](https://t.me/AtariSTGames) (Group)~~ (Gone) <!-- 04/10/2023 -->
 * [Atari ST/E/MegaSTe Computers](https://t.me/AtariSTe_Computers) (Group) <!-- 09/03/2024 -->
 * [AtariCoders](https://t.me/ataricoders) (Group) <!-- 04/10/2023 -->
 * [Batocera Linux ESP](https://t.me/batocerafull) (Group)
@@ -115,7 +115,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Coleccionismo videojuegos retro/ compras wallapop,etc](https://t.me/retroalbacetejuego) (Group) (Abandoned)
 * [Commodore Amiga en Español](https://t.me/amigaspain) (Group) <!-- 04/10/2023 -->
 * [Comunidad Atari](https://t.me/comunidad_atari) (Group) <!-- 04/10/2023 -->
-* [Consolas MINI y EMULACION en sistemas RETRO (SNES/NES/MD/PSX Classic Mini...)](https://t.me/snesminiroms) (Group) <!-- 04/10/2023 -->
+* ~~[Consolas MINI y EMULACION en sistemas RETRO (SNES/NES/MD/PSX Classic Mini...)](https://t.me/snesminiroms) (Group)~~ (Gone) <!-- 04/10/2023 -->
 * [Cpctelera](https://t.me/cpctelera_asm) (Group)
 * [Creativo en Japón](https://t.me/creativoenjaponOFICIAL) (Group) <!-- 29/10/2023 -->
 * [CURSO BASIC AsteroideZX](https://t.me/CURSOBASICAsteroideZX) (Group) <!-- 06/10/2023 -->
@@ -192,11 +192,11 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Raspberry Pi EMULADORES Retro VIDEOJUEGOS](https://t.me/RaspberryPiEmuladores) (Group) <!-- 12/10/2023 -->
 * [Renoves & mucho más! Bricogame y Amigos](https://t.me/+aVBEIXHSEtgwNDA8) (Group) <!-- 30/10/2023 -->
 * [Reparaciones Retro Informática](https://t.me/RetroReparaciones) (Group) <!-- 04/02/2024 -->
-* [Retro 8 bits](https://t.me/Retro8bits) (Group) <!-- 05/10/2023 -->
+* ~~[Retro 8 bits](https://t.me/Retro8bits) (Group)~~ (Gone) <!-- 05/10/2023 -->
 * [Retro Antena](https://t.me/+6kjYHC_sN8pjNGNh) (Channel)
 * [Retro Aventurαѕ](https://t.me/RetroAventuras) (Group) <!-- 04/10/2023 -->
 * [Retro Emuladores](https://t.me/retroRomsChe) (Channel) <!-- 16/10/2023 -->
-* [RETRO EMULADORES](https://t.me/romespanol) (Channel) <!-- 17/10/2023 -->
+* ~~[RETRO EMULADORES](https://t.me/romespanol) (Channel)~~ (Gone) <!-- 17/10/2023 -->
 * [Retro ES](https://t.me/Retro_Spain) (Group) <!-- 04/10/2023 -->
 * [Retro Games](https://t.me/retrogames_telegram) (Group)
 * [Retro Juego Mensual](https://t.me/retrojuegodelmes) (Channel) <!-- 03/12/2023 -->
