@@ -264,13 +264,13 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [AmigaRu](https://t.me/amigaru) (Group)
 * [Apple II, Правец 8, Агат](https://t.me/appleIIe) (Group)
 * [Atari Russian Corner](https://t.me/atari_corner) (Group)
-* [Atari XL/XE](https://t.me/atari_xl_xe) (Group)
+* [Atari XL/XE](https://t.me/atari_xl_xe) (Group) <!-- 16/03/2024 -->
 * [CommodoreChat](https://t.me/c64chat) (Group) <!-- 04/10/2023 -->
 * [ENTERPRISE retrocomp](https://t.me/Enterprise_retrocomp) (Group)
 * [GB development](https://t.me/gameboy_development) (Channel) <!-- 07/10/2023 -->
 * [Limowski' Precious Little Life](https://t.me/retrodevicesnerd) (Channel)
 * [Ms-Dos (ЭлектроФлудилка)](https://t.me/MsDos_PC) (Group) <!-- 22/02/2024 -->
-* [omegaHACKERSgroup](https://t.me/omegaHACKERSgroup) (Channel)
+* [omegaHACKERSgroup](https://t.me/omegaHACKERSgroup) (Channel) <!-- 28/02/2024 -->
 * [Paw Noir C64 devlog](https://t.me/paw_noir) (Channel) <!-- 04/10/2023 -->
 * [Retro Development](https://t.me/RetroDevelopment) (Group)
 * [retrodevil](https://t.me/retrodevil) (Group) <!-- 17/02/2024 -->
@@ -284,13 +284,13 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Sprinter Computer Blog](https://t.me/zx_sprinter_computer) (Channel)
 * [Sprinter Computer](https://t.me/zx_sprinter) (Group)
 * [TS-Config](https://t.me/tsconf) (Group)
-* [Unreal Speccy Portable](https://t.me/unrealspeccypg) (Group)
+* [Unreal Speccy Portable](https://t.me/unrealspeccypg) (Group) <!-- 09/03/2024 -->
 * [Vortex Tracker](https://t.me/vt_training) (Group)
 * [ZX Evolution RU/EN](https://t.me/zxevo) (Group)
 * [ZX Games](https://t.me/zxgames) (Group)
 * [ZX Speccy](https://t.me/zxnews) (Channel)
 * [ZX Spectrum handhelds](https://t.me/zxspectrumhandhelds) (Channel)
-* [ZX Spectrum Next RU/EN](https://t.me/specnext) (Group)
+* [ZX Spectrum Next RU/EN](https://t.me/specnext) (Group) <!-- 02/03/2024 -->
 * [ZX_MURMULATOR](https://t.me/ZX_MURMULATOR) (Group) <!-- 06/10/2023 -->
 * [zxcoding](https://t.me/zxcoding) (Group)
 * [ZXDev.Masters](https://t.me/zxdev_masters) (Group)
@@ -315,10 +315,10 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 * [A500 Mini](https://t.me/A500mini) (Group) <!-- 11/12/2023 -->
 * [Amiga Forever](https://t.me/amigagame) (Channel) <!-- 17/02/2024 -->
-* [Apulia Retrocomputing](https://t.me/ApuliaRetro) (Channel)
+* [Apulia Retrocomputing](https://t.me/ApuliaRetro) (Channel) <!-- 09/03/2024 -->
 * [Commodore 64](https://t.me/commodorec64) (Channel)
-* [MS-DOS ITALIA](https://t.me/msdositalia) (Group)
-* [RetroComputer & RetroGaming World](https://t.me/retrocomputerworld) (Channel)
+* [MS-DOS ITALIA](https://t.me/msdositalia) (Group) <!-- 01/03/2024 -->
+* [RetroComputer & RetroGaming World](https://t.me/retrocomputerworld) (Channel) <!-- 03/03/2024 -->
 * [Retrocomputer Italia](https://t.me/retrocomputeritalia) (Channel)
 * [Retrocomputer Italia](https://t.me/retrocomputingitalia) (Group)
 * [Retrocomputers sales](https://t.me/retrocomputers) (Channel)
