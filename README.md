@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (297 links)  
+[Retro](#Retro) (302 links)  
 [Demoscene](#Demoscene) (35 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (291 links)  
@@ -110,6 +110,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [BRICOGAME](https://t.me/bricogame) (Channel) <!-- 26/10/2023 -->
 * [C64 core Mist/Sidi devel](https://t.me/C64MistiSidi) (Group) <!-- 04/03/2024 -->
 * [Cafetería de las FPGAs](https://t.me/CafeteriaFPGA) (Group) <!-- 07/10/2023 -->
+* [Canal Descargas RetroPunks MX](https://t.me/retro_punks_mx) (Channel) <!-- 21/04/2024 -->
 * [Canarias Go Retro - Novedades](https://t.me/canariasgoretronoticias) (Channel) <!-- 15/11/2023 -->
 * [Clásicos básicos de #Msdos (by @Patxu_lee)](https://t.me/joinchat/WEUr4etRgq1cyXol) (Channel) <!-- 19/11/2023 -->
 * [COLECCIONISMO COMMODORE AMIGA](https://t.me/ColeccionismoCommodoreAmiga) (Group) <!-- 04/10/2023 -->
@@ -202,8 +203,11 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Retro Games](https://t.me/retrogames_telegram) (Group)
 * [Retro Juego Mensual](https://t.me/retrojuegodelmes) (Channel) <!-- 03/12/2023 -->
 * [Retro OFERTAS TV (Canal Retrovideojuegos TV)](https://t.me/RETROFERTASTV) (Channel) <!-- 03/02/2024 -->
+* [Retro Para Todos - Zona PS2](https://t.me/RetroParaTodosPS2) (Channel) <!-- 21/04/2024 -->
+* [Retro Para Todos - Zona PSX](https://t.me/RetroParaTodosPSX) (Channel) <!-- 21/04/2024 -->
 * [Retro PC Spain](https://t.me/Retro_PC_Spain) (Group) <!-- 04/10/2023 -->
 * [Retro PC](https://t.me/retropcmdq) (Group)
+* [RetroPunks MX](https://t.me/retropunks_mx) (Group) <!-- 21/04/2024 -->
 * [RETRO-ARCADE ELX](https://t.me/retroarcadeelx) (Channel) <!-- 25/10/2023 -->
 * [Retro-Arcade EmulOS Team](https://t.me/Retro_Arcade_EmulOs_Team) (Group)
 * [RETRO4BARTOPS](https://t.me/RetroBartops) (Group)
@@ -228,6 +232,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [RetroManiacs](https://t.me/retrorafaxex) (Channel)
 * [RetroMercadillo](https://t.me/retromercadillo) (Group) <!-- 21/10/2023 -->
 * [RetroMeta](https://t.me/retrometa) (Channel)
+* [Retromojones Channel](https://t.me/retromojones) (Group) <!-- 16/03/2024 -->
 * [RetroStoneES & retro en general](https://t.me/RetroStoneES) (Group)
 * [RetroStoneES+](https://t.me/RSESplus) (Channel)
 * [RetroSyS](https://t.me/RetroSysW) (Channel) <!-- 06/10/2023 -->
