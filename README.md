@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (294 links)  
+[Retro](#Retro) (297 links)  
 [Demoscene](#Demoscene) (35 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (291 links)  
@@ -105,6 +105,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [BOB - Mejores juegos viejunos para Raspberry pi0/1/2/3/4, Batocera, Emuelec tvbox, OGA, PC, Mac, Windows. Sala de dudas.](https://t.me/BOB_retropie_windows_dudas) (Group) <!-- 12/10/2023 -->
 * [BOB canal de descargas](https://t.me/BOBcera) (Channel) <!-- 05/10/2023 -->
 * [BOBcera Pi4 128GB](https://t.me/BOBcera_Pi4_128) (Channel) <!-- 05/10/2023 -->
+* [BOBVITA (RetroMonkey v2) - No Oficial para Descarga](https://t.me/RetroMonkeyPsvita) (Channel) <!-- 19/03/2024 -->
 * [Boriel ZX Basic](https://t.me/+dSbWL8z8ol1lMjA0) (Group) <!-- 05/10/2023 -->
 * [BRICOGAME](https://t.me/bricogame) (Channel) <!-- 26/10/2023 -->
 * [C64 core Mist/Sidi devel](https://t.me/C64MistiSidi) (Group) <!-- 04/03/2024 -->
@@ -226,6 +227,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Retromania Viejuner](https://t.me/retromaniaviejuner) (Channel) <!-- 02/12/2023 -->
 * [RetroManiacs](https://t.me/retrorafaxex) (Channel)
 * [RetroMercadillo](https://t.me/retromercadillo) (Group) <!-- 21/10/2023 -->
+* [RetroMeta](https://t.me/retrometa) (Channel)
 * [RetroStoneES & retro en general](https://t.me/RetroStoneES) (Group)
 * [RetroStoneES+](https://t.me/RSESplus) (Channel)
 * [RetroSyS](https://t.me/RetroSysW) (Channel) <!-- 06/10/2023 -->
@@ -275,11 +277,12 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Retro Development](https://t.me/RetroDevelopment) (Group)
 * [retrodevil](https://t.me/retrodevil) (Group) <!-- 17/02/2024 -->
 * [retrodevs](https://t.me/retrodevs) (Group) <!-- 04/10/2023 -->
+* [RetroTechChat](https://t.me/retrotechRT_chat) (Group)
 * [Ru_PDP](https://t.me/ru_pdp) (Group)
 * [Sega Mega Drive | Genesis](https://t.me/megadrivesega) (Channel)
 * [Sinclair QL](https://t.me/sinclair_ql) (Group)
 * [speccy code](https://t.me/speccy_code) (Group) <!-- 19/02/2024 -->
-* [Speccy hardware](https://t.me/speccy_hard) (Group)
+* [Speccy hardware](https://t.me/speccy_hard) (Group) <!-- 19/03/2024 -->
 * [speccy music](https://t.me/speccymusic) (Group) <!-- 04/10/2023 -->
 * [Sprinter Computer Blog](https://t.me/zx_sprinter_computer) (Channel)
 * [Sprinter Computer](https://t.me/zx_sprinter) (Group)
