@@ -505,7 +505,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 * [UNREAL ENGINE - ARCHVIZ PT/BR](https://t.me/UnrealEngine_BR) (Group)
 
-### Arabic
+### Persian
 
 * [Global Game Jam](https://t.me/globalgamejam) (Channel)
 * [Indie / Casual & Hypercasual GameDev](https://t.me/gamejamz) (Group)
@@ -827,7 +827,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Next.JS - Brasil](https://t.me/nextjs_br) (Group)
 * [Three.js Brasil](https://t.me/threejsbr) (Group)
 
-### Arabic
+### Persian
 
 * [قالب وردپرس](https://t.me/wordpressx) (Channel)
 
