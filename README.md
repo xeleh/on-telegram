@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (302 links)  
+[Retro](#Retro) (309 links)  
 [Demoscene](#Demoscene) (35 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (291 links)  
@@ -60,6 +60,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Retro game ROMs](https://t.me/retrogamer) (Channel) <!-- 06/10/2023 -->
 * [Retro Gamer Furs](https://t.me/RetroGamerFurs) (Group) <!-- 07/10/2023 -->
 * [Retro Games](https://t.me/retrogames) (Channel) <!-- 08/10/2023 -->
+* [RETROACTIVE GAMING DISCUSSIONS](https://t.me/AskForGames) (Group) <!-- 23/03/2024 -->
+* [Retrobabs](https://t.me/retrobabs) (Group) <!-- 22/03/2024 -->
 * [retrocomputingbr](https://t.me/retrocomputingbr) (Group)
 * [RetroMagazine World](https://t.me/RetroMagazineW) (Channel) <!-- 06/10/2023 -->
 * [roms_neogeo](https://t.me/roms_neogeo) (Channel)
@@ -113,6 +115,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Canal Descargas RetroPunks MX](https://t.me/retro_punks_mx) (Channel) <!-- 21/03/2024 -->
 * [Canarias Go Retro - Novedades](https://t.me/canariasgoretronoticias) (Channel) <!-- 15/11/2023 -->
 * [Clásicos básicos de #Msdos (by @Patxu_lee)](https://t.me/joinchat/WEUr4etRgq1cyXol) (Channel) <!-- 19/11/2023 -->
+* [Club de Juegos ZX Spectrum](https://t.me/clubzxspectrum) <!-- No description -->
 * [COLECCIONISMO COMMODORE AMIGA](https://t.me/ColeccionismoCommodoreAmiga) (Group) <!-- 04/10/2023 -->
 * [Coleccionismo videojuegos retro/ compras wallapop,etc](https://t.me/retroalbacetejuego) (Group) (Abandoned)
 * [Commodore Amiga en Español](https://t.me/amigaspain) (Group) <!-- 04/10/2023 -->
@@ -214,6 +217,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [RETROBAT 40GB](https://t.me/RETROBAT40GB) (Channel)
 * [Retrobat Infinito - Malefica](https://t.me/retrobatinfinito) (Channel)
 * [Retrobat Infinito - Roms](https://t.me/retrobatinfinitoroms) (Channel)
+* [Retrobat Mouse y Teclado Edition Almacen](https://t.me/Retrobatpc) (Channel) <!-- 22/03/2024 -->
 * [Retrobat_Ale3D](https://t.me/retrobat_Ale3D) (Channel)
 * [RetroBits](https://t.me/RetroBits) (Group) <!-- 07/10/2023 -->
 * [RetroBytes](https://t.me/RetrobytesCordoba) (Group)
@@ -230,6 +234,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Retroinformática](https://t.me/retroinformatica) (Group) <!-- 04/10/2023 -->
 * [Retromania Viejuner](https://t.me/retromaniaviejuner) (Channel) <!-- 02/12/2023 -->
 * [RetroManiacs](https://t.me/retrorafaxex) (Channel)
+* [RETROMATICA Podcast](https://t.me/retromatica) (Group) <!-- 24/03/2024 -->
 * [RetroMercadillo](https://t.me/retromercadillo) (Group) <!-- 21/10/2023 -->
 * [RetroMeta](https://t.me/retrometa) (Channel)
 * [Retromojones Channel](https://t.me/retromojones) (Group) <!-- 16/03/2024 -->
@@ -272,6 +277,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Apple II, Правец 8, Агат](https://t.me/appleIIe) (Group)
 * [Atari Russian Corner](https://t.me/atari_corner) (Group)
 * [Atari XL/XE](https://t.me/atari_xl_xe) (Group) <!-- 16/03/2024 -->
+* [atari2600](https://t.me/atari_VCS) (Group) <!-- 22/03/2024 -->
 * [CommodoreChat](https://t.me/c64chat) (Group) <!-- 04/10/2023 -->
 * [ENTERPRISE retrocomp](https://t.me/Enterprise_retrocomp) (Group)
 * [GB development](https://t.me/gameboy_development) (Channel) <!-- 07/10/2023 -->
@@ -312,6 +318,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Computadores Antigos](https://t.me/retropc_br) (Group)
 * [GAMES.RETRO ( venda de video games e jogos). SOU DE SALTO SP- Entrego nas cidades próximas aceito cartão](https://t.me/cleibson2022) (Channel) <!-- 13/03/2024 -->
 * [Retro PC Brasil](https://t.me/retropcbrasil) (Group) <!-- 26/02/2024 -->
+* [Retropie_BR](https://t.me/retropie_br) (Group) <!-- 24/03/2024 -->
 * [Revista Clube MSX (Canal de Transmissão)](https://t.me/clubemsx) (Channel) <!-- 04/10/2023 -->
 
 ### German
