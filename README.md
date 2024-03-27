@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (309 links)  
+[Retro](#Retro) (312 links)  
 [Demoscene](#Demoscene) (35 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (291 links)  
@@ -60,6 +60,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Retro game ROMs](https://t.me/retrogamer) (Channel) <!-- 06/10/2023 -->
 * [Retro Gamer Furs](https://t.me/RetroGamerFurs) (Group) <!-- 07/10/2023 -->
 * [Retro Games](https://t.me/retrogames) (Channel) <!-- 08/10/2023 -->
+* [RETROACTIVE GAMING : torrents, emulators, apps, games, emulator games, pc games, mobile games..](https://t.me/gametorrentsz) (Channel) <!-- 26/03/2024 -->
 * [RETROACTIVE GAMING DISCUSSIONS](https://t.me/AskForGames) (Group) <!-- 23/03/2024 -->
 * [Retrobabs](https://t.me/retrobabs) (Group) <!-- 22/03/2024 -->
 * [retrocomputingbr](https://t.me/retrocomputingbr) (Group)
@@ -103,6 +104,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [AtariCoders](https://t.me/ataricoders) (Group) <!-- 04/10/2023 -->
 * [Batocera Linux ESP](https://t.me/batocerafull) (Group)
 * [Batocera PC Español](https://t.me/BatoceraPCesp) (Group) <!-- 05/10/2023 -->
+* [Baul RETROLAYERS](https://t.me/baulretrolayers) (Channel) <!-- 26/03/2024 -->
 * [BEST OF THE BEST - Raspberry Pi0, Pi1, Pi2, Pi3, Pi4, TVBOX Emuelec, PC, Windows. Batocera, Retropie, Emuelec](https://t.me/BOB_Retropie_Windows) (Channel) <!-- 08/10/2023 -->
 * [BOB - Mejores juegos viejunos para Raspberry pi0/1/2/3/4, Batocera, Emuelec tvbox, OGA, PC, Mac, Windows. Sala de dudas.](https://t.me/BOB_retropie_windows_dudas) (Group) <!-- 12/10/2023 -->
 * [BOB canal de descargas](https://t.me/BOBcera) (Channel) <!-- 05/10/2023 -->
@@ -337,6 +339,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Retrocomputer Italia](https://t.me/retrocomputeritalia) (Channel)
 * [Retrocomputer Italia](https://t.me/retrocomputingitalia) (Group)
 * [Retrocomputers sales](https://t.me/retrocomputers) (Channel)
+* [Retropie italia](https://t.me/retropie_ita) (Group) <!-- 26/03/2024 -->
 * [RetroTech&RetroGaming](https://t.me/RetroComputerGaming) (Group) <!-- 21/02/2024 -->
 * [STL VIDEO GAMES / RETRO](https://t.me/stl_retro) (Group) <!-- 15/02/2024 -->
 * [The A500 Mini Ita & Amiga Channel 2](https://t.me/TheA500miniitaAmigachanel2) (Group) <!-- 23/02/2024 -->
