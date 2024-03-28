@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (312 links)  
+[Retro](#Retro) (318 links)  
 [Demoscene](#Demoscene) (35 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (291 links)  
@@ -24,6 +24,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [8bit text adventures](https://t.me/Advent8bit) (Group) <!-- 05/10/2023 -->
 * [8bit.fm](https://t.me/bit8fm) (Channel)
 * [8bits4ever](https://t.me/eightbitsforever) (Group)
+* [16-Bits Of Lucky (News & Updates](https://t.me/RetroLucky87) (Channel) <!-- 28/03/2024 -->
 * [AMIGA ND GAMES WORKBENCH EDITION](https://t.me/AMIGACOLLECTION) (Channel) <!-- 19/01/2024 -->
 * [Amiga](https://t.me/amigaaaa) (Group) <!-- 04/10/2023 -->
 * ~~[amiga500](https://t.me/amiga500backtolife) (Channel)~~ (Gone) <!-- 14/01/2024 -->
@@ -122,6 +123,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Coleccionismo videojuegos retro/ compras wallapop,etc](https://t.me/retroalbacetejuego) (Group) (Abandoned)
 * [Commodore Amiga en Español](https://t.me/amigaspain) (Group) <!-- 04/10/2023 -->
 * [Comunidad Atari](https://t.me/comunidad_atari) (Group) <!-- 04/10/2023 -->
+* [Comunidad SF2000](https://t.me/datafrog_SF2000) (Group) <!-- No description -->
 * ~~[Consolas MINI y EMULACION en sistemas RETRO (SNES/NES/MD/PSX Classic Mini...)](https://t.me/snesminiroms) (Group)~~ (Gone) <!-- 04/10/2023 -->
 * [Cpctelera](https://t.me/cpctelera_asm) (Group)
 * [Creativo en Japón](https://t.me/creativoenjaponOFICIAL) (Group) <!-- 29/10/2023 -->
@@ -186,6 +188,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Museo de la Preservación Digital](https://t.me/mupredi) (Group) <!-- 18/11/2023 -->
 * [Museo del Videojuego - (Repositorio Digital)](https://t.me/museodelvideojuego) (Channel) <!-- 07/10/2023 -->
 * [N-GO (a ZX Spectrum Next clone)](https://t.me/+SWUgrvR6LTBEzeYp) (Group) <!-- 09/10/2023 -->
+* [OFERTAS SELECTAS: RETROPIXELADOS](https://t.me/retropixelados) (Channel) <!-- 28/03/2024 -->
 * [OGA-OGS / RK2020 / RGB10-20-MAX / RG351P(M)-V / CANIFORCE](https://t.me/OdroidGoAdvance) (Group)
 * [oldbits zone](https://t.me/oldbitszone) (Group) <!-- 04/10/2023 -->
 * [Oyentes de conexión MSX](https://t.me/+SOGAGW5mG2hlZmI0) (Group) <!-- 04/10/2023 -->
@@ -256,6 +259,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Steam deck emuladores](https://t.me/steamdeckemuladores) (Channel) <!-- 16/10/2023 -->
 * [TELE DE TUBO](https://t.me/teledetubo) (Group) <!-- 25/02/2024 -->
 * [Testeo Amazon fire TV Retro Games (juegos y apps)](https://t.me/+SryM_Jvhy2w1ODNh) (Channel) <!-- 27/02/2024 -->
+* [Trimui](https://t.me/trimui) (Channel) <!-- No description -->
 * [Tugurio Computacional](https://t.me/tuguriocomputacional) (Channel) <!-- 04/10/2023 -->
 * [UnAmiga Español](https://t.me/joinchat/FDjURBAeiE1hmVZbMWfGWg) (Group) <!-- 04/10/2023 -->
 * [ViejuMIX](https://t.me/ViejuMIX) (Channel) <!-- 29/11/2023 -->
@@ -304,7 +308,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Vortex Tracker](https://t.me/vt_training) (Group)
 * [ZX Evolution RU/EN](https://t.me/zxevo) (Group)
 * [ZX Games](https://t.me/zxgames) (Group)
-* [ZX Speccy](https://t.me/zxnews) (Channel)
+* [ZX Speccy](https://t.me/zxnews) (Channel) <!-- 28/03/2024 -->
 * [ZX Spectrum handhelds](https://t.me/zxspectrumhandhelds) (Channel)
 * [ZX Spectrum Next RU/EN](https://t.me/specnext) (Group) <!-- 02/03/2024 -->
 * [ZX_MURMULATOR](https://t.me/ZX_MURMULATOR) (Group) <!-- 06/10/2023 -->
@@ -326,6 +330,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 ### German
 
 * [AMIGAWorld](https://t.me/amigaworld_de) (Group) <!-- 17/11/2023 -->
+* [Batocera.Linux [GER]](https://t.me/BatoceraGER) (Group) <!-- 28/03/2024 -->
 * [Commodore 64 Chat](https://t.me/commodore64chat) (Group) <!-- 04/10/2023 -->
 
 ### Italian
@@ -344,6 +349,11 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [STL VIDEO GAMES / RETRO](https://t.me/stl_retro) (Group) <!-- 15/02/2024 -->
 * [The A500 Mini Ita & Amiga Channel 2](https://t.me/TheA500miniitaAmigachanel2) (Group) <!-- 23/02/2024 -->
 * [ZX Spectrum](https://t.me/sinclairspectrum) (Channel) <!-- 04/10/2023 -->
+
+### Turkish
+
+* [Retro Saver](https://t.me/retrosaver) (Channel) <!-- 28/03/2024 -->
+
 
 <br>
 
