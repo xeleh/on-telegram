@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (318 links)  
+[Retro](#Retro) (324 links)  
 [Demoscene](#Demoscene) (35 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (291 links)  
@@ -113,6 +113,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [BOBVITA (RetroMonkey v2) - No Oficial para Descarga](https://t.me/RetroMonkeyPsvita) (Channel) <!-- 19/03/2024 -->
 * [Boriel ZX Basic](https://t.me/+dSbWL8z8ol1lMjA0) (Group) <!-- 05/10/2023 -->
 * [BRICOGAME](https://t.me/bricogame) (Channel) <!-- 26/10/2023 -->
+* [Brumagix Gamer 👉 Ofertas RetroChinescas](https://t.me/brumagixgamer_OFERTAS) (Channel) <!-- 30/03/2024 -->
 * [C64 core Mist/Sidi devel](https://t.me/C64MistiSidi) (Group) <!-- 04/03/2024 -->
 * [Cafetería de las FPGAs](https://t.me/CafeteriaFPGA) (Group) <!-- 07/10/2023 -->
 * [Canal Descargas RetroPunks MX](https://t.me/retro_punks_mx) (Channel) <!-- 21/03/2024 -->
@@ -122,9 +123,11 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [COLECCIONISMO COMMODORE AMIGA](https://t.me/ColeccionismoCommodoreAmiga) (Group) <!-- 04/10/2023 -->
 * [Coleccionismo videojuegos retro/ compras wallapop,etc](https://t.me/retroalbacetejuego) (Group) (Abandoned)
 * [Commodore Amiga en Español](https://t.me/amigaspain) (Group) <!-- 04/10/2023 -->
+* [Comunidad Anbernic](https://t.me/anbernic_esp) (Group) <!-- 31/03/2024 -->
 * [Comunidad Atari](https://t.me/comunidad_atari) (Group) <!-- 04/10/2023 -->
 * [Comunidad SF2000](https://t.me/datafrog_SF2000) (Group) <!-- No description -->
 * ~~[Consolas MINI y EMULACION en sistemas RETRO (SNES/NES/MD/PSX Classic Mini...)](https://t.me/snesminiroms) (Group)~~ (Gone) <!-- 04/10/2023 -->
+* [Consolas Portátiles Android: Retroid, Ayn, Anbernic...](https://t.me/RetroidPocket2) (Group) <!-- 30/03/2024 -->
 * [Cpctelera](https://t.me/cpctelera_asm) (Group)
 * [Creativo en Japón](https://t.me/creativoenjaponOFICIAL) (Group) <!-- 29/10/2023 -->
 * [CURSO BASIC AsteroideZX](https://t.me/CURSOBASICAsteroideZX) (Group) <!-- 06/10/2023 -->
@@ -136,6 +139,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [El Hogar del MSX](https://t.me/el_hogar_del_msx) (Group) <!-- 04/10/2023 -->
 * [El laberinto de PacMan](https://t.me/laberintopacman) (Group) <!-- 04/10/2023 -->
 * [El mundo del Spectrum Podcast](https://t.me/joinchat/CLSbG1jr4OmhoKFiR2_UVQ) (Group) <!-- 08/10/2023 -->
+* [El Orfanato Retro](https://t.me/+axBODZKLWdNkZWQ0) (Channel) <!-- 29/03/2024 -->
 * [EMUENET Retro Arcade Online Games, sala NETPLAY para tv box Amlogic, raspberry pi, PC win64, odroid go super & rgb 10 max](https://t.me/emuenetgroup) (Group) <!-- 18/10/2023 -->
 * [Emulacion TVBox EmuELEC.](https://t.me/Emutvbox) (Group) <!-- 04/10/2023 -->
 * [Emuladores — Roms — PS1 — SEGA — NEOGEO](https://t.me/Emuladoresromsneogeosega) (Channel)
@@ -294,6 +298,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Retro Development](https://t.me/RetroDevelopment) (Group)
 * [retrodevil](https://t.me/retrodevil) (Group) <!-- 17/02/2024 -->
 * [retrodevs](https://t.me/retrodevs) (Group) <!-- 04/10/2023 -->
+* [RetroPackage](https://t.me/Retrodelo) (Channel) <!-- 30/03/2024 -->
 * [RetroTechChat](https://t.me/retrotechRT_chat) (Group)
 * [Ru_PDP](https://t.me/ru_pdp) (Group)
 * [Sega Mega Drive | Genesis](https://t.me/megadrivesega) (Channel)
@@ -303,7 +308,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [speccy music](https://t.me/speccymusic) (Group) <!-- 04/10/2023 -->
 * [Sprinter Computer Blog](https://t.me/zx_sprinter_computer) (Channel)
 * [Sprinter Computer](https://t.me/zx_sprinter) (Group)
-* [TS-Config](https://t.me/tsconf) (Group)
+* [TS-Config](https://t.me/tsconf) (Group) <!-- 29/03/2024 -->
 * [Unreal Speccy Portable](https://t.me/unrealspeccypg) (Group) <!-- 09/03/2024 -->
 * [Vortex Tracker](https://t.me/vt_training) (Group)
 * [ZX Evolution RU/EN](https://t.me/zxevo) (Group)
@@ -345,6 +350,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Retrocomputer Italia](https://t.me/retrocomputingitalia) (Group)
 * [Retrocomputers sales](https://t.me/retrocomputers) (Channel)
 * [Retropie italia](https://t.me/retropie_ita) (Group) <!-- 26/03/2024 -->
+* [Retropie.it](https://t.me/retropie_it) (Group) <!-- 31/03/2024 -->
 * [RetroTech&RetroGaming](https://t.me/RetroComputerGaming) (Group) <!-- 21/02/2024 -->
 * [STL VIDEO GAMES / RETRO](https://t.me/stl_retro) (Group) <!-- 15/02/2024 -->
 * [The A500 Mini Ita & Amiga Channel 2](https://t.me/TheA500miniitaAmigachanel2) (Group) <!-- 23/02/2024 -->
