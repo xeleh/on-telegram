@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (337 links)  
+[Retro](#Retro) (346 links)  
 [Demoscene](#Demoscene) (35 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (291 links)  
@@ -21,13 +21,21 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 ### English
 
+* [16-Bits Of Lucky (News & Updates](https://t.me/RetroLucky87) (Channel) <!-- 28/03/2024 -->
 * [8bit text adventures](https://t.me/Advent8bit) (Group) <!-- 05/10/2023 -->
 * [8bit.fm](https://t.me/bit8fm) (Channel)
 * [8bits4ever](https://t.me/eightbitsforever) (Group)
-* [16-Bits Of Lucky (News & Updates](https://t.me/RetroLucky87) (Channel) <!-- 28/03/2024 -->
+* [A-Links](https://t.me/addlist/8dR6e03ach05Y2M0) (Group) <!-- 12/04/2024 -->
+* [Amiga Games](https://t.me/addlist/8dR6e03ach05Y2M0) (Group) <!-- 12/04/2024 -->
+* [Amiga Magazines | eZines | CDs](https://t.me/addlist/8dR6e03ach05Y2M0) (Group) <!-- 12/04/2024 -->
 * [AMIGA ND GAMES WORKBENCH EDITION](https://t.me/AMIGACOLLECTION) (Channel) <!-- 19/01/2024 -->
+* [Amiga X files](https://t.me/theXamigafiles) <!-- No description -->
+* [Amiga-X](https://t.me/addlist/8dR6e03ach05Y2M0) (Group) <!-- 12/04/2024 -->
 * [Amiga](https://t.me/amigaaaa) (Group) <!-- 04/10/2023 -->
 * ~~[amiga500](https://t.me/amiga500backtolife) (Channel)~~ (Gone) <!-- 14/01/2024 -->
+* [Amigacd32 | CDtv](https://t.me/addlist/8dR6e03ach05Y2M0) (Group) <!-- 12/04/2024 -->
+* [AmigaOS](https://t.me/addlist/8dR6e03ach05Y2M0) (Group) <!-- 12/04/2024 -->
+* [AmigaWareZ](https://t.me/addlist/8dR6e03ach05Y2M0) (Group) <!-- 12/04/2024 -->
 * [AmigaWarez](https://t.me/joinchat/-qIghJQ6SWk5OTU0) (Group) <!-- 04/10/2023 -->
 * [AmigaWarez](https://t.me/joinchat/xnwDU7MYdAkxZGU0) (Channel) <!-- 04/10/2023 -->
 * [ArcadeGamesRaspberryPi](https://t.me/+WUxkfTUyozgNovlj) (Group) <!-- 10/10/2023 -->
@@ -340,6 +348,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 * [Computadores Antigos](https://t.me/retropc_br) (Group)
 * [GAMES.RETRO ( venda de video games e jogos). SOU DE SALTO SP- Entrego nas cidades próximas aceito cartão](https://t.me/cleibson2022) (Channel) <!-- 13/03/2024 -->
+* [Retro Gaming Portugal](https://t.me/retrogamingportugal) (Group)  <!-- 12/04/2024 -->
 * [Retro PC Brasil](https://t.me/retropcbrasil) (Group) <!-- 26/02/2024 -->
 * [Retropie_BR](https://t.me/retropie_br) (Group) <!-- 24/03/2024 -->
 * [Revista Clube MSX (Canal de Transmissão)](https://t.me/clubemsx) (Channel) <!-- 04/10/2023 -->
