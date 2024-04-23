@@ -5,7 +5,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 Subjects:
 
 [Retro](#Retro) (351 links)  
-[Demoscene](#Demoscene) (35 links)  
+[Demoscene](#Demoscene) (37 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (291 links)  
 [AI](#AI) (120 links)  
@@ -78,7 +78,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [RomsDS](https://t.me/RomsDS) (Channel)
 * [RomsPokemon](https://t.me/RomsPokemon) (Channel)
 * [Sega Saturn](https://t.me/RomSet_SegaSaturn) (Channel) <!-- 13/10/2023 -->
-* [SystemOne](https://t.me/system1one) (Group) (Channel) <!-- 23/04/2024 -->
+* [SystemOne](https://t.me/system1one) (Channel) <!-- 23/04/2024 -->
 * [The Retro Channel](https://t.me/retrochannel666) (Channel) <!-- 23/04/2024 -->
 * [Vamped Amiga](https://t.me/vampedamiga) (Group) <!-- 04/10/2023 -->
 * [Vampire Amiga Dev](https://t.me/VampireGameDev) (Channel) <!-- 24/11/2023 -->
@@ -414,6 +414,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 ### Spanish
 
 * [#demoescena](https://t.me/demoescena) (Group)
+* [EuskalEncounter](https://t.me/EuskalPartyBot) (Bot)
+* [EuskalEncounter_bot](https://t.me/EuskalEncounterbot) (Bot)
 * [posadasparty.com](https://t.me/posadasparty) (Group)
 * [pouet.net Bot - Demoscene Info](https://t.me/pouetnetbot) (Bot)
 * [Subcultura.digital](https://t.me/+R-ixTdpQVTRrAjuT) (Group)
