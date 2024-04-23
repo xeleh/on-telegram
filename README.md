@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (346 links)  
+[Retro](#Retro) (351 links)  
 [Demoscene](#Demoscene) (35 links)  
 [GameDev](#GameDev) (100 links)  
 [Programming](#Programming) (291 links)  
@@ -78,6 +78,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [RomsDS](https://t.me/RomsDS) (Channel)
 * [RomsPokemon](https://t.me/RomsPokemon) (Channel)
 * [Sega Saturn](https://t.me/RomSet_SegaSaturn) (Channel) <!-- 13/10/2023 -->
+* [SystemOne](https://t.me/system1one) (Group) (Channel) <!-- 23/04/2024 -->
+* [The Retro Channel](https://t.me/retrochannel666) (Channel) <!-- 23/04/2024 -->
 * [Vamped Amiga](https://t.me/vampedamiga) (Group) <!-- 04/10/2023 -->
 * [Vampire Amiga Dev](https://t.me/VampireGameDev) (Channel) <!-- 24/11/2023 -->
 * [Vintage Anthro Computer Coders](https://t.me/vintageanthrocomputercoders) (Group) <!-- 08/10/2023 -->
@@ -298,7 +300,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 ### Russian
 
-* [AmigaRu](https://t.me/amigaru) (Group)
+* [#amigarus oldschool](https://t.me/amigarus) (Group) <!-- 12/04/2024 -->
+* [AmigaRu](https://t.me/amigaru) (Group) <!-- 23/04/2024 -->
 * [Apple II, Правец 8, Агат](https://t.me/appleIIe) (Group)
 * [Atari Russian Corner](https://t.me/atari_corner) (Group)
 * [Atari XL/XE](https://t.me/atari_xl_xe) (Group) <!-- 16/03/2024 -->
@@ -310,6 +313,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Ms-Dos (ЭлектроФлудилка)](https://t.me/MsDos_PC) (Group) <!-- 22/02/2024 -->
 * [omegaHACKERSgroup](https://t.me/omegaHACKERSgroup) (Channel) <!-- 28/02/2024 -->
 * [Paw Noir C64 devlog](https://t.me/paw_noir) (Channel) <!-- 04/10/2023 -->
+* [Pentium III](https://t.me/pentium_iii) (Channel) <!-- 23/04/2024 -->
+* [Ретрокомпьютеры, калькуляторы и другое ретро](https://t.me/pentium_iii) (Group) <!-- 23/04/2024 -->
 * [Retro Development](https://t.me/RetroDevelopment) (Group)
 * [RETRO POINT](https://t.me/retropoint) (Channel) <!-- 01/04/2024 -->
 * [retrodevil](https://t.me/retrodevil) (Group) <!-- 17/02/2024 -->
@@ -348,7 +353,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 * [Computadores Antigos](https://t.me/retropc_br) (Group)
 * [GAMES.RETRO ( venda de video games e jogos). SOU DE SALTO SP- Entrego nas cidades próximas aceito cartão](https://t.me/cleibson2022) (Channel) <!-- 13/03/2024 -->
-* [Retro Gaming Portugal](https://t.me/retrogamingportugal) (Group)  <!-- 12/04/2024 -->
+* [Retro Gaming Portugal](https://t.me/retrogamingportugal) (Group) <!-- 12/04/2024 -->
 * [Retro PC Brasil](https://t.me/retropcbrasil) (Group) <!-- 26/02/2024 -->
 * [Retropie_BR](https://t.me/retropie_br) (Group) <!-- 24/03/2024 -->
 * [Revista Clube MSX (Canal de Transmissão)](https://t.me/clubemsx) (Channel) <!-- 04/10/2023 -->
