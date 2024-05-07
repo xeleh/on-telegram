@@ -4,9 +4,9 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (351 links)  
+[Retro](#Retro) (352 links)  
 [Demoscene](#Demoscene) (37 links)  
-[GameDev](#GameDev) (100 links)  
+[GameDev](#GameDev) (101 links)  
 [Programming](#Programming) (291 links)  
 [AI](#AI) (120 links)  
 
@@ -158,7 +158,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Ensamblador 68000](https://t.me/Ensamblador_68000) (Group) <!-- 04/10/2023 -->
 * [Ensamblador Z80 (ZX Spectrum, Amstrad, MSX y más)](https://t.me/EnsambladorZXSpectrum) (Group) <!-- 04/10/2023 -->
 * [ESPectrum](https://t.me/ZXESPectrum) (Channel) <!-- 17/10/2023 -->
-* [Evercade low-cost](https://t.me/evercade_hypermegatech) (Channel) <!-- 01/04/2024 -->
+* ~~[Evercade low-cost](https://t.me/evercade_hypermegatech) (Channel)~~ (Gone) <!-- 01/04/2024 -->
 * [FPGAmakers](https://t.me/FPGAmakers) (Group) <!-- 04/10/2023 -->
 * [FPGAs](https://t.me/fpga_es) (Group) <!-- 09/10/2023 -->
 * [FPGAwars](https://t.me/FPGAwars) (Group) <!-- 25/02/2024 -->
@@ -278,6 +278,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Sharp X68000 Español](https://t.me/+7KOc69bLQBxlMTNk) (Group) <!-- 04/10/2023 -->
 * [Spectrum Next ES](https://t.me/zxnext) (Group) <!-- 04/10/2023 -->
 * [Steam deck emuladores](https://t.me/steamdeckemuladores) (Channel) <!-- 16/10/2023 -->
+* [SuperJuegos30 Podcast](https://t.me/sj30podcast) (Group) <!-- 01/05/2024 -->
 * [TELE DE TUBO](https://t.me/teledetubo) (Group) <!-- 25/02/2024 -->
 * [Testeo Amazon fire TV Retro Games (juegos y apps)](https://t.me/+SryM_Jvhy2w1ODNh) (Channel) <!-- 27/02/2024 -->
 * [Trimui](https://t.me/trimui) (Channel) <!-- No description -->
@@ -458,6 +459,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [5k Indiedev](https://t.me/proindiedev) (Channel)
 * [Arch Game Dev Freakshow](https://t.me/Architector_4_Gamedev) (Group)
 * [Asset Paradise](https://t.me/+ovcvUtaNLDdlODVk) (Group)
+* [Everyday Unity](https://t.me/everydayUnity) (Channel)
 * [Game Assets [Unity, Unreal Engine]](https://t.me/game_assets) (Channel)
 * [Game Assets Club™ 2.1 [ © Unity , ® Unreal Engine ]](https://t.me/game_assets_top) (Channel)
 * [Game Assets Club™ v3 [ © ® Unreal Engine 4.16 / 5.2 ]️](https://t.me/ue4devtop) (Channel)
