@@ -4,11 +4,11 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (352 links)  
+[Retro](#Retro) (355 links)  
 [Demoscene](#Demoscene) (37 links)  
 [GameDev](#GameDev) (101 links)  
 [Programming](#Programming) (291 links)  
-[AI](#AI) (120 links)  
+[AI](#AI) (123 links)  
 
 Please feel free to create an issue or PR if you know other Telegram groups/channels (preferably those with a description) that may fit.
 
@@ -26,6 +26,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [8bit.fm](https://t.me/bit8fm) (Channel)
 * [8bits4ever](https://t.me/eightbitsforever) (Group)
 * [A-Links](https://t.me/addlist/8dR6e03ach05Y2M0) (Group) <!-- 12/04/2024 -->
+* [Amiga Development](https://t.me/amigadev) (Group) <!-- 11/05/2024 -->
 * [Amiga Games](https://t.me/addlist/8dR6e03ach05Y2M0) (Group) <!-- 12/04/2024 -->
 * [Amiga Magazines | eZines | CDs](https://t.me/addlist/8dR6e03ach05Y2M0) (Group) <!-- 12/04/2024 -->
 * [AMIGA ND GAMES WORKBENCH EDITION](https://t.me/AMIGACOLLECTION) (Channel) <!-- 19/01/2024 -->
@@ -104,6 +105,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [AMSTRAD POWER compra-venta](https://t.me/AmstradPower_CompraVenta) (Group) <!-- 19/10/2023 -->
 * [AMSTRAD POWER LiliCPC](https://t.me/LiliCPC) (Group) <!-- 09/10/2023 -->
 * [AMSTRAD POWER](https://t.me/amstradpower) (Group) <!-- 04/10/2023 -->
+* [Antiwaya](https://t.me/antiwaya) (Channel) <!-- 19/05/2024 -->
 * [Aportes Comunidad Atari](https://t.me/comunidad_atari_aportes) (Group) <!-- 04/10/2023 -->
 * [Arcades RetroAl Canal Oficial](https://t.me/arcades_retroal_canal_oficial) (Channel) <!-- 17/10/2023 -->
 * [Arcadespain](https://t.me/arcadespain) (Channel) <!-- 20/10/2023 -->
@@ -215,6 +217,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [PCXT Core & HW DEV](https://t.me/PCXTCoreDEV) (Group)
 * [Pinball Edition - CoinOPS](https://t.me/PinballEdition) (Group) <!-- 04/10/2023 -->
 * [PiStorm for Amiga](https://t.me/PiStormforAmiga) (Group) <!-- 04/10/2023 -->
+* [posadasparty.com](https://t.me/posadasparty) (Group) <!-- 11/05/2024 -->
 * [Póster Retro Juegos](https://t.me/+z7BeH8IjlO5mMDc0) (Channel) <!-- 09/10/2023 -->
 * [POWADCR - Powa Digital Cassette Recorder](https://t.me/powatap_recorder) (Group) <!-- 27/01/2024 -->
 * [Preservación de Videojuegos/Videogame Preservation](https://t.me/preservacionvideojuegos) (Channel) <!-- 24/02/2024 -->
@@ -941,8 +944,10 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [datascienceinfo](https://t.me/data_science_info) (Channel)
 * [Gemini & ChatGPT | AI bot](https://t.me/AI_free_chat_bot) (Bot) <!-- 20/02/2024-->
 * [GEMINI AI ChatBot and Personal Assistant](https://t.me/GeminiTalkBot) (Bot) <!-- 20/02/2024-->
+* [GPT AI™ Bot — Suno | Sora | Dzhipiti | Midzhorni](https://t.me/Tech_GPT_Bot) (Bot) <!-- 15/05/2024-->
 * [GPT Demos](https://t.me/GPT3_Demos) (Channel)
 * [GPT-3.5 + DALL·E](https://t.me/mozg_gpt_bot) (Bot)
+* [GPT-4o Bot](https://t.me/gpt4bot) (Bot) <!-- 15/05/2024-->
 * [Learn.MachineLearning](https://t.me/LearnDotMachineLearning) (Channel)
 * [Machine learning chat](https://t.me/machinee_learning) (Group)
 * [MainConnect - ChatGpt, Midjourney, DALL-E в одном месте](https://t.me/mainconnect_bot) (Bot)
@@ -968,6 +973,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Grupo Inteligencia artificial y Machine Learning](https://t.me/artificial_inteligencia) (Group)
 * [I.A. Inteligencia Artificial](https://t.me/Inteligencia_Artificial1) (Channel)
 * [IA inteligencia artificial negocios](https://t.me/InteligenciaArtif) (Channel)
+* [IA Viajero](https://t.me/IAVIAJERO) (Channel)
 * [IActivos | Negocios Digitales con Inteligencia Artificial](https://t.me/IAbusiness247) (Group)
 * [IAE - Inteligencia Artificial España](https://t.me/IAEspana) (Channel)
 * [INTELIGENCIA ARTIFICIAL - IA GENERATIVA - IA](https://t.me/IA_INTELIGENCIA_ARTIFICIAL_AI) (Group)
