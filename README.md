@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (355 links)  
+[Retro](#Retro) (356 links)  
 [Demoscene](#Demoscene) (37 links)  
 [GameDev](#GameDev) (101 links)  
 [Programming](#Programming) (291 links)  
@@ -47,6 +47,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Commodore 64](https://t.me/thec64) (Channel) <!-- 04/10/2023 -->
 * [CPC-DDI-Revival](https://t.me/+1E57s7QRpg8wNjU8) (Group) <!-- 04/10/2023 -->
 * [DAAD Ready](https://t.me/daadready) (Group) <!-- 04/10/2023 -->
+* [DIVlike Historical Resources](https://t.me/Divlikes) (Channel) <!-- No description -->
 * [千ⓜ тσώภＳ 𝔀Ỗ𝓡ℓ๔](https://t.me/FMT_X68K) (Group) <!-- 04/10/2023 -->
 * [Furry Retro Gaming and Collecting](https://t.me/furryretrogaming) (Group) <!-- 06/12/2023 -->
 * [Game Boy Advance](https://t.me/gameboyadvancegba) (Channel) <!-- 08/10/2023 -->
