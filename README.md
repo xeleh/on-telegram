@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (356 links)  
+[Retro](#Retro) (357 links)  
 [Demoscene](#Demoscene) (37 links)  
 [GameDev](#GameDev) (101 links)  
 [Programming](#Programming) (291 links)  
@@ -290,6 +290,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [UnAmiga Español](https://t.me/joinchat/FDjURBAeiE1hmVZbMWfGWg) (Group) <!-- 04/10/2023 -->
 * [ViejuMIX](https://t.me/ViejuMIX) (Channel) <!-- 29/11/2023 -->
 * [WinUAEspañol](https://t.me/winuaespanol) (Group) <!-- 04/10/2023 -->
+* [x86coders](https://t.me/+SaIW6Z3m7Ln5QhKQ) (Group) <!-- 03/06/2024 -->
 * [Yo Tenia Un Juego](https://t.me/canalyoteniaunjuego) (Channel) <!-- 04/10/2023 -->
 * [z88dk](https://t.me/z88dk_org) (Group) <!-- 07/10/2023 -->
 * [ZX Spectrum Game Maker](https://t.me/zx_spectrum_game_maker) (Group)
