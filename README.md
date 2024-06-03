@@ -8,7 +8,7 @@ Subjects:
 [Demoscene](#Demoscene) (37 links)  
 [GameDev](#GameDev) (101 links)  
 [Programming](#Programming) (291 links)  
-[AI](#AI) (123 links)  
+[AI](#AI) (124 links)  
 
 Please feel free to create an issue or PR if you know other Telegram groups/channels (preferably those with a description) that may fit.
 
@@ -966,6 +966,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 ### Spanish
 
+* [Alejandro Martinez](https://t.me/alejandromartinez) (Channel)
 * [Big Data & Machine Learning Mallorca](https://t.me/machinelearningmallorca) (Group)
 * [Carlos Santana](https://t.me/DotCSV2) (Channel)
 * [Chat GPT 4 / 3.5 / Bing / - Español - Inteligencia Artificial - chatgpt - IA - openai - dall-e - chatgpt3 - DALL-E - y +](https://t.me/ChatGPTesp) (Group)
