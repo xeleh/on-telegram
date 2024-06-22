@@ -4,10 +4,10 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (357 links)  
-[Demoscene](#Demoscene) (37 links)  
-[GameDev](#GameDev) (101 links)  
-[Programming](#Programming) (291 links)  
+[Retro](#Retro) (358 links)  
+[Demoscene](#Demoscene) (38 links)  
+[GameDev](#GameDev) (107 links)  
+[Programming](#Programming) (297 links)  
 [AI](#AI) (124 links)  
 
 Please feel free to create an issue or PR if you know other Telegram groups/channels (preferably those with a description) that may fit.
@@ -26,6 +26,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [8bit.fm](https://t.me/bit8fm) (Channel)
 * [8bits4ever](https://t.me/eightbitsforever) (Group)
 * [A-Links](https://t.me/addlist/8dR6e03ach05Y2M0) (Group) <!-- 12/04/2024 -->
+* [Acorn Archimedes](https://t.me/acorn_archimedes) (Group) <!-- 21/06/2024 -->
 * [Amiga Development](https://t.me/amigadev) (Group) <!-- 11/05/2024 -->
 * [Amiga Games](https://t.me/addlist/8dR6e03ach05Y2M0) (Group) <!-- 12/04/2024 -->
 * [Amiga Magazines | eZines | CDs](https://t.me/addlist/8dR6e03ach05Y2M0) (Group) <!-- 12/04/2024 -->
@@ -48,7 +49,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [CPC-DDI-Revival](https://t.me/+1E57s7QRpg8wNjU8) (Group) <!-- 04/10/2023 -->
 * [DAAD Ready](https://t.me/daadready) (Group) <!-- 04/10/2023 -->
 * [DIVlike Historical Resources](https://t.me/Divlikes) (Channel) <!-- No description -->
-* [千ⓜ тσώภＳ 𝔀Ỗ𝓡ℓ๔](https://t.me/FMT_X68K) (Group) <!-- 04/10/2023 -->
+* [FM Towns world](https://t.me/FMT_X68K) (Group) <!-- 04/10/2023 -->
 * [Furry Retro Gaming and Collecting](https://t.me/furryretrogaming) (Group) <!-- 06/12/2023 -->
 * [Game Boy Advance](https://t.me/gameboyadvancegba) (Channel) <!-- 08/10/2023 -->
 * [GamesNostalgia News](https://t.me/gamesnostalgia) (Channel) <!-- 28/10/2023 -->
@@ -416,6 +417,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [hyperadio](https://t.me/hyperadio_bot) (Bot)
 * [Noncommercial Demoscene/Netlabel/Chiptune Music](https://t.me/Noncommercial_Music_Fangroup) (Channel)
 * [SizeCoding Tricks](https://t.me/sizecoding) (Channel)
+* [TIC-80 Community](https://t.me/tic80) (Group) <!-- 21/06/2024 -->
 
 ### Spanish
 
@@ -482,8 +484,11 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Indie Game Developers & Investors](https://t.me/indiegamechat) (Group)
 * [Learn it Godot](https://t.me/Learn_it_Godot) (Channel)
 * [Phaser](https://t.me/phaserjs) (Channel)
+* [Pico-8](https://t.me/pico8) (Group) <!-- No description -->
+* [Pico-8 4ALL](https://t.me/pico8_4all) (Channel) <!-- 22/06/2024 -->
 * [Professional Indiedev Week 23](https://t.me/pidw23) (Channel)
 * [r/Unity3D](https://t.me/r_Unity3D) (Channel)
+* [TIC-80 Community](https://t.me/tic80) (Group) <!-- 22/06/2024 -->
 * [Unity Asset Collection (Daily Update)](https://t.me/unity_asset_collection) (Channel)
 * [Unity Assets List](https://t.me/unity_assets_vip) (Channel)
 * [Unity Assets](https://t.me/assets_unity) (Channel)
@@ -515,6 +520,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [GODOT Español](https://t.me/ForoGodot) (Group)
 * [GranadaJam](https://t.me/joinchat/P0YpVpLzQa59gjCO) (Group)
 * [Phaserjs Recursos](https://t.me/phaserjs_recursos) (Channel)
+* [PICO-8/TIC-80 DEV y +](https://t.me/pico8dev) (Group) <!-- No description -->
 * [Programación Godot Engine](https://t.me/godotspanish) (Group)
 * [Road to IndieDevDay 24](https://t.me/+SevBtO4gm805YmY0) (Group)
 * [SGD Colabs](https://t.me/sgdcolabs) (Group)
@@ -551,6 +557,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Halloween GAMEJam](https://t.me/gamejamhackrt) (Group)
 * [Indie Cat](https://t.me/indiedevon) (Channel)
 * [Job for Gamedev](https://t.me/forgamedev) (Channel)
+* [PICO-8, Picotron Russia](https://t.me/PICO8Russia) (Group) <!-- No description -->
 * [Unity Engine: вопрос - ответ](https://t.me/unity3d_ru) (Group)
 * [Unity](https://t.me/UnityVector) (Channel)
 * [Unity3D & CG / Unity 3D](https://t.me/unity3d_usergroup) (Group)
@@ -567,6 +574,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 
 ### Portuguese
 
+* [TIC-80 4 KIDS!](https://t.me/tic804kids) (Group) <!-- No description -->
 * [UNREAL ENGINE - ARCHVIZ PT/BR](https://t.me/UnrealEngine_BR) (Group)
 
 ### Persian
@@ -645,6 +653,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Next.js](https://t.me/nextjs) (Group)
 * [PHP Index](https://t.me/PHPIndexBot) (Bot)
 * [PHP](https://t.me/thedevs_php) (Group)
+* [Pico-8](https://t.me/pico8) (Group) <!-- No description -->
+* [Pico-8 4ALL](https://t.me/pico8_4all) (Channel) <!-- 22/06/2024 -->
 * [Programmer Jokes](https://t.me/programmerjokes) (Channel)
 * [Programming Bay](https://t.me/programmingbay) (Channel)
 * [Programming Challenges - How to be a breathtaking Programmer](https://t.me/prograchallenges) (Channel)
@@ -664,6 +674,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Threejs by Bruno Simons](https://t.me/bruno_threejs) (Channel)
 * [ThreeJS Community](https://t.me/threejs_community) (Group)
 * [Threejs course](https://t.me/three_js_course) (Channel)
+* [TIC-80 Community](https://t.me/tic80) (Group) <!-- 21/06/2024 -->
 * [TypeScript](https://t.me/typescriptl) (Channel)
 * [Vim community](https://t.me/vim_devs) (Group)
 * [Why Typescript is bad](https://t.me/why_typescript_is_bad) (Channel)
@@ -767,6 +778,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [PentahoVE](https://t.me/pentahoVE) (Group)
 * [PHP - Comunidad española](https://t.me/php_es) (Group)
 * [PHP.ve](https://t.me/phpvelatam) (Group)
+* [PICO-8/TIC-80 DEV y +](https://t.me/pico8dev) (Group) <!-- No description -->
 * [PLC_ES (Programacion automatas)](https://t.me/plc_es) (Group)
 * [PloneVe](https://t.me/PloneVe) (Group)
 * [Programación Rust](https://t.me/rust_es) (Group)
@@ -862,6 +874,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Javascript](https://t.me/javascriptv] (Channel)
 * [Next.js — русскоговорящее сообщество](https://t.me/nextjs_ru) (Group)
 * [PHP Academy](https://t.me/phpshka) (Channel)
+* [PICO-8, Picotron Russia](https://t.me/PICO8Russia) (Group) <!-- No description -->
 * [Python Books](https://t.me/pythonlbooks) (Channel)
 * [Python Django Jobs](https://t.me/python_django_work) (Group)
 * [Python Jobs](https://t.me/python_djangojobs) (Channel)
@@ -890,6 +903,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Astro.js Brasil](https://t.me/astrojs_br) (Group)
 * [Next.JS - Brasil](https://t.me/nextjs_br) (Group)
 * [Three.js Brasil](https://t.me/threejsbr) (Group)
+* [TIC-80 4 KIDS!](https://t.me/tic804kids) (Group) <!-- No description -->
 
 ### Persian
 
