@@ -4,8 +4,8 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (358 links)  
-[Demoscene](#Demoscene) (38 links)  
+[Retro](#Retro) (362 links)  
+[Demoscene](#Demoscene) (39 links)  
 [GameDev](#GameDev) (107 links)  
 [Programming](#Programming) (297 links)  
 [AI](#AI) (124 links)  
@@ -67,6 +67,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [NeoGeoCFW](https://t.me/NeoGeoCFW) (Channel) <!-- 10/10/2023 -->
 * [NeptUNO+](https://t.me/neptuno_plus) (Group)
 * [Nintendo 64](https://t.me/RomSet_Nintendo64) (Channel) <!-- 13/10/2023 -->
+* [PagedOut Ezine](https://t.me/paged_out_ezine) (Channel) <!-- 03/07/2024 -->
 * [Raspberry — Retropie Batocera Recallbox](https://t.me/raspberrygamecore) (Channel)
 * [Retro Computer Furs 2.0](https://t.me/RetroComputerFursv2) (Group) <!-- 09/10/2023 -->
 * [Retro game ROMs](https://t.me/retrogamer) (Channel) <!-- 06/10/2023 -->
@@ -157,6 +158,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [El Orfanato Retro](https://t.me/+axBODZKLWdNkZWQ0) (Channel) <!-- 29/03/2024 -->
 * [EMUENET Retro Arcade Online Games, sala NETPLAY para tv box Amlogic, raspberry pi, PC win64, odroid go super & rgb 10 max](https://t.me/emuenetgroup) (Group) <!-- 18/10/2023 -->
 * [Emulacion TVBox EmuELEC.](https://t.me/Emutvbox) (Group) <!-- 04/10/2023 -->
+* [Emulador n64](https://t.me/RonsN64) (Channel) <!-- No description -->
+* [EMULADOR PLAYSTATION2](https://t.me/RonsPs2) (Channel) <!-- No description -->
 * [Emuladores — Roms — PS1 — SEGA — NEOGEO](https://t.me/Emuladoresromsneogeosega) (Channel)
 * [Ensamblador 6502](https://t.me/Ensamblador_6502) (Group) <!-- 04/10/2023 -->
 * [Ensamblador 68000](https://t.me/Ensamblador_68000) (Group) <!-- 04/10/2023 -->
@@ -238,6 +241,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Retro OFERTAS TV (Canal Retrovideojuegos TV)](https://t.me/RETROFERTASTV) (Channel) <!-- 03/02/2024 -->
 * [Retro Para Todos - Zona PS2](https://t.me/RetroParaTodosPS2) (Channel) <!-- 21/03/2024 -->
 * [Retro Para Todos - Zona PSX](https://t.me/RetroParaTodosPSX) (Channel) <!-- 21/03/2024 -->
+* [Retro PC Clasico - 80s 90s MS-DOS y Windows 95/98](https://t.me/+S77QFmGu6q8wZWJj) (Group) <!-- 07/07/2024 -->
 * [Retro PC Spain](https://t.me/Retro_PC_Spain) (Group) <!-- 04/10/2023 -->
 * [Retro PC](https://t.me/retropcmdq) (Group)
 * [RetroPunks MX](https://t.me/retropunks_mx) (Group) <!-- 21/03/2024 -->
@@ -416,6 +420,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Graffathon](https://t.me/graffathon) (Group)
 * [hyperadio](https://t.me/hyperadio_bot) (Bot)
 * [Noncommercial Demoscene/Netlabel/Chiptune Music](https://t.me/Noncommercial_Music_Fangroup) (Channel)
+* [#scenelounge](https://t.me/+y_ujgnDKWKJkZmY8) <!-- 22/06/2024 -->
 * [SizeCoding Tricks](https://t.me/sizecoding) (Channel)
 * [TIC-80 Community](https://t.me/tic80) (Group) <!-- 21/06/2024 -->
 
