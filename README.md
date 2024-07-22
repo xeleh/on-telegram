@@ -38,7 +38,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Amigacd32 | CDtv](https://t.me/addlist/8dR6e03ach05Y2M0) (Group) <!-- 12/04/2024 -->
 * [AmigaOS](https://t.me/addlist/8dR6e03ach05Y2M0) (Group) <!-- 12/04/2024 -->
 * [AmigaWareZ](https://t.me/addlist/8dR6e03ach05Y2M0) (Group) <!-- 12/04/2024 -->
-* [AmigaWarez](https://t.me/joinchat/-qIghJQ6SWk5OTU0) (Group) <!-- 04/10/2023 -->
+* ~~[AmigaWarez](https://t.me/joinchat/-qIghJQ6SWk5OTU0) (Group)~~ (Gone) <!-- 04/10/2023 -->
 * [AmigaWarez](https://t.me/joinchat/xnwDU7MYdAkxZGU0) (Channel) <!-- 04/10/2023 -->
 * [ArcadeGamesRaspberryPi](https://t.me/+WUxkfTUyozgNovlj) (Group) <!-- 10/10/2023 -->
 * [Batocera.Linux [ENG]](https://t.me/Batocera) (Group) <!-- 13/03/2024 -->
@@ -228,7 +228,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Preservación de Videojuegos/Videogame Preservation](https://t.me/preservacionvideojuegos) (Channel) <!-- 24/02/2024 -->
 * [R-R_8&16bits](https://t.me/retro_rev) (Group) <!-- 04/10/2023 -->
 * [Raspberry Pi EMULADORES Retro VIDEOJUEGOS](https://t.me/RaspberryPiEmuladores) (Group) <!-- 12/10/2023 -->
-* [Renoves & mucho más! Bricogame y Amigos](https://t.me/+aVBEIXHSEtgwNDA8) (Group) <!-- 30/10/2023 -->
+* ~~[Renoves & mucho más! Bricogame y Amigos](https://t.me/+aVBEIXHSEtgwNDA8) (Group)~~ (Gone) <!-- 30/10/2023 -->
 * [Reparaciones Retro Informática](https://t.me/RetroReparaciones) (Group) <!-- 04/02/2024 -->
 * ~~[Retro 8 bits](https://t.me/Retro8bits) (Group)~~ (Gone) <!-- 05/10/2023 -->
 * [Retro Antena](https://t.me/+6kjYHC_sN8pjNGNh) (Channel)
@@ -284,7 +284,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [SCP Rulez!](https://t.me/+NRssOzcdNWA5MDI0) (Group) <!-- 31/01/2024 -->
 * [Sega Master System y Game Gear](https://t.me/SegaMasterSystem_ESP) (Group) <!-- 08/02/2024 -->
 * [SG-1000](https://t.me/+ih6QScTUCIphNDk0) (Channel)
-* [Sharp X68000 Español](https://t.me/+7KOc69bLQBxlMTNk) (Group) <!-- 04/10/2023 -->
+* ~~[Sharp X68000 Español](https://t.me/+7KOc69bLQBxlMTNk) (Group)~~ (Gone) <!-- 04/10/2023 -->
 * [Spectrum Next ES](https://t.me/zxnext) (Group) <!-- 04/10/2023 -->
 * [Steam deck emuladores](https://t.me/steamdeckemuladores) (Channel) <!-- 16/10/2023 -->
 * [SuperJuegos30 Podcast](https://t.me/sj30podcast) (Group) <!-- 01/05/2024 -->
