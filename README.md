@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (362 links)  
+[Retro](#Retro) (364 links)  
 [Demoscene](#Demoscene) (39 links)  
 [GameDev](#GameDev) (107 links)  
 [Programming](#Programming) (297 links)  
@@ -174,6 +174,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Game Boy España](https://t.me/GameboyEs) (Group) <!-- 06/10/2023 -->
 * [Grupo abierto Retroparla](https://t.me/joinchat/A5-6EBJ-CcOr0t1ah66l_w) (Group)
 * [GRUPORetroPC](https://t.me/GRUPORetroPC) (Group) <!-- 04/10/2023 -->
+* [Hijos del retro](https://t.me/Hijosdelretro) (Group) <!-- No description -->
 * [HORUS Consolas y Roms](https://t.me/zonaretro) (Channel) <!-- 04/10/2023 -->
 * [Huelva Informatica Retro](https://t.me/huelvaretro) (Group) <!-- 04/02/2024 -->
 * [INFORMATICA RETRO Y MERCADILLO](https://t.me/inforetro) (Group) <!-- 18/11/2023 -->
@@ -261,6 +262,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [RetrocryptaRecords](https://t.me/RetrocryptaRecords) (Channel) <!-- 09/10/2023 -->
 * [RetroDev ES](https://t.me/RetroDevSpain) (Group) <!-- 04/10/2023 -->
 * [RetroFox Amstrad – CPC/GX4000](https://t.me/RetroFoxAmstrad) (Channel)
+* [Cris Retro Game (Retroid Pocket - Odin - Ambernic - SteamDeck)](https://t.me/RetroGameCRG) (Group) <!-- 23/07/2024 -->
 * [RetroGamers](https://t.me/retrogamers80) (Channel) <!-- 04/10/2023 -->
 * [RetroGamesHistory: RetroInformática y demás](https://t.me/+9F_ABE3XEjhhOTE0) (Group) <!-- 01/12/2023 -->
 * [RetroGamesHistory](https://t.me/RetroGamesHistory) (Channel) <!-- 01/12/2023 -->
