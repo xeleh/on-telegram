@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (357 links)  
+[Retro](#Retro) (358 links)  
 [Demoscene](#Demoscene) (39 links)  
 [GameDev](#GameDev) (107 links)  
 [Programming](#Programming) (297 links)  
@@ -91,6 +91,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 ### Spanish
 
 * ~~[../repositorio [ag+]](https://t.me/agplus_repositorio) (Group)~~ (Gone) <!-- 15/02/2024 -->
+* [20.000 Juegos para el ZX-SPECTRUM ... Canal de AYUDA de la mejor RECOPILACIÓN Para TODOS los WINDOWS 32/64 Bits !](https://t.me/zx_spectrum_20000) (Group) <!-- 15/11/2024 -->
 * [8 bit Ordenadores: C64, CPC, Spectrum, Oric, MSX, Atari, etc.](https://t.me/ord8bit) (Group) <!-- 04/10/2023 -->
 * [AbadíaRetro](https://t.me/abadiaretro) (Group)
 * [ABANDONTECA](https://t.me/ABANDONTECA) (Channel) <!-- 04/10/2023 -->
