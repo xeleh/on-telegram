@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (358 links)  
+[Retro](#Retro) (361 links)  
 [Demoscene](#Demoscene) (39 links)  
 [GameDev](#GameDev) (107 links)  
 [Programming](#Programming) (297 links)  
@@ -153,6 +153,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [DAAD Ready](https://t.me/daadready) (Group) <!-- 04/10/2023 -->
 * [DEZ80 - Dominando Ensamblador del Z80](https://t.me/asmz80) (Group) <!-- 04/10/2023 -->
 * [El almacen AbadiaRetro](https://t.me/alamacen) (Channel)
+* [El chat de Retroplayingbcn - Videojuegos retro](https://t.me/+RI0Qirn291kOIJtq) (Group) <!-- 01/05/2024 -->
 * [El Hogar del MSX](https://t.me/el_hogar_del_msx) (Group) <!-- 04/10/2023 -->
 * [El laberinto de PacMan](https://t.me/laberintopacman) (Group) <!-- 04/10/2023 -->
 * ~~[El mundo del Spectrum Podcast](https://t.me/joinchat/CLSbG1jr4OmhoKFiR2_UVQ) (Group)~~ (Expired) <!-- 08/10/2023 -->
@@ -188,6 +189,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [MagicX XU10 Español](https://t.me/+QTwF2t_iQtJjY2Fk) (Group) <!-- 01/04/2024 -->
 * [MAME32 OFICIAL - EMULADOR DE ARCADES](https://t.me/MAME32DESCARGAS) (Channel) <!-- 22/10/2023 -->
 * [Mega Drive/Genesis ROMs](https://t.me/MegaDriveROMsGenesis) (Channel) <!-- 05/10/2023 -->
+* [Mercadillo retro Birdmarket](https://t.me/mercadilloretro) (Group) <!-- 05/01/2025 -->
 * [MiNi PC's para GAMING & Emulación, Testing & recomendaciónes](https://t.me/minipcgaming) (Group)
 * [MiST / Mistica / SiDi](https://t.me/joinchat/KSh_qRCyjLDELhkMgHixtg) (Group) <!-- 10/10/2023 -->
 * [MiSTer FPGA Español](https://t.me/misterfpga) (Group)
@@ -206,7 +208,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Mongo Nintendo 64](https://t.me/+n_NwZ_bqgOwzNmQ0) (Channel)
 * [Mongo Saturn](https://t.me/+m0l9O9HazXwxNTc0) (Channel)
 * [Mongo SNES](https://t.me/+ZmVXH5bdqxFmMWE0) (Channel)
-* ~~[MSDOS CLUB](https://t.me/+O4IkZHZXZ9s5ZTc0) (Group)~~ (Expired) <!-- 06/10/2023 -->
+* [MSDOS CLUB](https://t.me/+00QiJVtCfBUwZTA0) (Group) <!-- 05/01/2025 -->
 * [MSX Boixos Club](https://t.me/msxboixosclub) (Group) <!-- 04/10/2023 -->
 * [MSX BTV Videos](https://t.me/msxbtv) (Channel) <!-- 04/10/2023 -->
 * [MSX Grupo 968](https://t.me/msxgrupo968) (Group) <!-- 04/10/2023 -->
@@ -216,11 +218,12 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Museo de la Preservación Digital](https://t.me/mupredi) (Group) <!-- 18/11/2023 -->
 * [Museo del Videojuego - (Repositorio Digital)](https://t.me/museodelvideojuego) (Channel) <!-- 07/10/2023 -->
 * ~~[N-GO (a ZX Spectrum Next clone)](https://t.me/+SWUgrvR6LTBEzeYp) (Group)~~ (Expired) <!-- 09/10/2023 -->
+* [OFERTAS BERRAKAS DEL CANAL TUBERVIEJUNER](https://t.me/ofertastuberviejuner) (Channel) <!-- 05/01/2025 -->
 * [OFERTAS SELECTAS: RETROPIXELADOS](https://t.me/retropixelados) (Channel) <!-- 28/03/2024 -->
 * [OGA-OGS / RK2020 / RGB10-20-MAX / RG351P(M)-V / CANIFORCE](https://t.me/OdroidGoAdvance) (Group)
 * [oldbits zone](https://t.me/oldbitszone) (Group) <!-- 04/10/2023 -->
 * [Oyentes de conexión MSX](https://t.me/+SOGAGW5mG2hlZmI0) (Group) <!-- 04/10/2023 -->
-* [Patrulla Retro](https://t.me/+DGz50aD2Wo04M2Fk) (Group) <!-- 01/04/2024 -->
+* ~~[Patrulla Retro](https://t.me/+DGz50aD2Wo04M2Fk) (Group)~~ (Gone) <!-- 01/04/2024 -->
 * [PCXT Core & HW DEV](https://t.me/PCXTCoreDEV) (Group)
 * [Pinball Edition - CoinOPS](https://t.me/PinballEdition) (Group) <!-- 04/10/2023 -->
 * [PiStorm for Amiga](https://t.me/PiStormforAmiga) (Group) <!-- 04/10/2023 -->
