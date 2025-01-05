@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (361 links)  
+[Retro](#Retro) (362 links)  
 [Demoscene](#Demoscene) (39 links)  
 [GameDev](#GameDev) (107 links)  
 [Programming](#Programming) (297 links)  
@@ -103,6 +103,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [amigagames plus (oficial)](https://t.me/amigagamesplus) (Channel) <!-- 14/01/2024 -->
 * [amigagames](https://t.me/amigagames) (Group) <!-- 04/10/2023 -->
 * ~~[amigamarkt](https://t.me/amigamarkt) (Group)~~ (Gone)<!-- 04/10/2023 -->
+* [Amigatronics COMMUNITY](https://t.me/amigatronics_community) (Group) <!-- 05/01/2025 -->
 * [Amigawave audios](https://t.me/amigawaveaudios) (Channel)
 * [AminetOS](https://t.me/AminetOS) (Group) <!-- 04/10/2023 -->
 * [Amstrad Eterno](https://t.me/amstradeterno) (Group)
