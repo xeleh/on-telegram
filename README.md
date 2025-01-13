@@ -4,7 +4,7 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (362 links)  
+[Retro](#Retro) (365 links)  
 [Demoscene](#Demoscene) (39 links)  
 [GameDev](#GameDev) (107 links)  
 [Programming](#Programming) (297 links)  
@@ -164,6 +164,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Emulador n64](https://t.me/RonsN64) (Channel) <!-- No description -->
 * [EMULADOR PLAYSTATION2](https://t.me/RonsPs2) (Channel) <!-- No description -->
 * [Emuladores — Roms — PS1 — SEGA — NEOGEO](https://t.me/Emuladoresromsneogeosega) (Channel)
+* [Emuladores y ROMs](https://t.me/chatemuladores) (Group) <!-- 01/11/2025 -->
 * [Ensamblador 6502](https://t.me/Ensamblador_6502) (Group) <!-- 04/10/2023 -->
 * [Ensamblador 68000](https://t.me/Ensamblador_68000) (Group) <!-- 04/10/2023 -->
 * [Ensamblador Z80 (ZX Spectrum, Amstrad, MSX y más)](https://t.me/EnsambladorZXSpectrum) (Group) <!-- 04/10/2023 -->
@@ -218,6 +219,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Museo de la Informática](https://t.me/museodelainformatica) (Channel) <!-- 06/10/2023 -->
 * [Museo de la Preservación Digital](https://t.me/mupredi) (Group) <!-- 18/11/2023 -->
 * [Museo del Videojuego - (Repositorio Digital)](https://t.me/museodelvideojuego) (Channel) <!-- 07/10/2023 -->
+* [MyCPC Project](https://t.me/+WzTFpchJnFsyM2E0) (Group) <!-- 11/05/2025 -->
 * ~~[N-GO (a ZX Spectrum Next clone)](https://t.me/+SWUgrvR6LTBEzeYp) (Group)~~ (Expired) <!-- 09/10/2023 -->
 * [OFERTAS BERRAKAS DEL CANAL TUBERVIEJUNER](https://t.me/ofertastuberviejuner) (Channel) <!-- 05/01/2025 -->
 * [OFERTAS SELECTAS: RETROPIXELADOS](https://t.me/retropixelados) (Channel) <!-- 28/03/2024 -->
@@ -232,6 +234,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Póster Retro Juegos](https://t.me/+z7BeH8IjlO5mMDc0) (Channel) <!-- 09/10/2023 -->
 * [POWADCR - Powa Digital Cassette Recorder](https://t.me/powatap_recorder) (Group) <!-- 27/01/2024 -->
 * [Preservación de Videojuegos/Videogame Preservation](https://t.me/preservacionvideojuegos) (Channel) <!-- 24/02/2024 -->
+* [Proyecto Phoenix msx](https://t.me/+4OezTNbLaQc3N2Fk) <!-- 11/01/2025 -->
 * [R-R_8&16bits](https://t.me/retro_rev) (Group) <!-- 04/10/2023 -->
 * [Raspberry Pi EMULADORES Retro VIDEOJUEGOS](https://t.me/RaspberryPiEmuladores) (Group) <!-- 12/10/2023 -->
 * ~~[Renoves & mucho más! Bricogame y Amigos](https://t.me/+aVBEIXHSEtgwNDA8) (Group)~~ (Gone) <!-- 30/10/2023 -->
