@@ -98,7 +98,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * ~~[Amazon fire TV Retro Games](https://t.me/FireTvRetroEmulacion) (Group)~~ (Taken) <!-- 17/02/2024 -->
 * [amiga pistorm](https://t.me/pistorm) (Group) <!-- 24/11/2023 -->
 * [Amiga Storage](https://t.me/+41X8i7iM4kRjYWRk) (Group) <!-- 04/10/2023 -->
-* ~~[AMIGA](https://t.me/+xWW2dZGK6gE1NWZk) (Channel)~~  (Gone)<!-- 04/10/2023 -->
+* [AMIGA](https://t.me/+bDgLv_uuRKQcUZm4) (Group) <!-- 04/10/2023;13/01/2025 -->
 * [amigafsx86 / batocerag+](https://t.me/amigafsx86) (Group) <!-- 04/10/2023 -->
 * [amigagames plus (oficial)](https://t.me/amigagamesplus) (Channel) <!-- 14/01/2024 -->
 * [amigagames](https://t.me/amigagames) (Group) <!-- 04/10/2023 -->
@@ -108,7 +108,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [AminetOS](https://t.me/AminetOS) (Group) <!-- 04/10/2023 -->
 * [Amstrad Eterno](https://t.me/amstradeterno) (Group)
 * [AMSTRAD POWER compra-venta](https://t.me/AmstradPower_CompraVenta) (Group) <!-- 19/10/2023 -->
-* [AMSTRAD POWER LiliCPC](https://t.me/LiliCPC) (Group) <!-- 09/10/2023 -->
+* ~~[AMSTRAD POWER LiliCPC](https://t.me/LiliCPC) (Group)~~ (Gone) <!-- 09/10/2023 -->
 * [AMSTRAD POWER](https://t.me/amstradpower) (Group) <!-- 04/10/2023 -->
 * [Antiwaya](https://t.me/antiwaya) (Channel) <!-- 19/05/2024 -->
 * [Aportes Comunidad Atari](https://t.me/comunidad_atari_aportes) (Group) <!-- 04/10/2023 -->
@@ -188,7 +188,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [LRC Emulación y Retro](https://t.me/LRCcoinOps) (Group) (Abandoned)
 * [Macintosh classic 68k y PPC](https://t.me/mac68kPPC) (Group) <!-- 04/10/2023 -->
 * [MagicX XU10 Español](https://t.me/+QTwF2t_iQtJjY2Fk) (Group) <!-- 01/04/2024 -->
-* [MAME32 OFICIAL - EMULADOR DE ARCADES](https://t.me/MAME32DESCARGAS) (Channel) <!-- 22/10/2023 -->
+* ~~[MAME32 OFICIAL - EMULADOR DE ARCADES](https://t.me/MAME32DESCARGAS) (Channel)~~ (Gone)  <!-- 22/10/2023 -->
 * [Mega Drive/Genesis ROMs](https://t.me/MegaDriveROMsGenesis) (Channel) <!-- 05/10/2023 -->
 * [Mercadillo retro Birdmarket](https://t.me/mercadilloretro) (Group) <!-- 05/01/2025 -->
 * [MiNi PC's para GAMING & Emulación, Testing & recomendaciónes](https://t.me/minipcgaming) (Group)
@@ -250,7 +250,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Retro PC Clasico - 80s 90s MS-DOS y Windows 95/98](https://t.me/+S77QFmGu6q8wZWJj) (Group) <!-- 07/07/2024 -->
 * [Retro PC Spain](https://t.me/Retro_PC_Spain) (Group) <!-- 04/10/2023 -->
 * [Retro PC](https://t.me/retropcmdq) (Group)
-* [RetroPunks MX](https://t.me/retropunks_mx) (Group) <!-- 21/03/2024 -->
+* ~~[RetroPunks MX](https://t.me/retropunks_mx) (Group)~~ (Gone) <!-- 21/03/2024 -->
 * [RETRO-ARCADE ELX](https://t.me/retroarcadeelx) (Channel) <!-- 25/10/2023 -->
 * [Retro-Arcade EmulOS Team](https://t.me/Retro_Arcade_EmulOs_Team) (Group)
 * [RETRO4BARTOPS](https://t.me/RetroBartops) (Group)
