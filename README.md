@@ -4,10 +4,10 @@ A curated list of Telegram groups/channels related to some subjects of my intere
 
 Subjects:
 
-[Retro](#Retro) (365 links)  
+[Retro](#Retro) (367 links)  
 [Demoscene](#Demoscene) (39 links)  
 [GameDev](#GameDev) (107 links)  
-[Programming](#Programming) (297 links)  
+[Programming](#Programming) (298 links)  
 [AI](#AI) (124 links)  
 
 Please feel free to create an issue or PR if you know other Telegram groups/channels (preferably those with a description) that may fit.
@@ -300,6 +300,8 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [SuperJuegos30 Podcast](https://t.me/sj30podcast) (Group) <!-- 01/05/2024 -->
 * [TELE DE TUBO](https://t.me/teledetubo) (Group) <!-- 25/02/2024 -->
 * ~~[Testeo Amazon fire TV Retro Games (juegos y apps)](https://t.me/+SryM_Jvhy2w1ODNh) (Channel)~~ (Expired) <!-- 27/02/2024 -->
+* [The Spectrum ESP](https://t.me/TheSpectrumESP) (Group) <!-- 20/01/2025 
+* [The Spectrum Spain (España)](https://t.me/thespectrumespana) (Group) <!-- 19/01/2025 -->
 * [Trimui](https://t.me/trimui) (Channel) <!-- No description -->
 * [Tugurio Computacional](https://t.me/tuguriocomputacional) (Channel) <!-- 04/10/2023 -->
 * [UnAmiga Español](https://t.me/joinchat/FDjURBAeiE1hmVZbMWfGWg) (Group) <!-- 04/10/2023 -->
@@ -713,6 +715,7 @@ Please feel free to create an issue or PR if you know other Telegram groups/chan
 * [Breakdance Builder ES & EN](https://t.me/breakdance_builder_fans) (Channel)
 * [Bricks Builder | WordPress](https://t.me/BricksBuilder) (Group)
 * [C / C++](https://t.me/programacionc) (Group)
+* [C & C++](https://t.me/programacioncycpp) (Group) <!-- 19/01/2025 -->
 * [C++ Venezuela](https://t.me/joinchat/BrCK8gmzgY_A2-Z2qg_MRg) (Group)
 * [Cartel Wordpress](https://t.me/cartelwordpress) (Group)
 * [Ciencia de Datos y Machine Learning: R, Python y Julia](https://t.me/datascienceml_rstatspythonjulia) (Group)
